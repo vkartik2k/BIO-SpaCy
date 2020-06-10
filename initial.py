@@ -1,4 +1,3 @@
-
 # Convert .tsv file to dataturks json format. 
 import json
 import logging

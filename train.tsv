@@ -16,6 +16,7 @@ back	O
 home	O
 to	O
 GA	B-geo-loc
+.	O
 It	O
 sucks	O
 not	O
@@ -31,6 +32,7 @@ good	O
 to	O
 be	O
 home	O
+.	O
 Time	O
 to	O
 start	O
@@ -40,6 +42,7 @@ next	O
 Disney	O
 World	O
 trip	O
+.	O
 '	O
 Breaking	O
 Dawn	O
@@ -71,11 +74,13 @@ day-to-day	O
 work	O
 as	O
 well	O
+.	O
 Even	O
 just	O
 to	O
 use	O
 it	O
+.	O
 @Carr0t	O
 aye	O
 been	O
@@ -111,6 +116,7 @@ RT	O
 OF	O
 FUCKING	O
 COURSE	O
+.	O
 I	O
 GET	O
 HOME	O
@@ -123,10 +129,12 @@ THE	O
 MOTHER	O
 FUCKING	O
 XBOX	O
+.	O
 Worst	O
 fucking	O
 day	O
 ever	O
+.	O
 I	O
 haven't	O
 driven	O
@@ -146,18 +154,23 @@ beautiful	O
 the	O
 drive	O
 is	O
+.	O
 @daraobriain	O
 hmmm	O
+.	O
 Cant	O
 wait	O
+.	O
 Comin	O
 on	O
 Thursday	O
+.	O
 First	O
 time	O
 to	O
 the	O
 Apollo	O
+.	O
 RT	O
 @Hatshepsutely	O
 :	O
@@ -182,6 +195,7 @@ of	O
 a	O
 rasta	O
 wig)	O
+.	O
 &lt;	O
 3333	O
 When	O
@@ -198,10 +212,13 @@ movies	O
 on	O
 my	O
 laptop	O
+.	O
 Yep	O
+.	O
 No	O
 sleep	O
 again	O
+.	O
 Time	O
 to	O
 take	O
@@ -216,6 +233,7 @@ be	O
 a	O
 looong	O
 day	O
+.	O
 'On	O
 set	O
 filming	O
@@ -225,6 +243,7 @@ Rainy	O
 Days	O
 "	O
 video	O
+.	O
 This	O
 is	O
 the	O
@@ -264,6 +283,7 @@ his	O
 feelings	O
 are	O
 hurt	O
+...	O
 i	O
 like	O
 him	O
@@ -299,6 +319,7 @@ plot	O
 against	O
 judge	O
 http://bit.ly/agB9iL	O
+...	O
 around	O
 all	O
 day	O
@@ -329,6 +350,7 @@ OPPOSITE	O
 of	O
 yesterday	O
 -	O
+.	O
 -	O
 #SIUC	O
 Whats	O
@@ -356,6 +378,7 @@ Found	O
 it	O
 at	O
 http://twitrounds.com	O
+..	O
 September	O
 17	O
 ,	O
@@ -368,12 +391,14 @@ to	O
 get	O
 some	O
 sleep	O
+.	O
 been	O
 out	O
 from	O
 4pm	O
 till	O
 now	O
+.	O
 'Come	O
 to	O
 "	O
@@ -393,6 +418,7 @@ pm	O
 to	O
 04:00	O
 pm	O
+.	O
 We	O
 are	O
 playing	O
@@ -400,6 +426,7 @@ for	O
 the	O
 61	O
 Roadhouse	O
+...	O
 http://fb.me/G1FbJGw1'	O
 RT	O
 @OMBieberJokes	O
@@ -417,6 +444,7 @@ Me	O
 No	O
 Little	O
 Girl	O
+...	O
 You	O
 Only	O
 Use	O
@@ -431,6 +459,7 @@ Are	O
 Referring	O
 To	O
 Just	O
+...	O
 Today	O
 =	O
 Morton	O
@@ -452,6 +481,7 @@ other	O
 half	O
 in	O
 mv	B-geo-loc
+...	O
 where	O
 u	O
 been	O
@@ -532,10 +562,12 @@ it	O
 a	O
 haze	O
 now	O
+.	O
 Just	O
 be	O
 on	O
 time	O
+.	O
 It	O
 's	O
 not	O
@@ -543,6 +575,7 @@ like	O
 its	O
 a	O
 surprise	O
+.	O
 he	O
 likes	O
 prince	O
@@ -559,6 +592,7 @@ found	O
 my	O
 soul	O
 mate	O
+.	O
 Come	O
 to	O
 "	O
@@ -579,6 +613,7 @@ am	O
 to	O
 01:00	O
 pm	O
+.	O
 Mark	O
 the	O
 Date	O
@@ -595,6 +630,7 @@ few	O
 shows	O
 over	O
 here	O
+.	O
 Great	O
 chef	O
 ,	O
@@ -614,6 +650,7 @@ days	O
 ago	O
 ,	O
 aww	O
+.	O
 I'm	O
 tired	O
 after	O
@@ -630,6 +667,7 @@ The	B-geo-loc
 Bay	I-geo-loc
 on	O
 Sunday	O
+...	O
 well	O
 ,	O
 weather.com	O
@@ -641,6 +679,7 @@ Whatever	O
 ,	O
 same	O
 thing	O
+.	O
 cant	O
 wait	O
 to	O
@@ -664,6 +703,7 @@ Weekend	O
 Read	O
 For	O
 Sept	O
+.	O
 17th	O
 2010	O
 -	O
@@ -679,8 +719,11 @@ What	O
 a	O
 productive	O
 day	O
+.	O
 Not	O
+.	O
 right	O
+.	O
 Five	O
 Star	O
 Day	O
@@ -690,6 +733,7 @@ in	O
 may	O
 this	O
 year	O
+.	O
 why	O
 haven't	O
 ANY	O
@@ -719,6 +763,7 @@ me	O
 and	O
 @shoewolf	O
 up	O
+.	O
 Let	O
 me	O
 know	O
@@ -732,6 +777,7 @@ info	O
 has	O
 been	O
 sent	O
+.	O
 is	O
 up	O
 and	O
@@ -746,6 +792,7 @@ punt	O
 until	O
 Stakes	O
 Day	O
+...	O
 #sadbuttrue	O
 @alealshinn	O
 @BambingBling	O
@@ -760,6 +807,7 @@ they	O
 have	O
 messed	O
 up	O
+....	O
 about	O
 to	O
 give	O
@@ -801,12 +849,14 @@ in	O
 is	O
 still	O
 defendi	O
+...	O
 @coulditbeJenG	O
 It	O
 was	O
 20	O
 years	O
 ago	O
+.	O
 They're	O
 coming	O
 after	O
@@ -816,6 +866,7 @@ I	O
 just	O
 know	O
 it	O
+.	O
 @peasmom3	O
 and	O
 as	O
@@ -851,6 +902,7 @@ course	O
 I	O
 was	O
 stunned	O
+.	O
 This	O
 ,	O
 after	O
@@ -860,6 +912,7 @@ was	O
 an	O
 inanimate	O
 object	O
+.	O
 Halo	O
 Reach	O
 was	O
@@ -912,6 +965,7 @@ spot	O
 to	O
 open	O
 for	O
+...	O
 http://fb.me/IxhGnUhs	O
 RT	O
 @eljmayes	O
@@ -932,6 +986,7 @@ in	O
 the	O
 last	O
 week	O
+.	O
 @Zerinaakers	O
 talking	O
 about	O
@@ -970,6 +1025,7 @@ Dick	O
 Carpet	O
 next	O
 T	O
+...	O
 http://conta.cc/ap95gL	O
 via	O
 #constantcontact	O
@@ -990,6 +1046,7 @@ O	O
 and	O
 move	O
 on	O
+..	O
 [Haters	O
 u	O
 can	O
@@ -1003,6 +1060,7 @@ Wat	O
 a	O
 day	O
 today	O
+.	O
 But	O
 oh	O
 well	O
@@ -1021,6 +1079,7 @@ for	O
 the	O
 first	O
 time	O
+.....	O
 its	O
 the	O
 only	O
@@ -1032,6 +1091,7 @@ me	O
 wanna	O
 wear	O
 lashes	O
+.	O
 realy	O
 bored	O
 smack	O
@@ -1092,6 +1152,7 @@ there	O
 is	O
 no	O
 crisis	O
+.	O
 @sfgiantsfan55	O
 omg	O
 Todo	O
@@ -1117,9 +1178,11 @@ want	O
 the	O
 new	O
 one	O
+.	O
 alejate	O
 de	O
 mi	O
+...	O
 Resources	O
 -	O
 Tweets	O
@@ -1128,9 +1191,11 @@ the	O
 Week	O
 (	O
 9.13	O
+.	O
 10	O
 -	O
 9.17	O
+.	O
 10)	O
 :	O
 This	O
@@ -1145,6 +1210,7 @@ cool	O
 inspiration	O
 ,	O
 coupl	O
+...	O
 http://bit.ly/95X8G5	O
 well	O
 poolnewsfeed	O
@@ -1167,6 +1233,7 @@ it	O
 home	O
 in	O
 time	O
+.	O
 :)	O
 When	O
 TIFF	O
@@ -1199,6 +1266,7 @@ autographs	O
 @	O
 the	O
 mall	O
+.	O
 I	O
 see	O
 her	O
@@ -1217,6 +1285,7 @@ Friday	O
 @TheGayDragon	O
 @RealmOfMachias	O
 Sir	O
+..	O
 I	O
 SWEAR	O
 I	O
@@ -1228,11 +1297,14 @@ with	O
 it	O
 this	O
 time	O
+..	O
 honest	O
+..	O
 please	O
 don't	O
 hurt	O
 me	O
+..	O
 RT	O
 @Quotealicious	O
 :	O
@@ -1259,6 +1331,7 @@ mind	O
 Exclusive	O
 :	O
 Rep	O
+.	O
 Steve	O
 King	O
 on	O
@@ -1278,6 +1351,7 @@ the	O
 Tenth	O
 Amendment	O
 in	O
+...	O
 http://bit.ly/cYITA8	O
 @TimothyJMoore	O
 Thnx	O
@@ -1337,6 +1411,7 @@ afternoon	O
 Go	O
 Reivers	O
 !	O
+...	O
 asked	O
 me	O
 a	O
@@ -1355,6 +1430,7 @@ fucking	O
 donuts	O
 you	O
 donut	O
+...	O
 have	O
 a	O
 nice	O
@@ -1415,6 +1491,7 @@ disaster	O
 relief	O
 tomorrow	O
 10-Dec	O
+.	O
 Sign	O
 up	O
 on	O
@@ -1438,6 +1515,7 @@ them	O
 with	O
 new	O
 friends	O
+.	O
 RT	O
 @rainnwilson	O
 :	O
@@ -1474,6 +1552,7 @@ been	O
 about	O
 10	O
 days	O
+.	O
 Balloon	O
 glowing	O
 ?	O
@@ -1498,6 +1577,7 @@ corner	O
 ,	O
 Kirkwood	B-geo-loc
 &amp;	O
+...	O
 http://fb.me/I6SZ52nW	O
 All	O
 caught	O
@@ -1593,13 +1673,16 @@ Friends	O
 Latest	O
 Top	O
 Ne	O
+...	O
 http://adpro.co/aQxQtY	O
 @snufflesgirl25	O
 @mo9x	O
 Well	O
+.	O
 just	O
 beg	O
 @100monkeysmusic	O
+..	O
 PLEASE	O
 come	O
 to	O
@@ -1641,6 +1724,7 @@ BCAT	O
 feat	O
 @BlissyCakes	O
 @YaGirlNicolette	O
+...	O
 ahhh	O
 the	O
 disapointment	O
@@ -1651,17 +1735,20 @@ them	O
 awkward	O
 bait	O
 moments	O
+.	O
 CLUB	O
 BLU	O
 tonite	O
+......	O
 90	O
 's	O
 music	O
+..	O
 oldskool	O
 night	O
 wiith	O
-dj	Oartist
-finese	Oartist
+dj	O
+finese	O
 ooo	O
 @claireymarsh	O
 where	O
@@ -1671,6 +1758,7 @@ when	O
 i	O
 need	O
 you	O
+..	O
 @iDame2Please	O
 yea	O
 u	O
@@ -1722,10 +1810,12 @@ party	O
 Linny	O
 Linny	O
 Linny	O
+.	O
 U	O
 are	O
 something	O
 lady	O
+...	O
 Well	O
 that	O
 story	O
@@ -1782,6 +1872,7 @@ is	O
 super	O
 expensive	O
 AAAAAHHH	O
+.	O
 x_x	O
 *freakingoutkhsf*	O
 'Was	O
@@ -1838,6 +1929,7 @@ videos	O
 its	O
 okay	O
 then	O
+..	O
 make	O
 it	O
 when	O
@@ -1870,6 +1962,7 @@ the	O
 laptop	O
 ,	O
 check	O
+.	O
 Time	O
 to	O
 settle	O
@@ -1908,6 +2001,7 @@ subject	O
 ,	O
 yet	O
 so	O
+...	O
 http://bit.ly/9XQgSr	O
 today	O
 just	O
@@ -1949,9 +2043,9 @@ What	O
 You	O
 Give	O
 ~	O
-Zac	Oartist
-Brown	Oartist
-Band	Oartist
+Zac	O
+Brown	O
+Band	O
 40	O
 days	O
 in	O
@@ -1970,6 +2064,7 @@ new	O
 $	O
 18.98	O
 $	O
+...	O
 http://amzn.to/9Cfkpc	O
 Last	O
 stop	O
@@ -1985,6 +2080,7 @@ Plus	O
 http://4sq.com/7RDhgd	O
 its	O
 friday	O
+.	O
 but	O
 instead	O
 of	O
@@ -1992,6 +2088,7 @@ partying	O
 or	O
 doing	O
 homework	O
+.	O
 I'm	O
 going	O
 to	O
@@ -2028,6 +2125,7 @@ our	O
 10th	O
 grade	O
 year	O
+.	O
 smh	O
 I	O
 think	O
@@ -2044,11 +2142,12 @@ to	O
 hang	O
 out	O
 with	O
-the	Oartist
-Rza	Oartist
+the	O
+Rza	O
 for	O
 a	O
 day	O
+.	O
 You	O
 remeber	O
 we	O
@@ -2085,6 +2184,7 @@ world	O
 twice	O
 this	O
 week	O
+.	O
 Got	O
 3	O
 more	O
@@ -2129,6 +2229,7 @@ group	O
 wrong	O
 in	O
 WoW	O
+.	O
 Sometimes	O
 you	O
 don't	O
@@ -2141,11 +2242,14 @@ you're	O
 dissin	O
 '	O
 him	O
+.	O
 Oops	O
+.	O
 Kristen	O
 is	O
 MY	O
 LIFE	O
+.	O
 She	O
 made	O
 me	O
@@ -2164,10 +2268,12 @@ her	O
 she	O
 fixed	O
 me	O
+.	O
 And	O
 so	O
 did	O
 Robert	O
+.	O
 Wtf	O
 do	O
 i	O
@@ -2226,6 +2332,7 @@ had	O
 a	O
 huge	O
 imagination	O
+.	O
 Now	O
 I	O
 can't	O
@@ -2237,6 +2344,7 @@ story	O
 for	O
 english	O
 class	O
+.	O
 #HeyThatsSoTrue	O
 Your	O
 paycheck	O
@@ -2261,6 +2369,7 @@ cuts	O
 slips	O
 past	O
 November	O
+.	O
 http://bit.ly/9y8fdS	O
 Dollar	O
 steady	O
@@ -2283,6 +2392,7 @@ highest	O
 in	O
 a	O
 month	O
+...	O
 http://bit.ly/a0F3dO	O
 Greek	O
 Festival	O
@@ -2297,6 +2407,7 @@ baq	O
 da	O
 fuq	O
 up	O
+.	O
 I	O
 have	O
 to	O
@@ -2306,7 +2417,9 @@ Michael	O
 and	O
 his	O
 friend	O
+...	O
 JOY	O
+.	O
 #NAME?	O
 It	O
 's	O
@@ -2380,19 +2493,23 @@ few	O
 moments	O
 to	O
 research	O
+.	O
 BUT	O
 the	O
 answer	O
 IS	O
 on	O
 JavaMonkeys	O
+.	O
 com	O
+.	O
 So	O
 ,	O
 we	O
 will	O
 pick	O
 a	O
+...	O
 http://fb.me/GTRhPujh	O
 I	O
 just	O
@@ -2438,8 +2555,8 @@ of	O
 the	O
 Day	O
 :	O
-Blonde	Oartist
-Redhead	Oartist
+Blonde	O
+Redhead	O
 :	O
 A	O
 Different	O
@@ -2462,6 +2579,7 @@ BREATH	O
 @starflower1204	O
 Ahhh	O
 okay	O
+.	O
 I've	O
 never	O
 ordered	O
@@ -2473,6 +2591,7 @@ I	O
 have	O
 NO	O
 idea	O
+.	O
 just	O
 say	O
 I	O
@@ -2502,6 +2621,7 @@ tonight	O
 &lt;	O
 every	O
 week	O
+.	O
 Lets	O
 get	O
 it	O
@@ -2565,6 +2685,7 @@ use	O
 of	O
 the	O
 filter	O
+..	O
 Please	O
 don't	O
 fail	O
@@ -2580,6 +2701,7 @@ would	O
 advise	O
 against	O
 that	O
+.	O
 @Johnterrysbabe	O
 lol	O
 I'm	O
@@ -2657,6 +2779,7 @@ when	O
 you	O
 are	O
 coming	O
+.	O
 #FullHouse	O
 u	O
 kno	O
@@ -2740,6 +2863,7 @@ nieuwe	O
 serie	O
 in	O
 november	O
+..	O
 (geloof	O
 ik	O
 )	O
@@ -2749,6 +2873,7 @@ alles	O
 gezien	O
 via	O
 uitzendinggemist	O
+.	O
 RT	O
 @BieberPledge	O
 :	O
@@ -2777,8 +2902,8 @@ that	O
 she	O
 's	O
 missing	O
-Cowboy	Oartist
-Mouth	Oartist
+Cowboy	O
+Mouth	O
 tonight	O
 :(	O
 @CWWatson	O
@@ -2804,6 +2929,7 @@ kids	O
 thro	O
 the	O
 day	O
+.	O
 Beggers	O
 belief	O
 RT	O
@@ -2834,8 +2960,10 @@ used	O
 to	O
 call	O
 it	O
+...	O
 George	O
 N	O
+.	O
 Parks	O
 ,	O
 UMass	O
@@ -2850,6 +2978,7 @@ Ohio	B-geo-loc
 :	O
 George	O
 N	O
+.	O
 Parks	O
 ,	O
 for	O
@@ -2857,6 +2986,7 @@ for	O
 years	O
 the	O
 dire	O
+...	O
 http://tinyurl.com/2femvgq	O
 For	O
 code	O
@@ -2884,6 +3014,7 @@ been	O
 about	O
 10	O
 days	O
+.	O
 have	O
 to	O
 sleep	O
@@ -2902,6 +3033,7 @@ my	O
 kuya	O
 's	O
 driver	O
+...	O
 MOSH	O
 PIT	O
 VIP	O
@@ -2960,6 +3092,7 @@ u	O
 remembered	O
 me	O
 :D	O
+...	O
 When	O
 u	O
 c	O
@@ -3004,6 +3137,7 @@ tonight	O
 &lt;	O
 every	O
 week	O
+.	O
 Lets	O
 get	O
 it	O
@@ -3026,6 +3160,7 @@ very	O
 poor	O
 turnaround	O
 time	O
+.	O
 charging	O
 hefty	O
 fee	O
@@ -3040,6 +3175,7 @@ worst	O
 movie	O
 in	O
 years	O
+...	O
 Piranha	O
 3D	O
 just	O
@@ -3048,11 +3184,13 @@ the	O
 limits	O
 of	O
 crappyness	O
+.	O
 |	O
 Glad	O
 you	O
 enjoyed	O
 it	O
+.	O
 Do	O
 n't	O
 miss	O
@@ -3061,6 +3199,7 @@ Half	O
 Way	O
 to	O
 St	O
+.	O
 Patty	O
 's	O
 Day	O
@@ -3074,6 +3213,7 @@ crazy	O
 drink	O
 Specials	O
 too	O
+..	O
 tex	O
 980-333-3923	O
 to	O
@@ -3128,6 +3268,7 @@ he	O
 lost	O
 his	O
 most	O
+...	O
 dude	O
 got	O
 gucci	O
@@ -3140,8 +3281,10 @@ face	O
 http://mediacheckout.blogspot.com/2010/09/nuh-uhhhhhhh-yesterday-we-showed-you.html	O
 good	O
 day	O
+.	O
 bad	O
 day	O
+.	O
 good	O
 day	O
 ?	O
@@ -3149,7 +3292,7 @@ merek	O
 minuman	O
 sachet	O
 @TheWon_A	O
-Crooked	Oartist
+Crooked	O
 is	O
 in	O
 town	O
@@ -3179,6 +3322,7 @@ caliente	O
 and	O
 get	O
 in	O
+...	O
 http://fb.me/FZVzm8H9	O
 havnt	O
 lost	O
@@ -3189,6 +3333,7 @@ open	O
 gym	O
 all	O
 week	O
+..	O
 now	O
 to	O
 go	O
@@ -3229,11 +3374,13 @@ drink	O
 face	O
 painting	O
 etc	O
+.	O
 Should	O
 be	O
 good	O
 day	O
 out	O
+.	O
 Sat	O
 &amp;	O
 Sun	O
@@ -3260,6 +3407,7 @@ so	O
 ill	O
 read	O
 tomorrow	O
+.	O
 Looking	O
 forward	O
 hehe	O
@@ -3289,6 +3437,7 @@ am	O
 -	O
 04:00	O
 PM	O
+.	O
 The	O
 bank	O
 teller	O
@@ -3298,9 +3447,12 @@ go	O
 to	O
 wants	O
 me	O
+.	O
 Lol	O
+.	O
 No	O
 shit	O
+.	O
 She	O
 left	O
 me	O
@@ -3308,6 +3460,7 @@ wide	O
 open	O
 for	O
 tomorrow	O
+.	O
 Too	O
 bad	O
 I	O
@@ -3364,6 +3517,7 @@ the	O
 story	O
 later	O
 on	O
+.	O
 Just	O
 hope	O
 the	O
@@ -3373,6 +3527,7 @@ Shange	O
 sell	O
 more	O
 books	O
+.	O
 @BieberPaycee	O
 in	O
 like	O
@@ -3380,6 +3535,7 @@ like	O
 days	O
 I	O
 think	O
+...	O
 Well	O
 that	O
 's	O
@@ -3423,6 +3579,7 @@ planned	O
 for	O
 Valentines	O
 Day	O
+.	O
 Me	O
 :	O
 Sorry	O
@@ -3436,9 +3593,11 @@ u	O
 or	O
 your	O
 dinner	O
+.....	O
 Im	O
 Watching	O
 Bie	O
+...	O
 The	O
 last	O
 time	O
@@ -3448,6 +3607,7 @@ with	O
 Kyle	O
 was	O
 June	O
+.	O
 The	O
 last	O
 time	O
@@ -3455,6 +3615,7 @@ we	O
 emailed	O
 was	O
 August	O
+.	O
 Football	O
 game	O
 tonight	O
@@ -3498,6 +3659,7 @@ it	O
 ASPCA	O
 PETA	O
 HSUS	O
+..	O
 Animal	O
 rescue	O
 or	O
@@ -3519,6 +3681,7 @@ with	O
 a	O
 Jaybilizer	O
 today	O
+...	O
 my	O
 teacher	O
 designed	O
@@ -3556,6 +3719,7 @@ add	O
 on	O
 to	O
 a	O
+......	O
 @valdary	O
 sorry	O
 i	O
@@ -3573,12 +3737,14 @@ been	O
 dead	O
 5	O
 years	O
+.	O
 smh	O
 i	O
 love	O
 my	O
 male	O
 friends	O
+......	O
 my	O
 female	O
 friends	O
@@ -3623,6 +3789,7 @@ a	O
 post	O
 on	O
 Zinfandel	O
+...	O
 http://bit.ly/972Sik	O
 @vivarocks777	O
 just	O
@@ -3707,6 +3874,7 @@ thought	O
 of	O
 long	O
 li	O
+...	O
 @_mcintyre	O
 agreed	O
 lolzaa	O
@@ -3719,6 +3887,7 @@ a	O
 long	O
 lie	O
 10:30	O
+.	O
 :(	O
 xx	O
 @keoghsie	O
@@ -3766,6 +3935,7 @@ text	O
 on	O
 a	O
 page	O
+.	O
 I'll	O
 definitely	O
 pick	O
@@ -3774,7 +3944,9 @@ up	O
 this	O
 next	O
 week	O
+.	O
 Thanks	O
+.	O
 :)	O
 Sunday	O
 can	O
@@ -3817,9 +3989,9 @@ Jones	O
 playing	O
 inside	O
 and	O
-DJ	Oartist
-Chris	Oartist
-L	Oartist
+DJ	O
+Chris	O
+L	O
 in	O
 Loft	O
 #cl	O
@@ -3846,6 +4018,7 @@ $	O
 4.99	O
 -	O
 $1	O
+...	O
 http://bit.ly/9YA597	O
 Football	O
 game	O
@@ -3883,9 +4056,11 @@ Photography]	O
 :	O
 ohh	O
 right	O
+...	O
 im	O
 an	O
 actor	O
+...	O
 back	O
 to	O
 work	O
@@ -3915,6 +4090,7 @@ a	O
 break	O
 in	O
 cal	O
+...	O
 http://bit.ly/cd6OPC	O
 @AddieWilliams	O
 Dat	O
@@ -3925,15 +4101,19 @@ talkin	O
 '	O
 '	O
 bout	O
+.	O
 In	O
 20	O
 years	O
 who	O
 knows	O
+.	O
 Maybe	O
 Mr	O
+.	O
 and	O
 Mrs	O
+...	O
 ?	O
 From	O
 Green	O
@@ -3947,6 +4127,7 @@ Sage	O
 Award	O
 to	O
 Nov	O
+.	O
 5	O
 http://tinyurl.com/24agj38	O
 overheard	O
@@ -3967,9 +4148,9 @@ RT	O
 @DaymiCarolina	O
 :	O
 Yayaayayay	O
-kings	Oartist
-of	Oartist
-leon	Oartist
+kings	O
+of	O
+leon	O
 tonight	O
 !!!	O
 Accounts	O
@@ -3989,6 +4170,7 @@ Toronto	B-geo-loc
 Ontario	B-geo-loc
 ,	O
 CANADA	B-geo-loc
+...	O
 http://bit.ly/aOe78A	O
 #Os	O
 This	O
@@ -3996,9 +4178,11 @@ is	O
 a	O
 battle	O
 song	O
+..	O
 Brothers	O
 and	O
 sisters	O
+..	O
 Time	O
 to	O
 go	O
@@ -4072,7 +4256,7 @@ October	O
 24	O
 ,	O
 2010	O
-http://artistdata.com/a/26up	O
+http://data.com/a/26up	O
 cant	O
 believe	O
 im	O
@@ -4089,6 +4273,7 @@ on	O
 sunday	O
 :(	O
 ahhhhh	O
+.	O
 should	O
 be	O
 a	O
@@ -4114,6 +4299,7 @@ but	O
 now	O
 a	O
 convert	O
+.	O
 Will	O
 have	O
 to	O
@@ -4151,6 +4337,7 @@ ironed	O
 mine	O
 just	O
 fine	O
+.	O
 You	O
 may	O
 want	O
@@ -4166,6 +4353,7 @@ it	O
 gets	O
 really	O
 soft	O
+.	O
 If	O
 you	O
 want	O
@@ -4193,6 +4381,7 @@ x	O
 )	O
 !	O
 EXA-OIL	O
+.	O
 COM	O
 Deep	O
 Sea	O
@@ -4210,6 +4399,7 @@ Sea	O
 Intervention	O
 has	O
 opened	O
+...	O
 http://bit.ly/cZZGj7	O
 Telly	O
 was	O
@@ -4227,6 +4417,7 @@ on	O
 the	O
 internet	O
 tuesday	O
+.	O
 Interview	O
 '	O
 cause	O
@@ -4244,14 +4435,21 @@ RT	O
 @DonnieWahlberg	O
 :	O
 Soldiers	O
+...	O
 Familia	O
+...	O
 BH's...	O
 NK	O
 Fam	O
+...	O
 Homies	O
+...	O
 Etc	O
+.	O
 Etc	O
+.	O
 Etc	O
+....	O
 I	O
 'm	O
 gonna	O
@@ -4262,11 +4460,13 @@ next	O
 Friday	O
 in	O
 NYC	B-geo-loc
+...	O
 @lennaraye	O
 i	O
 know	O
 its	O
 awful	O
+.	O
 i	O
 hate	O
 the	O
@@ -4333,12 +4533,14 @@ leave	O
 '@Lovelylanvin	O
 Oh	O
 ugh	O
+.	O
 Should	O
 never	O
 do	O
 #ff	O
 before	O
 coffee	O
+.	O
 You	O
 should	O
 have	O
@@ -4378,6 +4580,7 @@ project	O
 due	O
 next	O
 Friday	O
+...	O
 be	O
 ready	O
 !	O
@@ -4389,6 +4592,7 @@ the	O
 mall	O
 SO	O
 bad	O
+.	O
 Not	O
 enough	O
 hours	O
@@ -4418,7 +4622,9 @@ Reuters	O
 )	O
 -	O
 U	O
+.	O
 S	O
+....	O
 http://bit.ly/bWUyBR	O
 @aplusk	O
 What	O
@@ -4493,6 +4699,7 @@ once	O
 upon	O
 a	O
 time	O
+..	O
 and	O
 the	O
 666	O
@@ -4509,6 +4716,7 @@ the	O
 worst	O
 nap	O
 eva	O
+..	O
 arggghhh	O
 !	O
 now	O
@@ -4516,6 +4724,7 @@ its	O
 time	O
 for	O
 work	O
+..	O
 double	O
 arggghhh	O
 !!	O
@@ -4531,6 +4740,7 @@ de	O
 keuken	O
 bij	O
 Delphi	O
+...	O
 ik	O
 word	O
 toch	O
@@ -4588,6 +4798,7 @@ get	O
 it	O
 in	O
 stores	O
+.	O
 KY	B-geo-loc
 ships	O
 next	O
@@ -4600,12 +4811,14 @@ the	O
 devil	O
 to	O
 dance	O
+.	O
 Not	O
 feeling	O
 up	O
 to	O
 par	O
 today	O
+.	O
 #stressing	O
 RT	O
 @aBaddBeautyy	O
@@ -4636,6 +4849,7 @@ long	O
 and	O
 it	O
 just	O
+...	O
 I	O
 do	O
 n't	O
@@ -4644,8 +4858,10 @@ know	O
 it	O
 sounds	O
 cliche	O
+.	O
 And	O
 dumb	O
+.	O
 My	O
 sister	O
 wants	O
@@ -4656,6 +4872,7 @@ hates	O
 it	O
 so	O
 much	O
+.	O
 been	O
 reading	O
 shit	O
@@ -4752,6 +4969,7 @@ him	O
 before	O
 this	O
 point	O
+.	O
 tell	O
 ur	O
 dad2bring	O
@@ -4783,6 +5001,7 @@ doing	O
 oh	O
 yeah	O
 30th	O
+.	O
 Sorry	O
 I	O
 am	O
@@ -4793,7 +5012,9 @@ time	O
 my	O
 apologies	O
 m(	O
+.	O
 _	O
+.	O
 )m	O
 this	O
 is	O
@@ -4806,6 +5027,7 @@ have	O
 no	O
 picture	O
 ideas	O
+.	O
 http://twitpic.com/2pdzm0	O
 ThAnK	O
 gOd	O
@@ -4823,6 +5045,7 @@ happy	O
 it	O
 's	O
 friday	O
+.	O
 #OMGwhatateen	O
 @wackeychan	O
 Awesome	O
@@ -4835,11 +5058,13 @@ two	O
 weeks	O
 from	O
 Monday	O
+.	O
 Hope	O
 it	O
 meets	O
 your	O
 expectations	O
+.	O
 even	O
 better	O
 than	O
@@ -4880,6 +5105,7 @@ and	O
 do	O
 the	O
 opposite	O
+.	O
 Always	O
 wondered	O
 which	O
@@ -4977,7 +5203,9 @@ team	O
 and	O
 season	O
 underway	O
+.	O
 Long	O
+...	O
 That	O
 's	O
 when	O
@@ -4985,6 +5213,7 @@ you	O
 start	O
 to	O
 laugh	O
+.	O
 Saying	O
 I	O
 just	O
@@ -4993,12 +5222,14 @@ what	O
 I	O
 can't	O
 have	O
+.	O
 Won't	O
 even	O
 give	O
 me	O
 a	O
 chance	O
+.	O
 @BeLIEveNcRisS	O
 omg	O
 yayyy	O
@@ -5100,6 +5331,7 @@ spoke	O
 you	O
 were	O
 very	O
+...	O
 Opinionated	O
 ?	O
 Lol	O
@@ -5128,6 +5360,7 @@ PoMo	O
 Terry	O
 Fox	O
 run	O
+.	O
 Should	O
 be	O
 an	O
@@ -5189,6 +5422,7 @@ Site	O
 stuff	O
 all	O
 day	O
+.	O
 Can't	O
 believe	O
 the	O
@@ -5228,6 +5462,7 @@ http://fb.me/v5CUZkEY	O
 yea	O
 yea	O
 yea	O
+...	O
 How	O
 was	O
 your	O
@@ -5241,6 +5476,7 @@ laughing	O
 all	O
 day	O
 today	O
+.	O
 "	O
 Um	O
 yes	O
@@ -5295,6 +5531,7 @@ Alternative	O
 Techland	O
 -	O
 TIME	O
+.	O
 com	O
 http://bit.ly/a4kSfV	O
 Edmonton	B-geo-loc
@@ -5318,6 +5555,7 @@ September	O
 02:03	O
 PM	O
 Chari	O
+...	O
 http://bit.ly/b0CYjb	O
 RT	O
 @iLL87WiLL	O
@@ -5410,6 +5648,7 @@ for	O
 something	O
 really	O
 big	O
+.	O
 RT	O
 @MARLONLWAYANS	O
 :	O
@@ -5421,6 +5660,7 @@ all	O
 my	O
 Jewish	O
 friends	O
+.	O
 Black	O
 people	O
 need	O
@@ -5428,6 +5668,7 @@ a	O
 Leroy	O
 Jenkins	O
 Day	O
+.	O
 We	O
 need	O
 some	O
@@ -5464,6 +5705,7 @@ earlier	O
 day	O
 by	O
 day	O
+.	O
 My	O
 eyes	O
 are	O
@@ -5471,6 +5713,7 @@ getting	O
 smaller	O
 and	O
 smaller	O
+.	O
 RT	O
 @Quotealicious	O
 :	O
@@ -5488,6 +5731,7 @@ truck	O
 drinking	O
 a	O
 Coke	O
+.	O
 MLIA	O
 #Quotealicious	O
 @batonabike	O
@@ -5544,7 +5788,9 @@ when	O
 I	O
 get	O
 there	O
+.	O
 SmackMyHead	O
+.	O
 No	O
 tasting	O
 today	O
@@ -5554,7 +5800,9 @@ my	O
 being	O
 out	O
 Sick	O
+...	O
 ugh	O
+.	O
 But	O
 next	O
 Friday	O
@@ -5567,6 +5815,7 @@ from	O
 Novel	O
 Wines	O
 here	O
+...	O
 http://fb.me/G2CLHL1H	O
 Goodnight	O
 twitterland	O
@@ -5583,6 +5832,7 @@ more	O
 than	O
 my	O
 life	O
+...	O
 the	O
 biggest	O
 kiss	O
@@ -5593,8 +5843,11 @@ love	O
 !!!	O
 :D	O
 L	O
+.	O
 O	O
+.	O
 V	O
+.	O
 E	O
 @SaviiISJAPAN	O
 nooo	O
@@ -5611,6 +5864,7 @@ dont	O
 ask	O
 people	O
 lool	O
+.	O
 @BenArch	O
 100-	O
 Tim	O
@@ -5628,9 +5882,12 @@ form	O
 in	O
 this	O
 week	O
+.	O
 Punctuality	O
+.	O
 @TexusMade	O
 lol	O
+.	O
 Try	O
 cudos	O
 !	O
@@ -5641,6 +5898,7 @@ round	O
 this	O
 time	O
 doe	O
+.	O
 2	O
 years	O
 99	O
@@ -5675,6 +5933,7 @@ still	O
 stay	O
 the	O
 same	O
+.	O
 A	O
 Twisted	O
 two	O
@@ -5683,20 +5942,22 @@ in	O
 London	B-geo-loc
 NOVEMBER	O
 18	O
-Younger	Oartist
-Brother	Oartist
+...	O
+Younger	O
+Brother	O
 (	O
 Live)	O
 ,	O
-Shpongle	Oartist
+Shpongle	O
 (	O
-Simon	Oartist
-Posford	Oartist
+Simon	O
+Posford	O
 DJ	O
 set	O
 )	O
 and	O
 other	O
+...	O
 http://fb.me/Hqwb7kzG	O
 Aggressive	O
 Kids	O
@@ -5725,6 +5986,7 @@ one	O
 of	O
 my	O
 favorite	O
+.	O
 :(	O
 RT	O
 @themaine	O
@@ -5740,21 +6002,26 @@ Hawaii	B-geo-loc
 ?	O
 Power	O
 nap	O
+.	O
 I	O
 need	O
 it	O
+.	O
 Its	O
 been	O
 a	O
 stressful	O
 week	O
+.	O
 I'm	O
 excited	O
 for	O
 xmas	O
 ,	O
 haha	O
+.	O
 Goodnight	O
+.	O
 :)	O
 @shoeboxL	O
 Happy	O
@@ -5788,6 +6055,7 @@ before	O
 he	O
 looks	O
 brilliant	O
+.	O
 My	O
 few	O
 followers	O
@@ -5806,6 +6074,7 @@ in	O
 trouble	O
 today	O
 lol	O
+...	O
 Just	O
 helps	O
 me	O
@@ -5814,6 +6083,7 @@ I'm	O
 still	O
 a	O
 human	O
+.	O
 Imperfectly	O
 perfect	O
 ..!!	O
@@ -5836,6 +6106,7 @@ in	O
 the	O
 past	O
 week	O
+.	O
 @colintattum	O
 It	O
 's	O
@@ -5857,6 +6128,7 @@ up	O
 to	O
 par	O
 today	O
+.	O
 #stressing	O
 Dems	O
 to	O
@@ -5908,6 +6180,7 @@ more	O
 time	O
 to	O
 sleep	O
+.	O
 #teenthings	O
 #comedownwithlove	O
 Okay	O
@@ -5919,6 +6192,7 @@ have	O
 plans	O
 for	O
 tonight	O
+.	O
 Let	O
 me	O
 know	O
@@ -5951,15 +6225,16 @@ laid	O
 out	O
 last	O
 mont	O
+...	O
 http://bit.ly/cXoiO2	O
 Check	O
 this	O
 video	O
 out	O
 --	O
-Three	Oartist
-Days	Oartist
-Grace	Oartist
+Three	O
+Days	O
+Grace	O
 -	O
 Break	O
 (	O
@@ -5981,6 +6256,7 @@ day	O
 of	O
 co-op	O
 preschool	O
+.	O
 http://plixi.com/p/45663997	O
 @2kjdream	O
 good	O
@@ -6005,6 +6281,7 @@ the	O
 same	O
 bathroom	O
 today	O
+.	O
 #losers	O
 #youusedtoknowhowtoflush	O
 #followthrough	O
@@ -6020,6 +6297,7 @@ suppossed	O
 to	O
 do	O
 today	O
+....	O
 A	O
 Few	O
 Clouds	O
@@ -6045,6 +6323,7 @@ MPH	O
 (	O
 14	O
 KT)	O
+.	O
 The	O
 pressure	O
 is	O
@@ -6084,18 +6363,22 @@ social	O
 media	O
 goy	O
 tomorrow	O
+.	O
 @P_Rezzphere	O
 :	O
 uh	O
+...	O
 Fruit	O
 this	O
 time	O
+..	O
 Gotta	O
 stay	O
 in	O
 shape	O
 my	O
 brotha	O
+...	O
 Take	O
 this	O
 time	O
@@ -6130,6 +6413,7 @@ Lol	O
 lineup	O
 for	O
 tonight	O
+.	O
 Keppinger	O
 sits	O
 ,	O
@@ -6140,6 +6424,7 @@ plays	O
 CJ	O
 bats	O
 5th	O
+.	O
 @alysonfooter	O
 http://bit.ly/bHvgCS	O
 Friday	O
@@ -6187,6 +6472,7 @@ WORTH	O
 SCHOOL	O
 SUPPLY	O
 N	O
+...	O
 @Dc_Luvs_Swift	O
 randomly	O
 that	O
@@ -6210,6 +6496,7 @@ let	O
 u	O
 in	O
 :D	O
+...	O
 that	O
 def	O
 would	O
@@ -6302,6 +6589,7 @@ WORTH	O
 SCHOOL	O
 SUPPLY	O
 N	O
+...	O
 RT	O
 @DouchebagMovie	O
 :	O
@@ -6328,6 +6616,7 @@ br	O
 /	O
 &gt;	O
 Saturday	O
+...	O
 #October	O
 Iron	O
 Man	O
@@ -6349,6 +6638,7 @@ Jr	O
 Mickey	O
 Rourke	O
 Direc	O
+...	O
 http://bit.ly/a6iCPn	O
 @HeartLessVick	O
 Lol	O
@@ -6403,9 +6693,11 @@ http://grtpmpkin.com/4fj	O
 @snufflesgirl25	O
 @mo9x	O
 Well	O
+.	O
 just	O
 beg	O
 @100monkeysmusic	O
+..	O
 PLEASE	O
 come	O
 to	O
@@ -6459,6 +6751,7 @@ the	O
 sunshine	O
 is	O
 lovely	O
+.	O
 Can't	O
 feel	O
 too	O
@@ -6468,6 +6761,7 @@ such	O
 a	O
 nice	O
 day	O
+.	O
 @MinkyMoo	O
 I	O
 really	O
@@ -6485,6 +6779,7 @@ when	O
 I	O
 read	O
 it	O
+.	O
 I'm	O
 sure	O
 that	O
@@ -6546,6 +6841,7 @@ of	O
 you	O
 more	O
 wonderful	O
+...	O
 http://fb.me/G3Nzs97h	O
 Pretty	O
 much	O
@@ -6591,6 +6887,7 @@ back	O
 in	O
 Salt	B-geo-loc
 Lake	I-geo-loc
+.	O
 @diaryOFcrazy_T	O
 still	O
 trying	O
@@ -6609,6 +6906,7 @@ chillin	O
 no	O
 running	O
 today	O
+.	O
 @Nikitajonesxo	O
 mhm	O
 fo	O
@@ -6632,12 +6930,14 @@ we	O
 got	O
 to	O
 thinking	O
+.	O
 We've	O
 been	O
 ragging	O
 on	O
 poor	O
 M	O
+.	O
 Night	O
 for	O
 weeks	O
@@ -6653,11 +6953,13 @@ http://fb.me/v87NJfkO	O
 Tidyin	O
 my	O
 room	O
+.	O
 Need	O
 to	O
 do	O
 my	O
 hair	O
+.	O
 its	O
 soo	O
 nasty	O
@@ -6665,6 +6967,7 @@ when	O
 its	O
 naturally	O
 curly	O
+.	O
 @DavidHayemaker	O
 Liked	O
 your	O
@@ -6675,6 +6978,7 @@ Radio	O
 the	O
 other	O
 day	O
+.	O
 @Bills_Ears	O
 WELL	O
 SORRRY	O
@@ -6690,6 +6994,7 @@ AGO	O
 @TATTEDUP_FLYTY	O
 lol	O
 Hmmm	O
+..	O
 man	O
 u	O
 kno	O
@@ -6705,6 +7010,7 @@ today	O
 ,	O
 I	O
 promise	O
+.	O
 This	O
 one	O
 is	O
@@ -6717,6 +7023,7 @@ sword	O
 lunge	O
 being	O
 gone	O
+.	O
 Sprint	O
 !	O
 @becky_89	O
@@ -6757,10 +7064,12 @@ do	O
 @cjhayden	O
 ,	O
 @KadenaSimon	O
+.	O
 You	O
 bolstered	O
 my	O
 week	O
+.	O
 Time	O
 to	O
 fire	O
@@ -6768,6 +7077,7 @@ up	O
 the	O
 grill	O
 again	O
+.	O
 I	O
 do	O
 believe	O
@@ -6775,6 +7085,7 @@ it	O
 will	O
 be	O
 chicken	O
+.	O
 sunny	O
 friday	O
 :)	O
@@ -6818,6 +7129,7 @@ and	O
 working	O
 !	O
 Tomorrow	O
+...	O
 http://fb.me/t8hzqbAZ	O
 What	O
 should	O
@@ -6826,14 +7138,16 @@ do	O
 when	O
 you're	O
 sued	O
+.	O
 Here	O
 are	O
 a	O
 few	O
 tips	O
+.	O
 http://www.calitigationblog.com/2010/09/articles/what-to-do-when-you-are-sued/	O
-Lucid	Oartist
-Dementia	Oartist
+Lucid	O
+Dementia	O
 Playing	O
 in	O
 Austin	B-geo-loc
@@ -6856,6 +7170,7 @@ Do	O
 The	O
 Damn	O
 Thing	O
+.	O
 RT	O
 @mari_dj	O
 :	O
@@ -6863,6 +7178,7 @@ e	O
 nem	O
 joguei	O
 direito	O
+.	O
 no	O
 outro	O
 time	O
@@ -6925,6 +7241,7 @@ to	O
 go	O
 Monday	O
 morning	O
+.	O
 first	O
 books	O
 on	O
@@ -6942,6 +7259,7 @@ home	O
 for	O
 The	O
 Replacement	O
+.	O
 Thank	O
 you	O
 @ZUNE	O
@@ -6951,11 +7269,13 @@ Album	O
 of	O
 the	O
 Day	O
+.	O
 Good	O
 choice	O
 that	O
 fits	O
 perfectly	O
+.	O
 RT	O
 @TLyric	O
 :	O
@@ -6983,6 +7303,7 @@ your	O
 tweets	O
 today	O
 babe	O
+.	O
 Love	O
 it	O
 !!	O
@@ -6991,6 +7312,7 @@ Game	O
 tonight	O
 with	O
 Tessa	O
+.	O
 I	O
 get	O
 to	O
@@ -7000,6 +7322,7 @@ if	O
 he	O
 goes	O
 :)	O
+.	O
 I	O
 get	O
 to	O
@@ -7024,6 +7347,7 @@ on	O
 my	O
 day	O
 off	O
+...	O
 i	O
 have	O
 a	O
@@ -7032,6 +7356,7 @@ day	O
 stetch	O
 startin	O
 tomorrow	O
+.	O
 Driving	O
 ,	O
 driving	O
@@ -7040,6 +7365,7 @@ driving	O
 away	O
 to	O
 Phil	B-geo-loc
+.	O
 Tasty	O
 dinner	O
 tonight	O
@@ -7051,6 +7377,7 @@ Mining	O
 and	O
 Metallurgy	O
 Engineers	O
+.	O
 So	O
 apperently	O
 there	O
@@ -7060,6 +7387,7 @@ dance	O
 and	O
 game	O
 tonight	O
+.....	O
 I	O
 wonder	O
 if	O
@@ -7084,6 +7412,7 @@ u	O
 up	O
 to	O
 tonite	O
+.	O
 My	O
 mob	O
 won't	O
@@ -7091,6 +7420,7 @@ let	O
 me	O
 txt	O
 fs	O
+.	O
 Xxx	O
 Ima	O
 start	O
@@ -7136,12 +7466,14 @@ for	O
 days	O
 !	O
 o	O
+.	O
 O	O
 French	O
 IV	O
 embarrassed	O
 me	O
 today	O
+..	O
 never	O
 again	O
 will	O
@@ -7151,6 +7483,7 @@ into	O
 a	O
 battle	O
 unprepared	O
+.	O
 Getting	O
 the	O
 10am	O
@@ -7159,6 +7492,7 @@ tomorrow	O
 #thethingsido	O
 @iKutiePie	O
 coolen	O
+..	O
 i	O
 aint	O
 speak	O
@@ -7168,6 +7502,7 @@ lil	O
 baby	O
 all	O
 day	O
+..	O
 had	O
 to	O
 check	O
@@ -7234,9 +7569,11 @@ liat	O
 nih	O
 wajib	O
 ngantor	O
+.	O
 Pick	O
 up	O
 here	O
+.	O
 Deliver	O
 on	O
 Dayton	B-geo-loc
@@ -7283,6 +7620,7 @@ down	O
 Murkowski	O
 goes	O
 write-in	O
+.	O
 Probably	O
 not	O
 the	O
@@ -7290,6 +7628,7 @@ NRSC	O
 's	O
 best-ever	O
 week	O
+.	O
 I	O
 just	O
 remembered	O
@@ -7300,6 +7639,7 @@ The	O
 Heatwave	O
 7th	O
 birthday	O
+...	O
 meant	O
 to	O
 make	O
@@ -7330,6 +7670,7 @@ want	O
 their	O
 heros	O
 remembered	O
+...	O
 when	O
 the	O
 truth	O
@@ -7350,6 +7691,7 @@ will	O
 let	O
 you	O
 know	O
+.	O
 I	O
 mean	O
 everyone	O
@@ -7359,6 +7701,7 @@ switch	O
 out	O
 a	O
 lot	O
+.	O
 'RT	O
 @amandacarolinne	O
 :	O
@@ -7397,24 +7740,28 @@ video)	O
 With	O
 the	O
 of	O
+...	O
 http://bit.ly/abRALO	O
 Tonight	O
 @AZUKARlounge	O
-Baka	Oartist
-Boyz	Oartist
+Baka	O
+Boyz	O
 LIVE	O
 w/	O
-DJ	Oartist
-Elements	Oartist
+DJ	O
+Elements	O
 103.5	O
 &amp;	O
 Soreal	O
+.	O
 $150	O
 VIP	O
 booths	O
 tonight	O
+.	O
 Text	O
 916.96	O
+.	O
 8120	O
 for	O
 NO	O
@@ -7505,13 +7852,17 @@ for	O
 epic	O
 show	O
 tonight	O
+..	O
+...	O
 photographing	O
 the	O
 midway	O
 tonight	O
+..	O
 should	O
 be	O
 fun	O
+..	O
 lots	O
 of	O
 fun	O
@@ -7521,9 +7872,11 @@ makes	O
 for	O
 great	O
 photos	O
+..	O
 like	O
 this	O
 one	O
+..	O
 http://twitpic.com/2pdvsw	O
 @urbanturbanguy	O
 Ooh	O
@@ -7538,6 +7891,7 @@ Mexican	O
 sister	O
 for	O
 this	O
+.	O
 Top	O
 10	O
 Best	O
@@ -7551,6 +7905,7 @@ Time	O
 |	O
 Personal	O
 Finance	O
+...	O
 http://bit.ly/cAEI7h	O
 @MajorBerry	O
 Praying	O
@@ -7583,6 +7938,7 @@ thinking	O
 about	O
 it	O
 lol	O
+.	O
 The	O
 Town	O
 was	O
@@ -7612,11 +7968,13 @@ tonight	O
 :)	O
 yeeah	O
 boilers	O
+..	O
 oh	O
 wait	O
 ,	O
 we	O
 suck	O
+.	O
 haha	O
 @	O
 home	O
@@ -7681,6 +8039,7 @@ toward	O
 the	O
 bottom	O
 line	O
+.	O
 Perhaps	O
 it	O
 's	O
@@ -7691,6 +8050,7 @@ run	O
 like	O
 a	O
 business	O
+.	O
 Donald	O
 Trump	O
 RT	O
@@ -7701,8 +8061,9 @@ playing	O
 a	O
 show	O
 with	O
-KISS	Oartist
+KISS	O
 tomorrow	O
+.	O
 Can't	O
 say	O
 I	O
@@ -7712,6 +8073,7 @@ coming	O
 5	O
 years	O
 ago	O
+...	O
 @poscas	O
 I	O
 said	O
@@ -7779,6 +8141,7 @@ yesterday	O
 according	O
 to	O
 @JasonCorriher	O
+.	O
 &lt;	O
 3	O
 @CamrynRocks	O
@@ -7787,6 +8150,7 @@ brightens	O
 up	O
 my	O
 day	O
+.	O
 you	O
 should	O
 follow	O
@@ -7797,6 +8161,7 @@ to	O
 her	O
 wonderful	O
 music	O
+.	O
 &lt;	O
 3	O
 Really	O
@@ -7810,12 +8175,14 @@ to	O
 the	O
 moon	O
 today	O
+.	O
 They	O
 would	O
 totally	O
 make	O
 my	O
 day	O
+.	O
 @alyaffair	O
 Lol	O
 ,	O
@@ -7827,6 +8194,7 @@ to	O
 solve	O
 your	O
 problems	O
+.	O
 When	O
 you	O
 sober	O
@@ -7837,6 +8205,7 @@ they're	O
 going	O
 to	O
 back	O
+.	O
 anyway	O
 tonight	O
 was	O
@@ -7875,6 +8244,7 @@ today	O
 going	O
 now	O
 guiseeeee	O
+...	O
 if	O
 i	O
 dont	O
@@ -7937,6 +8307,7 @@ lives	O
 on	O
 Friday	O
 nights	O
+.	O
 Jessica	O
 Simpson	O
 is	O
@@ -7955,6 +8326,7 @@ her	O
 barely	O
 4-month	O
 boyfrien	O
+...	O
 http://bit.ly/aoempS	O
 I	O
 like	O
@@ -7976,6 +8348,7 @@ all	O
 of	O
 today	O
 fretting	O
+.	O
 Some	O
 people	O
 totally	O
@@ -7989,25 +8362,30 @@ when	O
 you	O
 are	O
 away	O
+.	O
 Apparently	O
 #turningpoint	O
 has	O
 a	O
 hash-tag	O
+.	O
 And	O
 @RoundhouseLDN	O
 has	O
 a	O
 Twitter	O
 account	O
+.	O
 So	O
 with	O
 the	O
 formalities	O
 over	O
+...	O
 see	O
 you	O
 tomorrow	O
+.	O
 Greek	O
 Festival	O
 at	O
@@ -8046,6 +8424,7 @@ day	O
 Im	O
 officially	O
 blown	O
+.	O
 Dont	O
 wanna	O
 to	O
@@ -8084,6 +8463,7 @@ http://twitpic.com/2pdr8h	O
 @Ashley_Akalei	O
 Love	O
 her	O
+.	O
 She`s	O
 a	O
 sweetie	O
@@ -8093,7 +8473,9 @@ in	O
 a	O
 good	O
 mood	O
+.	O
 Lol	O
+.	O
 @Jeaworld	O
 Happy	O
 Birthday	O
@@ -8141,6 +8523,7 @@ walkin	O
 2	O
 the	O
 store	O
+..	O
 and	O
 this	O
 foo	O
@@ -8170,6 +8553,7 @@ experience	O
 double	O
 entendre	O
 intended)	O
+.	O
 Best	O
 #free	O
 #livemusic	O
@@ -8180,9 +8564,10 @@ with	O
 the	O
 return	O
 of	O
-Breaking	Oartist
-&amp;	Oartist
-Entering	Oartist
+Breaking	O
+&amp;	O
+Entering	O
+.	O
 Be	O
 sure	O
 to	O
@@ -8202,6 +8587,7 @@ and	O
 an	O
 essay	O
 today	O
+.	O
 &gt;	O
 __	O
 &gt;	O
@@ -8217,8 +8603,10 @@ then	O
 i	O
 found	O
 it	O
+.	O
 Ah	O
 crap	O
+.	O
 No	O
 #MCRchat	O
 tonight	O
@@ -8251,6 +8639,7 @@ side	O
 of	O
 his	O
 face	O
+.	O
 Haha	O
 RT	O
 @Leonsays	O
@@ -8264,6 +8653,7 @@ tonight	O
 ,	O
 no	O
 hype	O
+...	O
 Any	O
 suggestions	O
 ?	O
@@ -8308,6 +8698,7 @@ in	O
 a	O
 pregnant	O
 Jacquelin	O
+...	O
 http://yhoo.it/9VAD4A	O
 #MuchLove	O
 to	O
@@ -8316,6 +8707,7 @@ baby	O
 girl	O
 !	O
 10.2	O
+.	O
 9	O
 !!	O
 One	O
@@ -8386,10 +8778,12 @@ play	O
 hard	O
 to	O
 get	O
+.	O
 They	O
 want	O
 it	O
 now	O
+.	O
 #JenniferAniston	O
 quote	O
 of	O
@@ -8449,6 +8843,7 @@ i'll	O
 send	O
 you	O
 DM	O
+.	O
 okkk	O
 ?	O
 thank	O
@@ -8483,6 +8878,7 @@ good	O
 which	O
 is	O
 rarely	O
+.	O
 RT	O
 @atlantamade1986Shorts	O
 or	O
@@ -8490,6 +8886,7 @@ leggings	O
 tonight	O
 ??&quot;	O
 Leggings	O
+.	O
 It	O
 's	O
 sumthin	O
@@ -8500,6 +8897,7 @@ like	O
 on	O
 a	O
 woman	O
+...	O
 cuz	O
 u	O
 can	O
@@ -8509,6 +8907,7 @@ cameltoe	O
 that	O
 's	O
 why	O
+..	O
 lol	O
 Work	O
 from	O
@@ -8532,15 +8931,20 @@ http://www.dewpointe.com/JoinMyAppointmentSetter	O
 @DonnieWahlberg	O
 Hey	O
 hun	O
+...	O
 We	O
 are	O
 all	O
 here	O
 tonight	O
+.	O
 lol	O
+.	O
 Friday	O
+.	O
 oh	O
 yeah	O
+...	O
 lol	O
 My	O
 first	O
@@ -8553,6 +8957,7 @@ O	O
 through	O
 a	O
 friend	O
+.	O
 After	O
 meeting	O
 with	O
@@ -8561,6 +8966,7 @@ surgeon	O
 ,	O
 I	O
 comple	O
+...	O
 Hey	O
 Listeners	O
 we're	O
@@ -8595,6 +9001,7 @@ also	O
 I'm	O
 not	O
 sure	O
+.	O
 If	O
 I	O
 were	O
@@ -8610,6 +9017,7 @@ not	O
 I'd	O
 still	O
 try	O
+.	O
 Best	O
 of	O
 luck	O
@@ -8653,10 +9061,12 @@ fantasy	O
 and	O
 day	O
 dreams	O
+.	O
 There	O
 they	O
 are	O
 free	O
+.	O
 Radio	O
 Ga	O
 Ga	O
@@ -8689,6 +9099,7 @@ in	O
 The	O
 Sept	O
 Issue	O
+.	O
 My	O
 boyfriend	O
 's	O
@@ -8699,6 +9110,7 @@ Anna	O
 Wintor	O
 in	O
 NY	O
+.	O
 Having	O
 movie	O
 night	O
@@ -8742,6 +9154,7 @@ Sun/Sept	O
 )	O
 !...	O
 http	O
+...	O
 Gotta	O
 call	O
 mom	O
@@ -8753,11 +9166,13 @@ it	O
 's	O
 almost	O
 3	O
+.	O
 Yli	O
 gets	O
 out	O
 in	O
 15	O
+.	O
 Mom	O
 took	O
 the	O
@@ -8771,6 +9186,7 @@ at	O
 home	O
 ,	O
 finally	O
+.	O
 Chicago	O
 Blackhawks	O
 general	O
@@ -8786,6 +9202,7 @@ gone	O
 in	O
 two	O
 weeks	O
+...	O
 http://fan.ac/Ydv	O
 #NHL	O
 @JayDubshow	O
@@ -8805,11 +9222,13 @@ died	O
 40	O
 years	O
 ago	O
+...	O
 but	O
 his	O
 studio	O
 lives	O
 on	O
+.	O
 A	O
 look	O
 at	O
@@ -8886,6 +9305,7 @@ the	O
 yakuza	O
 vs	O
 zombies	O
+....	O
 smh	O
 but	O
 cool	O
@@ -8917,6 +9337,7 @@ close	O
 up	O
 @Miss_SarahBaby	O
 hmmm	O
+..	O
 u	O
 kno	O
 when	O
@@ -8946,6 +9367,7 @@ Maybe	O
 it	O
 's	O
 compulsary	O
+..	O
 when	O
 you're	O
 over	O
@@ -8965,6 +9387,7 @@ like	O
 a	O
 total	O
 tool	O
+.	O
 http://fb.me/GpyFjTgp	O
 RT	O
 @broniaisdeadly	O
@@ -8978,6 +9401,7 @@ THE	O
 LIFE	O
 OF	O
 ME	O
+.	O
 Go	O
 comment	O
 and	O
@@ -8986,6 +9410,7 @@ and	O
 I'll	O
 love	O
 you	O
+...	O
 @keevaguilfoyle	O
 you	O
 know	O
@@ -9000,6 +9425,7 @@ hat	O
 in	O
 your	O
 honor	O
+.	O
 @bookpage	O
 We	O
 should	O
@@ -9014,6 +9440,7 @@ Paris	B-geo-loc
 for	O
 this	O
 week	O
+...	O
 #deau	O
 my	O
 past	O
@@ -9036,6 +9463,7 @@ gladly	O
 do	O
 it	O
 again	O
+.	O
 Just	O
 listened	O
 to	O
@@ -9093,7 +9521,7 @@ day	O
 by	O
 a	O
 few	O
-DT	Oartist
+DT	O
 fans	O
 because	O
 I	O
@@ -9104,9 +9532,11 @@ awesome	O
 for	O
 joining	O
 A7X	O
+.	O
 So	O
 worth	O
 it	O
+.	O
 foREVer	O
 !	O
 Jessum	O
@@ -9181,6 +9611,7 @@ that	O
 starts	O
 on	O
 Monday	O
+.	O
 Ca	O
 n't	O
 wait	O
@@ -9189,6 +9620,7 @@ see	O
 what	O
 people	O
 think	O
+.	O
 So	O
 this	O
 will	O
@@ -9247,25 +9679,30 @@ get	O
 back	O
 @daddiee_nini	O
 No	O
+...	O
 I'll	O
 try	O
 not	O
 too	O
+.	O
 I've	O
 missed	O
 too	O
 many	O
 days	O
 already	O
+...	O
 @thedgoddess	O
 I	O
 can	O
 be	O
+...	O
 when	O
 I	O
 want	O
 to	O
 be	O
+.	O
 RT	O
 @thedgoddess	O
 :	O
@@ -9277,6 +9714,7 @@ benevolent	O
 oh	O
 kind	O
 master	O
+.	O
 @saarbei	O
 ooh	O
 !	O
@@ -9288,6 +9726,7 @@ was	O
 had	O
 to	O
 celebrate	O
+.	O
 you	O
 HAVE	O
 to	O
@@ -9318,6 +9757,7 @@ the	O
 time	O
 I'm	O
 serious	O
+...	O
 don't	O
 tell	O
 anyone	O
@@ -9334,12 +9774,14 @@ today	O
 music	O
 is	O
 wack	O
+.	O
 Thank	O
 you	O
 for	O
 all	O
 your	O
 support	O
+.	O
 Best	O
 wishes	O
 from	O
@@ -9354,6 +9796,7 @@ facebook	O
 for	O
 a	O
 day	O
+.	O
 go	O
 on	O
 and	O
@@ -9370,6 +9813,7 @@ MOST	O
 BORING	O
 DAY	O
 EVER	O
+.	O
 headin	O
 to	O
 get	O
@@ -9377,11 +9821,14 @@ shitty	O
 in	O
 a	O
 few	O
+...	O
 1st	O
 n	O
 summit	O
+...	O
 then	O
 rehab	O
+...	O
 my	O
 life	O
 will	O
@@ -9393,6 +9840,7 @@ this	O
 night	O
 Sleeping	O
 time	O
+.	O
 Morgenochtend	O
 maar	O
 even	O
@@ -9401,6 +9849,7 @@ Koperdoos	O
 een	O
 schoonmaakbeurtje	O
 geven	O
+...	O
 New	O
 #VideoRecorder	O
 #7	O
@@ -9423,6 +9872,7 @@ MinoHD	O
 Video	O
 Camera	O
 --	O
+...	O
 http://dlvr.it/5P5kV	O
 #cheaptweet	O
 @Romanthropy	O
@@ -9434,6 +9884,7 @@ a	O
 #MCRchat	O
 on	O
 tonight	O
+.	O
 No	O
 idea	O
 what	O
@@ -9451,7 +9902,9 @@ in	O
 !!	O
 @LOOPYisLINDSAY	O
 hahaha	O
+.	O
 Nice	O
+.	O
 How	O
 was	O
 ur	O
@@ -9486,6 +9939,7 @@ fans	O
 have	O
 it	O
 already	O
+.	O
 8	O
 )	O
 @DesiiDanii4	O
@@ -9525,6 +9979,7 @@ Arizona	B-geo-loc
 next	O
 year	O
 ??	O
+...	O
 if	O
 I	O
 didnt	O
@@ -9554,6 +10009,7 @@ walks	O
 in	O
 gucci	O
 shoes	O
+...	O
 RT	O
 @Mickey__Rourke	O
 :	O
@@ -9581,6 +10037,7 @@ puppy	O
 under	O
 each	O
 arm	O
+...	O
 @Tink3rbell94	O
 going	O
 to	O
@@ -9601,6 +10058,7 @@ out	O
 in	O
 my	O
 mind	O
+.	O
 I	O
 have	O
 time	O
@@ -9623,6 +10081,7 @@ our	O
 lunch	O
 table	O
 today	O
+.	O
 so	O
 i	O
 sat	O
@@ -9633,7 +10092,9 @@ talked	O
 with	O
 them	O
 about	O
+..	O
 stuff	O
+.	O
 RT	O
 @oceanbutterfly7	O
 :	O
@@ -9652,6 +10113,7 @@ day	O
 @Anita316	O
 @Leters4theLord	O
 @GlyndiA	O
+...	O
 when	O
 did	O
 @thecodysimpson	O
@@ -9693,6 +10155,7 @@ today	O
 !!	O
 lil	O
 brat	O
+.	O
 @Wes0010	O
 good	O
 idea	O
@@ -9734,10 +10197,12 @@ fed	O
 up	O
 with	O
 it	O
+.	O
 come	O
 back	O
 ,	O
 summer	O
+.	O
 @ShawanaA	O
 It	O
 did	O
@@ -9754,6 +10219,7 @@ I	O
 frst	O
 hrd	O
 this	O
+.	O
 When	O
 she	O
 blmd	O
@@ -9765,6 +10231,7 @@ realy	O
 pis'd	O
 me	O
 off	O
+.	O
 Someone	O
 copied	O
 her	O
@@ -9773,6 +10240,7 @@ hoax	O
 I	O
 heart	O
 you	O
+.	O
 Even	O
 if	O
 I	O
@@ -9781,6 +10249,7 @@ seen	O
 u	O
 in	O
 months	O
+...	O
 SEND	O
 A	O
 PIC	O
@@ -9807,6 +10276,7 @@ who	O
 had	O
 heart	O
 transplant	O
+.	O
 www.flancers.com	O
 4	O
 info	O
@@ -9830,6 +10300,7 @@ It	O
 gonna	O
 be	O
 amazing	O
+..	O
 they	O
 go	O
 all	O
@@ -9841,6 +10312,7 @@ Soulja	O
 Boy	O
 |	O
 TheDeAndreWay	O
+.	O
 com	O
 -	O
 The	O
@@ -9862,6 +10334,7 @@ man	O
 u	O
 got	O
 it	O
+.	O
 It	O
 's	O
 only	O
@@ -9869,6 +10342,7 @@ a	O
 matter	O
 of	O
 time	O
+.	O
 RT	O
 @VanessaSCassie	O
 :	O
@@ -9917,6 +10391,7 @@ let	O
 my	O
 folks	O
 know	O
+...	O
 when	O
 is	O
 the	O
@@ -9950,6 +10425,7 @@ suga	O
 on	O
 ma	O
 tea	O
+...	O
 afta	O
 da	O
 month	O
@@ -9999,6 +10475,7 @@ shut	O
 it	O
 down	O
 broski	O
+..	O
 fuck	O
 wit	O
 me..Parlae	O
@@ -10027,10 +10504,11 @@ to	O
 write	O
 it	O
 down	O
+.	O
 Costa	O
 Rican	O
 group	O
-CocoFunka	Oartist
+CocoFunka	O
 power	O
 this	O
 week	O
@@ -10126,6 +10604,7 @@ Nu	O
 round	O
 Two	O
 tonight	O
+.	O
 See	O
 y'all	O
 early	O
@@ -10145,6 +10624,7 @@ Belle	O
 of	O
 the	O
 Ball	O
+.	O
 It	O
 's	O
 easy	O
@@ -10159,6 +10639,7 @@ know	O
 some	O
 basic	O
 tricks	O
+.	O
 http://bit.ly/d4s9RR	O
 Toy	O
 story	O
@@ -10173,6 +10654,7 @@ camp	O
 rock	O
 2	O
 again	O
+...	O
 all	O
 the	O
 way	O
@@ -10180,6 +10662,7 @@ through	O
 this	O
 time	O
 :P	O
+.	O
 @justinbieber	O
 concert	O
 tonight	O
@@ -10238,6 +10721,7 @@ lmao	O
 Fck	O
 you	O
 #teamkatstacksbitch	O
+...	O
 RT	O
 @josielovesmcr	O
 :	O
@@ -10272,6 +10756,7 @@ the	O
 rain	O
 right	O
 now	O
+...	O
 but	O
 what	O
 a	O
@@ -10280,6 +10765,7 @@ day	O
 it	O
 has	O
 been	O
+...	O
 can't	O
 wait	O
 for	O
@@ -10302,6 +10788,7 @@ hurting	O
 ,	O
 or	O
 crying	O
+.	O
 24-Jul	O
 God	O
 is	O
@@ -10345,6 +10832,7 @@ at	O
 my	O
 O	O
 party	O
+.	O
 Fucking	O
 can't	O
 believe	O
@@ -10383,6 +10871,7 @@ loose	O
 lips	O
 to	O
 chan	O
+...	O
 Salem	B-geo-loc
 Daily	O
 Dish//	O
@@ -10402,6 +10891,7 @@ Onion	O
 Tarthousemade	O
 tart	O
 wit	O
+...	O
 http://bit.ly/98QmI9	O
 @dj279	O
 do	O
@@ -10428,6 +10918,7 @@ shoutouts	O
 Haha	O
 oh	O
 well	O
+.	O
 They're	O
 is	O
 always	O
@@ -10483,6 +10974,7 @@ prices	O
 haven't	O
 gone	O
 down	O
+.	O
 Happy	O
 O	O
 Jimmie	O
@@ -10503,6 +10995,7 @@ hot	O
 tub	O
 time	O
 machine	O
+.	O
 Funny	O
 film	O
 !	O
@@ -10527,6 +11020,7 @@ day	O
 of	O
 adversity	O
 consider	O
+.	O
 Ecclesiastes	O
 7:14	O
 #JESUS	O
@@ -10615,6 +11109,7 @@ buy	O
 a	O
 Zune	O
 HD	O
+...	O
 but	O
 now	O
 that	O
@@ -10629,7 +11124,9 @@ to	O
 D.C.	B-geo-loc
 next	O
 month	O
+.	O
 YESSSSSS	O
+.	O
 Honored	O
 Double	O
 Diaomond	O
@@ -10638,6 +11135,7 @@ well	O
 :	O
 Jan	O
 Bloom	O
+...	O
 her	O
 two	O
 beautiful	O
@@ -10651,6 +11149,7 @@ it	O
 was	O
 just	O
 sooo	O
+...	O
 http://fb.me/JLLhbDl0	O
 meet	O
 the	O
@@ -10658,6 +11157,7 @@ luckiest	O
 guy	O
 in	O
 america	B-geo-loc
+...	O
 soooo	O
 jealous	O
 !:	O
@@ -10674,6 +11174,7 @@ Blegh	O
 that	O
 fell	O
 through	O
+.	O
 Staffing	O
 agency	O
 had	O
@@ -10681,6 +11182,7 @@ a	O
 miscommunication	O
 w\the	O
 client	O
+.	O
 So	O
 two	O
 week	O
@@ -10689,6 +11191,7 @@ assignment	O
 fell	O
 through	O
 unfortunately	O
+.	O
 G'mar	O
 chatima	O
 tova	O
@@ -10705,6 +11208,7 @@ but	O
 I	O
 love	O
 you	O
+.	O
 productive	O
 room	O
 cleaning	O
@@ -10714,8 +11218,8 @@ done	O
 HAVE	O
 YOU	O
 HEARD	O
-DJ	Oartist
-STRATEGY	Oartist
+DJ	O
+STRATEGY	O
 IS	O
 NOW	O
 AT	O
@@ -10730,6 +11234,7 @@ WEDNESDAY	O
 ;	O
 S	O
 NIGHTS	O
+...	O
 WOW	O
 !!	O
 DONT	O
@@ -10754,6 +11259,7 @@ to	O
 catch	O
 a	O
 predator	O
+.	O
 It	O
 seems	O
 you	O
@@ -10764,6 +11270,7 @@ to	O
 take	O
 a	O
 seat	O
+.	O
 So	O
 much	O
 work	O
@@ -10777,6 +11284,7 @@ Grand	O
 Masquerade	O
 next	O
 week	O
+.	O
 Tomorrow	O
 's	O
 the	O
@@ -10806,6 +11314,7 @@ Yesterday	O
 shoot	O
 was	O
 unreal	O
+.	O
 Today	O
 is	O
 just	O
@@ -10820,6 +11329,7 @@ possible	O
 going	O
 now	O
 guiseeeee	O
+...	O
 if	O
 i	O
 dont	O
@@ -10859,6 +11369,7 @@ ur	O
 name	O
 into	O
 search	O
+..	O
 Uve	O
 had	O
 ur	O
@@ -10885,6 +11396,7 @@ Ah	O
 ,	O
 the	O
 weekend	O
+.	O
 See	O
 you	O
 at	O
@@ -10923,6 +11435,7 @@ Rimutakas	B-geo-loc
 Justin	O
 Timberlake	O
 ft	O
+.	O
 Beyonce	O
 -	O
 Until	O
@@ -10967,6 +11480,7 @@ deal	O
 with	O
 the	O
 pain	O
+.	O
 Mostly	O
 Cloudy	O
 and	O
@@ -10981,10 +11495,12 @@ MN	B-geo-loc
 Winds	O
 are	O
 Calm	O
+.	O
 The	O
 humidity	O
 is	O
 68%	O
+.	O
 Last	O
 Updated	O
 on	O
@@ -11009,6 +11525,7 @@ gosh	O
 thats	O
 so	O
 crazy	O
+..	O
 hope	O
 they	O
 show	O
@@ -11026,10 +11543,12 @@ to	O
 listen	O
 to	O
 that	O
-green	Oartist
-day	Oartist
+green	O
+day	O
 song	O
+.	O
 Yay	O
+.	O
 @penguin	O
 is	O
 coming	O
@@ -11038,6 +11557,7 @@ see	O
 me	O
 next	O
 week	O
+...	O
 plotting	O
 my	O
 cooking	O
@@ -11060,9 +11580,11 @@ not	O
 even	O
 a	O
 word	O
+.	O
 Guess	O
 ure	O
 fine	O
+..	O
 thanks	O
 for	O
 being	O
@@ -11070,11 +11592,13 @@ nothing	O
 but	O
 a	O
 fake	O
+.	O
 Seriously	O
 cycling	O
 ?	O
 FRIDAY	O
 Sept	O
+.	O
 17	O
 http://goo.gl/fb/83ib3	O
 RT	O
@@ -11087,11 +11611,14 @@ still	O
 the	O
 funniest	O
 photo	O
+.	O
 of	O
 all	O
 time	O
+.	O
 ALL	O
 TIME	O
+.	O
 On	O
 our	O
 way	O
@@ -11131,6 +11658,7 @@ Christian	O
 world	O
 ,	O
 one	O
+...	O
 signing	O
 along	O
 to	O
@@ -11158,8 +11686,10 @@ writing	O
 it	O
 on	O
 facebook	O
+.....	O
 @valovanity	O
 hahah	O
+.	O
 Speaking	O
 of	O
 ,	O
@@ -11178,6 +11708,7 @@ it	O
 out	O
 and	O
 whatnot	O
+.	O
 @_mistercory	O
 *Smiles	O
 up	O
@@ -11186,6 +11717,7 @@ him*	O
 Can	O
 we	O
 just	O
+...	O
 sit	O
 together	O
 for	O
@@ -11228,6 +11760,7 @@ Avenue	I-geo-loc
 in	O
 the	O
 Newport	B-geo-loc
+...	O
 http://tumblr.com/xmyiud0zl	O
 @wellydogdesigns	O
 aww	O
@@ -11265,6 +11798,7 @@ of	O
 papers	O
 has	O
 disappeared	O
+.	O
 I	O
 think	O
 that	O
@@ -11277,6 +11811,7 @@ up	O
 for	O
 the	O
 week	O
+.	O
 New	O
 Teeshirts	O
 ordered	O
@@ -11284,6 +11819,7 @@ with	O
 all	O
 new	O
 designs	O
+...	O
 I	O
 hope	O
 people	O
@@ -11293,6 +11829,7 @@ like	O
 October	O
 9th	O
 2010	O
+...	O
 Remington	O
 's	O
 Annual	O
@@ -11309,6 +11846,7 @@ day	O
 Ha	O
 I'm	O
 lucky	O
+.	O
 I	O
 got	O
 in	O
@@ -11322,6 +11860,7 @@ it	O
 started	O
 POURING	O
 rain	O
+.	O
 ':::	O
 Flashback	O
 Friday	O
@@ -11355,6 +11894,7 @@ heart	O
 out	O
 and	O
 all	O
+.	O
 It	O
 's	O
 hard	O
@@ -11370,10 +11910,12 @@ something	O
 :p	O
 Going	O
 now	O
+.	O
 Be	O
 back	O
 later	O
 tonight	O
+.	O
 Thanks	O
 for	O
 all	O
@@ -11383,6 +11925,7 @@ Fucking	O
 ,	O
 appreciate	O
 it	O
+.	O
 Make	O
 love	O
 ,	O
@@ -11394,6 +11937,7 @@ are	O
 cheaper	O
 than	O
 guns	O
+.	O
 XOXO	O
 @drugmonkey	O
 First-time	O
@@ -11417,6 +11961,7 @@ I'm	O
 watching	O
 for	O
 it	O
+.	O
 Tonight	O
 !	O
 Homemade	O
@@ -11448,10 +11993,12 @@ weights	O
 for	O
 the	O
 day	O
+.	O
 somebody	O
 hook	O
 that	O
 up	O
+.	O
 #SwollOn	O
 Good	O
 Day	O
@@ -11513,10 +12060,12 @@ with	O
 the	O
 #Padres	O
 tonight	O
+.	O
 We	O
 NEED	O
 a	O
 win	O
+.	O
 #ScoreSomeRuns	O
 Ha	O
 ha	O
@@ -11551,6 +12100,7 @@ seen	O
 alive	O
 Aug	O
 24	O
+.	O
 i	O
 have	O
 pride	O
@@ -11610,6 +12160,7 @@ bakc	O
 up	O
 QB	O
 hurt	O
+.	O
 smdh	O
 Sooo	O
 plans	O
@@ -11621,11 +12172,13 @@ I	O
 gotta	O
 do	O
 something	O
+.	O
 I	O
 need	O
 a	O
 night	O
 out	O
+.	O
 workin	O
 at	O
 the	O
@@ -11633,6 +12186,7 @@ ol	O
 Sunset	O
 Bistro	O
 tonight	O
+...	O
 come	O
 get	O
 some	O
@@ -11648,6 +12202,7 @@ I	O
 will	O
 do	O
 it	O
+.	O
 'RT	O
 @ItsTheTeenLife	O
 :	O
@@ -11704,6 +12259,7 @@ exploring	O
 and	O
 keeping	O
 an	O
+...	O
 @swavelbean13	O
 :D	O
 How	O
@@ -11752,6 +12308,7 @@ in	O
 my	O
 [	O
 WHOOPWHOOP]	O
+.	O
 #woot	O
 I'd	O
 like	O
@@ -11769,6 +12326,7 @@ doing	O
 a	O
 sit	O
 up	O
+...	O
 @YourboyH	O
 cool	O
 I'll	O
@@ -11779,6 +12337,7 @@ when	O
 I	O
 get	O
 home	O
+.	O
 JV	O
 soccer	O
 leads	O
@@ -11797,6 +12356,7 @@ play	O
 Buck	B-geo-loc
 mountain	I-geo-loc
 tomorrow	O
+.	O
 #adirondacks	O
 #hiking	O
 RT	O
@@ -11819,6 +12379,7 @@ u	O
 next	O
 time	O
 Hey	O
+....	O
 my	O
 birthday	O
 is	O
@@ -11833,6 +12394,7 @@ FREE	O
 Air	O
 Music	O
 Jump	O
+.	O
 if	O
 you	O
 like	O
@@ -11848,6 +12410,7 @@ also	O
 like	O
 Music	O
 Jump	O
+.	O
 http://appj.mp/AirMusicJump	O
 @darynjones	O
 imma	O
@@ -11899,6 +12462,7 @@ grave	O
 always	O
 dig	O
 2	O
+.	O
 Like	O
 he	O
 wanted	O
@@ -11915,6 +12479,7 @@ himself	O
 &lt;	O
 &gt;	O
 TRUE	O
+....	O
 Dat	O
 1	O
 MO	O
@@ -11926,6 +12491,7 @@ GO	O
 http://yfrog.com/jwoq9uj	O
 Bonfire	O
 tonite	O
+.	O
 All	O
 are	O
 welcome	O
@@ -12021,6 +12587,7 @@ has	O
 been	O
 held	O
 incommun	O
+...	O
 http://bit.ly/aDG3ub	O
 This	O
 is	O
@@ -12054,11 +12621,14 @@ yesshh	O
 FiNaLlY	O
 Band	O
 hall	O
+.	O
 Game	O
 time	O
+.	O
 Lets	O
 get	O
 it	O
+.	O
 RT	O
 @Huddy85	O
 :	O
@@ -12078,12 +12648,14 @@ weekend	O
 will	O
 be	O
 amazing	O
+...	O
 or	O
 at	O
 least	O
 tonight	O
 will	O
 be	O
+.	O
 today	O
 everything	O
 will	O
@@ -12094,10 +12666,12 @@ okay	O
 i	O
 know	O
 it	O
+.	O
 Haaaa	O
 ,	O
 the	O
 secret	O
+.	O
 I	O
 know	O
 I	O
@@ -12111,9 +12685,11 @@ very	O
 much	O
 cool	O
 people	O
+.	O
 Yes	O
 yes	O
 yes	O
+.	O
 IKNOWIT	O
 im	O
 thinking	O
@@ -12153,6 +12729,7 @@ vodka	O
 infusion	O
 is	O
 done	O
+.	O
 Two	O
 weeks	O
 from	O
@@ -12209,6 +12786,7 @@ and	O
 plenty	O
 of	O
 weights	O
+.	O
 Catching	O
 up	O
 on	O
@@ -12253,6 +12831,7 @@ center	O
 )	O
 in	O
 corbin	B-geo-loc
+.	O
 Going	O
 to	O
 this	O
@@ -12267,21 +12846,25 @@ I'm	O
 tired	O
 as	O
 hell	O
+.	O
 Food	O
 trumps	O
 sleep	O
 though	O
+.	O
 inspired	O
 yet	O
 again	O
 to	O
 write	O
+..	O
 cant	O
 wait	O
 to	O
 share	O
 my	O
 testimony	O
+..	O
 cant	O
 wait	O
 for	O
@@ -12294,11 +12877,13 @@ underwater	O
 brought	O
 back	O
 up	O
+..	O
 BORN	O
 AGAIN	O
 @GirlinCali79	O
 tape	O
 him	O
+.	O
 that	O
 would	O
 be	O
@@ -12325,18 +12910,22 @@ via	O
 fb	O
 and	O
 twitter	O
+.	O
 Mwahaha	O
 !	O
 Power	O
 nap	O
+.	O
 I	O
 need	O
 it	O
+.	O
 Its	O
 been	O
 a	O
 stressful	O
 week	O
+.	O
 I	O
 'm	O
 excited	O
@@ -12344,7 +12933,9 @@ for	O
 xmas	O
 ,	O
 haha	O
+.	O
 Goodnight	O
+.	O
 :)	O
 @amandaguido	O
 i	O
@@ -12382,16 +12973,17 @@ in	O
 Naples	B-geo-loc
 tomorrow	O
 with	O
-N.E.R.D.	Oartist
+N.E.R.D.	O
 ,	O
-Maroon	Oartist
-5	Oartist
+Maroon	O
+5	O
 and	O
 others	O
 at	O
 the	O
 MTV	O
 show	O
+.	O
 Tonight	O
 Stars	O
 in	O
@@ -12399,11 +12991,13 @@ Vordingborg	B-geo-loc
 -	O
 few	O
 tic	O
+...	O
 pulling	O
 an	O
 all	O
 nighter	O
 tonight	O
+....	O
 good	O
 times	O
 are	O
@@ -12415,6 +13009,7 @@ oldest	O
 daughters	O
 13th	O
 birthday	O
+.	O
 Really	O
 don't	O
 know	O
@@ -12435,6 +13030,7 @@ am	O
 really	O
 getting	O
 old	O
+.	O
 I'm	O
 not	O
 even	O
@@ -12473,6 +13069,7 @@ to	O
 my	O
 sophomore	O
 year	O
+.	O
 Madden	O
 tonite	O
 !!!	O
@@ -12506,6 +13103,7 @@ publishing	O
 on	O
 Monday	O
 morning	O
+.	O
 As	O
 such	O
 ,	O
@@ -12518,6 +13116,7 @@ PvP	O
 event	O
 is	O
 delayed	O
+.	O
 (	O
 more	O
 )	O
@@ -12534,6 +13133,7 @@ playing	O
 at	O
 Swayzes	O
 Venue	O
+.	O
 Please	O
 come	O
 support	O
@@ -12545,6 +13145,7 @@ Sunday	O
 is	O
 my	O
 birthday	O
+.	O
 82	O
 years	O
 young	O
@@ -12577,6 +13178,7 @@ The	O
 City	O
 "	O
 Pt	O
+.	O
 2	O
 at	O
 #ZULA	O
@@ -12639,6 +13241,7 @@ out	O
 the	O
 COP	O
 tailgate	O
+...	O
 65	O
 years	O
 is	O
@@ -12647,12 +13250,16 @@ something	O
 to	O
 celebrate	O
 about	O
+.	O
 Oct	O
+.	O
 2	O
 @	O
 1	O
 p	O
+.	O
 m	O
+.	O
 @leesalulu	O
 perfect	O
 round	O
@@ -12660,6 +13267,7 @@ for	O
 us	O
 this	O
 week	O
+....	O
 and	O
 yes	O
 ,	O
@@ -12713,6 +13321,7 @@ know	O
 of	O
 the	O
 cryin	O
+...	O
 http://bit.ly/bwop5U	O
 RT	O
 @RespectJustinB	O
@@ -12744,10 +13353,12 @@ just	O
 $	O
 a	O
 month	O
+.	O
 me	O
 :	O
 *puts	O
 ph	O
+...	O
 imma	O
 get	O
 my	O
@@ -12773,6 +13384,7 @@ the	O
 1	O
 i	O
 wanted	O
+.	O
 Glad	O
 i	O
 found	O
@@ -12789,6 +13401,7 @@ if	O
 not	O
 Not	O
 awful	O
+...	O
 going	O
 to	O
 start	O
@@ -12808,6 +13421,7 @@ YEAR	O
 !!!	O
 And	O
 more	O
+...	O
 http://nblo.gs/80qJu	O
 RT	O
 @WakaFlocka1017	O
@@ -12838,6 +13452,7 @@ WORTH	O
 SCHOOL	O
 SUPPLY	O
 N	O
+...	O
 After	O
 the	O
 Storm	O
@@ -12912,6 +13527,7 @@ and	O
 youre	O
 worrying	O
 about	O
+...	O
 RT	O
 @KenzieComersMum	O
 :	O
@@ -12941,6 +13557,7 @@ Sat	O
 18th	O
 Sept	O
 ,	O
+...	O
 i	O
 think	O
 it	O
@@ -12954,6 +13571,7 @@ after	O
 this	O
 bad	O
 day	O
+...	O
 RT	O
 @joejonas	O
 :	O
@@ -12961,22 +13579,29 @@ Woke	O
 up	O
 in	O
 Sacramento	B-geo-loc
+.	O
 The	O
 CA	B-geo-loc
 weather	O
 feels	O
 great	O
+.	O
 Good	O
 workout	O
+.	O
 Good	O
 Subway	O
 sandwich	O
+.	O
 Nice	O
 New	O
 shoes	O
+.	O
 Ready	O
 for	O
 tonight	O
+.	O
+...	O
 It	O
 sucks	O
 when	O
@@ -12999,6 +13624,7 @@ bikes	O
 already	O
 on	O
 it	O
+.	O
 Adam	O
 Beyer	O
 :	O
@@ -13023,6 +13649,7 @@ more	O
 diverse	O
 and	O
 likes	O
+...	O
 http://bit.ly/c1E0I1	O
 It	O
 's	O
@@ -13094,6 +13721,7 @@ tv	O
 schedule	O
 next	O
 week	O
+.	O
 This	O
 strike	O
 has	O
@@ -13101,6 +13729,7 @@ fans	O
 of	O
 Calcio	B-geo-loc
 worried	O
+....	O
 so	O
 far	O
 the	O
@@ -13108,6 +13737,7 @@ herring	O
 is	O
 a	O
 success	O
+.	O
 definitely	O
 needs	O
 a	O
@@ -13141,6 +13771,7 @@ join	O
 cont	O
 )	O
 http	O
+...	O
 @jeffstinco	O
 or	O
 @chuckcomeau	O
@@ -13198,12 +13829,14 @@ freeze	O
 the	O
 system	O
 up	O
+.	O
 250g	O
 360-s	O
 @raytida	O
 Travelling	O
 light	O
 ftw	O
+.	O
 When	O
 I	O
 came	O
@@ -13220,6 +13853,7 @@ and	O
 one	O
 clothes-based	O
 suitcase	O
+.	O
 That	O
 's	O
 all	O
@@ -13241,12 +13875,14 @@ are	O
 supeeer	O
 dark	O
 today	O
+..	O
 john	O
 says	O
 its	O
 cuz	O
 im	O
 overtired	O
+..	O
 :/	O
 @TrustL33	O
 word	O
@@ -13275,21 +13911,26 @@ OH	O
 :	O
 Power	O
 nap	O
+.	O
 I	O
 need	O
 it	O
+.	O
 Its	O
 been	O
 a	O
 stressful	O
 week	O
+.	O
 I'm	O
 excited	O
 for	O
 xmas	O
 ,	O
 haha	O
+.	O
 Goodnight	O
+.	O
 :)	O
 http://bit.ly/9fQGkC	O
 "	O
@@ -13314,10 +13955,12 @@ reminder	O
 ,	O
 Sara	O
 B	O
+.	O
 Focusing	O
 on	O
 the	O
 good	O
+.	O
 Show	O
 tonight	O
 !	O
@@ -13357,6 +14000,7 @@ with	O
 the	O
 right	O
 franchise	O
+.	O
 check	O
 out	O
 at	O
@@ -13382,12 +14026,14 @@ dump	O
 on	O
 its	O
 head	O
+.	O
 three-way	O
 race	O
 reportedly	O
 ahead	O
 in	O
 AK	B-geo-loc
+.	O
 The	O
 end	O
 of	O
@@ -13405,6 +14051,7 @@ past	O
 couple	O
 dayzz	O
 -__-	O
+...	O
 well	O
 at	O
 least	O
@@ -13413,6 +14060,7 @@ a	O
 high	O
 school	O
 student	O
+...	O
 got	O
 home	O
 today	O
@@ -13474,6 +14122,7 @@ Your	O
 a	O
 normal	O
 belieber	O
+....	O
 what	O
 happens	O
 when	O
@@ -13545,6 +14194,7 @@ phones	O
 or	O
 a	O
 computer	O
+.	O
 I	O
 get	O
 some	O
@@ -13553,11 +14203,13 @@ to	O
 myself	O
 and	O
 God	O
+.	O
 Brings	O
 peace	O
 into	O
 my	O
 life	O
+.	O
 found	O
 some	O
 really	O
@@ -13592,6 +14244,7 @@ record	O
 for	O
 a	O
 week	O
+.	O
 I'll	O
 save	O
 it	O
@@ -13607,6 +14260,7 @@ Riley	O
 a	O
 onesie	O
 today	O
+.	O
 :)	O
 patate	O
 mai	O
@@ -13625,11 +14279,13 @@ Been	O
 a	O
 rough	O
 day	O
+.	O
 On	O
 my	O
 third	O
 Dortmunder	O
 Gold	O
+.	O
 How	O
 to	O
 Write	O
@@ -13653,6 +14309,7 @@ is	O
 something	O
 many	O
 of	O
+...	O
 http://bit.ly/amRxFJ	O
 @snarkobabble	O
 I'll	O
@@ -13683,6 +14340,7 @@ way	O
 to	O
 get	O
 it	O
+.	O
 -	O
 Jim	O
 Rohn	O
@@ -13763,6 +14421,7 @@ when	O
 your	O
 like	O
 14	O
+...	O
 on	O
 Twitpic	O
 http://t.co/hDq4cXW	O
@@ -13787,6 +14446,7 @@ hit	O
 my	O
 glasses	O
 -_-	O
+.	O
 not	O
 cool	O
 Public	O
@@ -13813,6 +14473,7 @@ all	O
 in	O
 a	O
 week	O
+.	O
 Off	O
 to	O
 (	O
@@ -13822,8 +14483,10 @@ a	O
 slightly	O
 warmer	O
 place	O
+...	O
 or	O
 not	O
+.	O
 x	O
 Thank	O
 u	O
@@ -13892,6 +14555,7 @@ a	O
 request	O
 on	O
 facebook	O
+...	O
 we	O
 hadnt	O
 taLked	O
@@ -13907,6 +14571,7 @@ is	O
 around	O
 the	O
 world	O
+.	O
 I	O
 just	O
 took	O
@@ -13943,6 +14608,7 @@ watching	O
 Day	O
 51	O
 HLs	O
+.	O
 (	O
 Awaiting	O
 Marcus	O
@@ -13977,6 +14643,7 @@ shows	O
 in	O
 the	O
 country	O
+.	O
 http://etsy.me/9tTkop	O
 what	O
 to	O
@@ -13985,6 +14652,7 @@ do	O
 what	O
 to	O
 do	O
+...	O
 gross	O
 sushi	O
 for	O
@@ -14006,6 +14674,7 @@ to	O
 write	O
 and	O
 relax	O
+.	O
 RT	O
 @WakaFlocka1017	O
 :	O
@@ -14035,6 +14704,7 @@ WORTH	O
 SCHOOL	O
 SUPPLY	O
 N	O
+...	O
 @Miss_deadpool	O
 May	O
 's	O
@@ -14047,9 +14717,11 @@ on	O
 her	O
 upper	O
 body	O
+.	O
 I	O
 'm	O
 confused	O
+.	O
 man	O
 my	O
 twin	O
@@ -14089,6 +14761,7 @@ to	O
 modernize	O
 its	O
 f	O
+...	O
 http://bit.ly/bVaPzc'	O
 RT	O
 @ItsTheTeenLife	O
@@ -14111,6 +14784,7 @@ wearing	O
 hoodies	O
 and	O
 jeans	O
+.	O
 -_-	O
 #ItsTheTeenLife	O
 RT	O
@@ -14129,6 +14803,7 @@ doesn't	O
 look	O
 right	O
 anymore	O
+.	O
 estonia	B-geo-loc
 tomorrow	O
 with	O
@@ -14192,6 +14867,7 @@ a	O
 store	O
 at	O
 @HDbuttercupLA	O
+.	O
 Who	O
 loves	O
 Friday	O
@@ -14261,12 +14937,14 @@ a	O
 couple	O
 days	O
 ago	O
+..	O
 He	O
 's	O
 my	O
 inspiration	O
 &amp;	O
 me	O
+...	O
 @NeilPen	O
 I	O
 position	O
@@ -14306,11 +14984,13 @@ brother	O
 mom	O
 or	O
 dad	O
+.	O
 The	O
 full	O
 life	O
 montage	O
 helps	O
+...	O
 four	O
 fucking	O
 years	O
@@ -14332,6 +15012,7 @@ America	B-geo-loc
 largest	O
 wireless	O
 ISP	O
+...	O
 and	O
 I	O
 get	O
@@ -14348,6 +15029,7 @@ under	O
 my	O
 AC	O
 unit	O
+.	O
 *turns	O
 it	O
 off*	O
@@ -14359,14 +15041,18 @@ note	O
 IT'S	O
 BBQ	O
 TIME	O
+.	O
 Been	O
 a	O
 long	O
 week	O
+.	O
 Tired	O
+.	O
 Sleep	O
 now	O
 please	O
+.	O
 Oh	O
 beautiful	O
 day	O
@@ -14394,6 +15080,7 @@ showing	O
 out	O
 today	O
 lol	O
+.	O
 watching	O
 the	O
 VMA	O
@@ -14410,6 +15097,7 @@ show	O
 the	O
 first	O
 time	O
+...	O
 so	O
 bored	O
 !	O
@@ -14423,6 +15111,7 @@ us	O
 is	O
 one	O
 way	O
+.	O
 I	O
 always	O
 complained	O
@@ -14433,6 +15122,7 @@ feel	O
 where	O
 he	O
 is	O
+.	O
 But	O
 the	O
 problem	O
@@ -14443,6 +15133,7 @@ him	O
 it	O
 was	O
 me	O
+.	O
 @jackjohnson	O
 where	O
 can	O
@@ -14529,6 +15220,7 @@ this	O
 week	O
 !	O
 urgh	O
+.	O
 RACHELLE	O
 im	O
 gonnauh	O
@@ -14560,16 +15252,19 @@ alone	O
 and	O
 don't	O
 regret	O
+.	O
 Sometimes	O
 somethings	O
 turn	O
 in-to	O
 dumb	O
 things	O
+.	O
 And	O
 that	O
 's	O
 when	O
+...	O
 @TeemoneeNYC	O
 lmao	O
 Sunday	O
@@ -14595,6 +15290,7 @@ doesn't	O
 seem	O
 so	O
 bad	O
+...	O
 RT	O
 @pastorbrady	O
 :	O
@@ -14635,6 +15331,7 @@ Commissioner	O
 Margaret	O
 Hamburg	O
 present	O
+...	O
 http://bit.ly/9i1AEg	O
 @DebVRuns	O
 hi	O
@@ -14689,6 +15386,7 @@ en	O
 presentaties	O
 enzo	O
 &gt;	O
+.	O
 &lt;	O
 '....	O
 I	O
@@ -14700,6 +15398,7 @@ lecture	O
 like	O
 20mins	O
 ago	O
+...	O
 #sad	O
 Alright	O
 yall	O
@@ -14728,6 +15427,7 @@ up	O
 in	O
 the	O
 thread	O
+.	O
 He	O
 was	O
 bitching	O
@@ -14756,11 +15456,13 @@ zin	O
 van	O
 het	O
 woord	O
+.	O
 Ik	O
 arriveerde	O
 toen	O
 5	O
 kilo	O
+.	O
 Gelukkig	O
 viel	O
 ik	O
@@ -14770,6 +15472,7 @@ week	O
 evenzoveel	O
 weer	O
 uit	O
+.	O
 I	O
 just	O
 took	O
@@ -14808,6 +15511,7 @@ begin	O
 with	O
 ?	O
 lols	O
+.	O
 @mggykills	O
 @dieSIBdie	O
 When	O
@@ -14824,6 +15528,7 @@ your	O
 roommate	O
 's	O
 boxers	O
+.	O
 #rulesbetweenmen	O
 Action	O
 is	O
@@ -14840,6 +15545,7 @@ action	O
 today	O
 my	O
 friends	O
+......	O
 and	O
 watch	O
 synchronicities	O
@@ -14847,12 +15553,14 @@ happen	O
 @Johnn_Dillinger	O
 nothing	O
 man	O
+.	O
 Tryna	O
 see	O
 was	O
 good	O
 for	O
 today	O
+.	O
 Was	O
 good	O
 with	O
@@ -14869,6 +15577,7 @@ can't	O
 serve	O
 the	O
 time	O
+.	O
 ;)	O
 RT	O
 @TCPB_McDreamy	O
@@ -14882,6 +15591,7 @@ before	O
 iTake	O
 this	O
 quiz	O
+...	O
 wish	O
 me	O
 luck	O
@@ -14900,6 +15610,7 @@ want	O
 ,	O
 you	O
 suffer	O
+.	O
 If	O
 you	O
 get	O
@@ -14934,6 +15645,7 @@ had	O
 talking	O
 to	O
 Rashad	O
+...	O
 :)	O
 Time	O
 to	O
@@ -14948,7 +15660,9 @@ per	O
 day	O
 !!	O
 WWW	O
+.	O
 bigbucksonline	O
+.	O
 info	O
 'I	O
 just	O
@@ -14974,6 +15688,7 @@ Words	O
 and	O
 Wine	O
 September	O
+...	O
 http://fb.me/AyezVfH3'	O
 'RT	O
 @cobraxcobrax	O
@@ -14999,7 +15714,9 @@ win	O
 using	O
 USB	O
 3	O
+.	O
 Easy	O
+.	O
 http://ow.ly/2FXM2	O
 #tech'	O
 to	O
@@ -15064,6 +15781,7 @@ opened	O
 a	O
 git	O
 manual	O
+.	O
 I	O
 have	O
 eaten	O
@@ -15074,9 +15792,11 @@ of	O
 oranges	O
 this	O
 week	O
+...	O
 @JoshRamsayArmy	O
 Kay	O
 sorry	O
+...	O
 Well	O
 my	O
 dad	O
@@ -15085,20 +15805,24 @@ when	O
 i	O
 was	O
 3	O
+.	O
 He	O
 has	O
 issues	O
+.	O
 He	O
 held	O
 a	O
 knife	O
 at	O
 mom	O
+.	O
 I	O
 can	O
 STILL	O
 remember	O
 that	O
+...	O
 =/	O
 Haha	O
 I	O
@@ -15112,6 +15836,7 @@ foot	O
 cheese	O
 grater	O
 today	O
+.	O
 I	O
 found	O
 it	O
@@ -15129,6 +15854,7 @@ yours	O
 been	O
 ?	O
 Niiiiice	O
+.	O
 http://www.pbs.org/wgbh/pages/frontline/	O
 Watched	O
 The	O
@@ -15143,6 +15869,7 @@ example	O
 but	O
 super	O
 good	O
+.	O
 Dinner	O
 tonight	O
 :	O
@@ -15173,6 +15900,7 @@ tonight	O
 ASPCA	O
 PETA	O
 HSUS	O
+..	O
 Animal	O
 rescue	O
 or	O
@@ -15195,6 +15923,7 @@ eating	O
 tacos	O
 for	O
 dinner	O
+.	O
 the	O
 update	O
 for	O
@@ -15210,6 +15939,7 @@ to	O
 do	O
 with	O
 it	O
+...	O
 RT	O
 @iSplashInYoMouf	O
 :	O
@@ -15312,6 +16042,7 @@ to	O
 resubmit	O
 next	O
 week	O
+.	O
 Quite	O
 excited	O
 ,	O
@@ -15319,6 +16050,7 @@ but	O
 also	O
 rather	O
 scared	O
+.	O
 All	O
 day	O
 http://plixi.com/p/45666421	O
@@ -15331,6 +16063,7 @@ from	O
 time	O
 to	O
 time	O
+.	O
 :)	O
 OH-OH	O
 It	O
@@ -15343,6 +16076,7 @@ heading	O
 back	O
 to	O
 jail	O
+.	O
 The	O
 actress	O
 has	O
@@ -15390,6 +16124,7 @@ so	O
 out	O
 of	O
 touch	O
+.	O
 before	O
 debates	O
 im	O
@@ -15414,6 +16149,7 @@ monday	O
 party	O
 party	O
 party	O
+.	O
 &lt;	O
 3	O
 Whats	O
@@ -15428,6 +16164,7 @@ Conv	O
 between	O
 sisters	O
 pals	O
+.	O
 Charlene	O
 ;	O
 it	O
@@ -15442,6 +16179,7 @@ a	O
 baby	O
 after	O
 christmas	O
+.	O
 Jemma	O
 ;	O
 they	O
@@ -15450,6 +16188,7 @@ have	O
 a	O
 baby	O
 charlene	O
+.	O
 :	O
 L	O
 Artful	O
@@ -15463,10 +16202,13 @@ Pumpkins	O
 Ladies	O
 Long	O
 Sleeve	O
+.	O
 Altered	O
 vintage	O
 design	O
+.	O
 Backgroun	O
+...	O
 http://bit.ly/9RRYOI	O
 #tshirts	O
 The	O
@@ -15483,10 +16225,12 @@ have	O
 seen	O
 all	O
 year	O
+.	O
 So	O
 ,	O
 so	O
 good	O
+.	O
 And	O
 don't	O
 worry	O
@@ -15498,7 +16242,9 @@ forgave	O
 you	O
 for	O
 Gigli	O
+.	O
 Really	O
+.	O
 Summer	O
 has	O
 come	O
@@ -15510,12 +16256,14 @@ innocent	O
 can	O
 never	O
 last	O
+.	O
 Wake	O
 me	O
 up	O
 when	O
 September	O
 ends	O
+.	O
 @robbieanthony87	O
 yey	O
 :D	O
@@ -15523,6 +16271,7 @@ thank	O
 you	O
 so	O
 much	O
+.	O
 How're	O
 you	O
 ?	O
@@ -15560,10 +16309,12 @@ ladies	O
 were	O
 great	O
 today	O
+.	O
 Have	O
 a	O
 wicked	O
 weekend	O
+.	O
 xx	O
 OMFresh	O
 man	O
@@ -15618,11 +16369,13 @@ tonight	O
 no	O
 work	O
 yea	O
+....	O
 Badd	O
 Badd	O
 Badd	O
 Badd	O
 girls	O
+.	O
 Let	O
 's	O
 gooooooooooo	O
@@ -15676,11 +16429,13 @@ so	O
 little	O
 to	O
 do	O
+.	O
 Strike	O
 that	O
 ,	O
 reverse	O
 it	O
+.	O
 #NAME?	O
 Dahl	O
 RT	O
@@ -15699,7 +16454,9 @@ deprive	O
 Treasury	O
 of	O
 $4T	O
+.	O
 No	O
+.	O
 Treasury	O
 deprived	O
 of	O
@@ -15709,7 +16466,9 @@ Obama	O
 spent	O
 it	O
 all	O
+.	O
 #	O
+...	O
 oh	O
 snap	O
 i	O
@@ -15717,6 +16476,7 @@ got	O
 #blackandyellow	O
 on	O
 today	O
+..	O
 just	O
 for	O
 wiz	O
@@ -15768,6 +16528,7 @@ tonight	O
 &lt;	O
 every	O
 week	O
+.	O
 Lets	O
 get	O
 it	O
@@ -15837,6 +16598,7 @@ in	O
 the	O
 break	O
 room	O
+.	O
 Should	O
 I	O
 call	O
@@ -15851,6 +16613,7 @@ air	O
 hockey	O
 ?	O
 #profiling	O
+.	O
 RT	O
 @Slijterijmeisje	O
 :	O
@@ -15913,6 +16676,7 @@ year	O
 graduate	O
 student	O
 at	O
+...	O
 http://bit.ly/cDYeqQ	O
 Just	O
 got	O
@@ -15926,6 +16690,7 @@ emails	O
 from	O
 the	O
 week	O
+.	O
 Now	O
 I	O
 feel	O
@@ -15937,6 +16702,7 @@ office	O
 for	O
 the	O
 weekend	O
+.	O
 TGIF	O
 !	O
 HAPPY	O
@@ -15981,6 +16747,7 @@ pm	O
 at	O
 Burnaby	B-geo-loc
 8Rinks	O
+.	O
 Please	O
 note	O
 ,	O
@@ -16005,6 +16772,7 @@ Loan	O
 US	O
 $	O
 32	O
+.	O
 End	O
 Date	O
 :	O
@@ -16019,6 +16787,7 @@ It	O
 Now	O
 for	O
 on	O
+...	O
 http://bit.ly/9IV2ex	O
 Every	O
 time	O
@@ -16034,6 +16803,7 @@ get	O
 speechless	O
 in	O
 amazement	O
+.	O
 He	O
 would	O
 be	O
@@ -16047,6 +16817,7 @@ he	O
 were	O
 alive	O
 No	O
+.	O
 The	O
 Pope	O
 asked	O
@@ -16055,6 +16826,7 @@ to	O
 stay	O
 after	O
 class	O
+.	O
 #moviedialoguewithpopesubstitute	O
 ANW	O
 :	O
@@ -16079,6 +16851,7 @@ hour	O
 ago	O
 on	O
 h	O
+...	O
 http://bit.ly/a2lhpa	O
 Is	O
 so	O
@@ -16095,6 +16868,7 @@ with	O
 at	O
 The	O
 Echo	O
+.	O
 #ff	O
 @eops	O
 to	O
@@ -16109,6 +16883,7 @@ feeling	O
 so	O
 hot	O
 today	O
+.	O
 (and	O
 send	O
 him	O
@@ -16173,6 +16948,7 @@ car	O
 only	O
 plastic	O
 money	O
+.	O
 #amplotting	O
 RT	O
 @angelfrmcanada	O
@@ -16197,6 +16973,7 @@ to	O
 Give	O
 us	O
 a	O
+...	O
 FAN	O
 Art	O
 in	O
@@ -16222,6 +16999,7 @@ a	O
 Super	O
 FUN	O
 Plac	O
+...	O
 http://bit.ly/bCc2MS	O
 @KaulitzClub	O
 Hahaha	O
@@ -16239,6 +17017,7 @@ EVERYTIME	O
 we	O
 get	O
 together	O
+.	O
 And	O
 it	O
 's	O
@@ -16309,6 +17088,7 @@ I	O
 rape	O
 Nick	O
 Jonas	O
+.	O
 DJ	O
 set	O
 at	O
@@ -16327,10 +17107,13 @@ a	O
 complete	O
 heffa	O
 today	O
+.	O
 FML	O
+.	O
 Peppers	O
 with	O
 Kathy	O
+...	O
 where	O
 we	O
 always	O
@@ -16342,6 +17125,8 @@ know	O
 where	O
 to	O
 go	O
+.	O
+..	O
 it	O
 's	O
 that	O
@@ -16357,6 +17142,7 @@ turn	O
 to	O
 fluffy	O
 powder	O
+..	O
 neither	O
 of	O
 which	O
@@ -16371,6 +17157,7 @@ have	O
 a	O
 real	O
 O	O
+.	O
 @Foxy_Shoe_Thief	O
 *purrs	O
 long	O
@@ -16387,6 +17174,7 @@ taught	O
 me	O
 to	O
 do	O
+..	O
 ears	O
 pulled	O
 back	O
@@ -16425,6 +17213,7 @@ let	O
 go	O
 another	O
 guy	O
+.	O
 Lindsay	O
 Lohan	O
 allegedly	O
@@ -16432,9 +17221,11 @@ failed	O
 her	O
 drug	O
 test	O
+.	O
 So	O
 not	O
 fetch	O
+.	O
 Quick	O
 ,	O
 let	O
@@ -16457,6 +17248,7 @@ Soulja	O
 Boy	O
 |	O
 TheDeAndreWay	O
+.	O
 com	O
 -	O
 The	O
@@ -16528,6 +17320,7 @@ from	O
 you	O
 southern	O
 lot	O
+.	O
 RT	O
 @ThePredator48	O
 :	O
@@ -16554,6 +17347,7 @@ the	O
 Redskins	O
 read	O
 boo	O
+...	O
 @rattleknackers	O
 amusing	O
 ?	O
@@ -16582,6 +17376,7 @@ GETTN	O
 FUCKED	O
 UP	O
 TONIGHT	O
+....	O
 RT	O
 @DaisyCottageIRL	O
 :	O
@@ -16603,6 +17398,7 @@ time	O
 on	O
 their	O
 hands	O
+.	O
 #ShouldTakeUpDarning	O
 RT	O
 @HRosenfelder	O
@@ -16616,6 +17412,7 @@ by	O
 going	O
 to	O
 http://www.ltcfp.com	O
+.	O
 #financial	O
 RT	O
 @jjburdett	O
@@ -16625,6 +17422,7 @@ Important	O
 Election	O
 in	O
 years	O
+.	O
 RECLAMATION	O
 !	O
 @marcorubio	O
@@ -16639,6 +17437,7 @@ Pictures	O
 of	O
 August	O
 2010	O
+...	O
 http://bit.ly/bgCyZ0	O
 #photography	O
 I	O
@@ -16677,6 +17476,7 @@ excited	O
 !	O
 @dolemite4	O
 haha	O
+.	O
 I	O
 might	O
 be	O
@@ -16695,6 +17495,7 @@ golfer	O
 ,	O
 Tiger	O
 Woods	O
+.	O
 If	O
 a	O
 guy	O
@@ -16710,6 +17511,7 @@ a	O
 year	O
 can	O
 also	O
+...	O
 http://bit.ly/94sBNr	O
 super	O
 nintendo	O
@@ -16739,7 +17541,9 @@ never	O
 enjoy	O
 to	O
 sleep	O
+...	O
 hhmmm	O
+..	O
 Have	O
 a	O
 nice	O
@@ -16752,6 +17556,7 @@ Well	O
 that	O
 makes	O
 sense	O
+.	O
 When	O
 you	O
 have	O
@@ -16771,8 +17576,10 @@ just	O
 withdraw	O
 into	O
 yourself	O
+.	O
 I	O
 do	O
+.	O
 weekend	O
 saturday	O
 -	O
@@ -16805,6 +17612,7 @@ full	O
 of	O
 pussys	O
 tonight	O
+.	O
 RT	O
 @botdfmusic	O
 :	O
@@ -16822,6 +17630,7 @@ and	O
 after	O
 the	O
 shows	O
+.	O
 So	O
 everyone	O
 will	O
@@ -16829,6 +17638,7 @@ get	O
 autographs	O
 and	O
 pictures	O
+...	O
 @LillaRebellato	O
 bah	O
 !	O
@@ -16840,11 +17650,13 @@ before	O
 the	O
 one	O
 before	O
+.	O
 Thought	O
 I	O
 was	O
 in	O
 then	O
+.	O
 I	O
 just	O
 took	O
@@ -16895,6 +17707,8 @@ Auburn	B-geo-loc
 party	O
 at	O
 http://bit	O
+.	O
+...	O
 When	O
 you	O
 judge	O
@@ -16907,12 +17721,14 @@ them	O
 you	O
 define	O
 yourself	O
+.	O
 ~Wayne	O
 Dyer	O
 #Offline	O
 For	O
 along	O
 time	O
+...	O
 maybe	O
 not	O
 until	O
@@ -16938,6 +17754,7 @@ developer	O
 If	O
 you've	O
 hear	O
+...	O
 http://bit.ly/cy1wNb	O
 @artichoke_diep	O
 hey	O
@@ -17004,6 +17821,7 @@ she	O
 flunked	O
 a	O
 drug	O
+...	O
 http://dlvr.it/5RfK7	O
 MITE	O
 SLEEP	O
@@ -17027,12 +17845,14 @@ there	O
 around	O
 that	O
 time	O
+.	O
 I'll	O
 call/text	O
 you	O
 when	O
 I	O
 arrive	O
+.	O
 @bakontrack	O
 I	O
 was	O
@@ -17081,6 +17901,7 @@ diff	O
 video	O
 shoot	O
 locations	O
+.	O
 Today	O
 I	O
 did	O
@@ -17127,6 +17948,7 @@ a	O
 mess	O
 eternally	O
 be	O
+.	O
 Xbox	O
 360	O
 :	O
@@ -17143,6 +17965,7 @@ PlayStation	O
 Network	O
 on	O
 September	O
+...	O
 http://bit.ly/9gFTHn	O
 i	O
 hate	O
@@ -17155,6 +17978,7 @@ change	O
 for	O
 the	O
 customers	O
+..	O
 After	O
 I	O
 pet	O
@@ -17211,6 +18035,7 @@ just	O
 won	O
 $1000	O
 tonight	O
+.	O
 100%	O
 Bonus	O
 ,	O
@@ -17227,6 +18052,7 @@ http://bit.ly/aoDEls?=njq4	O
 @princessmariam9	O
 i	O
 know	O
+..	O
 i	O
 need	O
 to	O
@@ -17240,6 +18066,7 @@ get	O
 filled	O
 with	O
 water	O
+.	O
 @BadAssAlexander	O
 *sighs*	O
 Studying	O
@@ -17249,6 +18076,7 @@ exam	O
 coming	O
 up	O
 soon	O
+.	O
 *huffs	O
 before	O
 smiling*	O
@@ -17309,6 +18137,7 @@ hit	O
 10K	O
 followers	O
 today	O
+.	O
 You	O
 must	O
 be	O
@@ -17318,6 +18147,7 @@ must	O
 RT	O
 !	O
 Lmao	O
+.	O
 I	O
 have	O
 a	O
@@ -17327,8 +18157,10 @@ get	O
 yelled	O
 at	O
 tomorrow	O
+.	O
 Big	O
 time	O
+.	O
 XD	O
 Ehh	O
 oh	O
@@ -17471,6 +18303,7 @@ have	O
 plenty	O
 of	O
 time	O
+...	O
 LOL	O
 :-)	O
 I	O
@@ -17495,9 +18328,11 @@ it	O
 's	O
 utter	O
 shit	O
+.	O
 @joereist	O
 hey	O
 Joe	O
+.	O
 I'm	O
 down	O
 the	O
@@ -17505,12 +18340,14 @@ road	O
 in	O
 Ft	B-geo-loc
 Mitchell	I-geo-loc
+.	O
 No	O
 time	O
 to	O
 smoke	O
 but	O
 waving	O
+.	O
 Did	O
 you	O
 get	O
@@ -17541,6 +18378,7 @@ that	O
 he	O
 was	O
 cute	O
+.	O
 She	O
 said	O
 she	O
@@ -17549,12 +18387,15 @@ But	O
 ,	O
 she	O
 did	O
+.	O
 Haha	O
+.	O
 :)	O
 Soulja	O
 Boy	O
 |	O
 TheDeAndreWay	O
+.	O
 com	O
 -	O
 The	O
@@ -17578,6 +18419,7 @@ Days	O
 From	O
 Workin	O
 Out	O
+.	O
 @VicapherIsDaddy	O
 ilike	O
 to	O
@@ -17585,6 +18427,7 @@ call	O
 it	O
 that	O
 too	O
+.	O
 I	O
 dnt	O
 knw	O
@@ -17603,6 +18446,7 @@ ibe	O
 qassin	O
 hoes	O
 when	O
+..	O
 RT	O
 @MyLifeAsLiz_Liz	O
 :	O
@@ -17631,10 +18475,12 @@ the	O
 most	O
 popular	O
 chick	O
+...	O
 @matthewstaylor	O
 yeah	O
 you	O
 will	O
+.	O
 you	O
 gonna	O
 mosh	O
@@ -17670,6 +18516,7 @@ of	O
 hunger	O
 every	O
 year	O
+.	O
 Heed	O
 the	O
 call	O
@@ -17716,12 +18563,14 @@ it	O
 's	O
 continous	O
 heartfail	O
+..	O
 Gonna	O
 for	O
 vocal	O
 solo	O
 on	O
 tuesday	O
+.	O
 T_T	O
 Awesome	O
 tennis	O
@@ -17754,6 +18603,7 @@ is	O
 insult	O
 to	O
 injury	O
+.	O
 They	O
 're	O
 clearly	O
@@ -17770,6 +18620,7 @@ weather	O
 could	O
 be	O
 better	O
+.	O
 @BundleHunt	O
 Is	O
 it	O
@@ -17813,6 +18664,7 @@ RT	O
 Football	O
 and	O
 partiesss	O
+.	O
 This	O
 is	O
 the	O
@@ -17824,6 +18676,7 @@ about	O
 the	O
 school	O
 year	O
+.	O
 &lt;	O
 3	O
 Day	O
@@ -17850,6 +18703,7 @@ Surita	O
 your	O
 a	O
 freaking	O
+...	O
 http://tumblr.com/xmciuda0t	O
 Have	O
 a	O
@@ -17860,6 +18714,7 @@ Field	O
 today	O
 at	O
 6pm	O
+.	O
 Hope	O
 i	O
 shine	O
@@ -17869,6 +18724,7 @@ start	O
 the	O
 next	O
 game	O
+.	O
 :)	O
 @lauraluanabeth	O
 'll	O
@@ -17932,6 +18788,7 @@ Train	O
 @elainebiss	O
 @TableMatters10	O
 @STALKmyPRETT	O
+...	O
 RT	O
 @CobraCommander	O
 :	O
@@ -17954,6 +18811,7 @@ contributed	O
 to	O
 the	O
 downfall	O
+.	O
 My	O
 #twitter	O
 age	O
@@ -17966,6 +18824,7 @@ hours	O
 minutes	O
 38	O
 seconds	O
+.	O
 Find	O
 out	O
 yours	O
@@ -17979,6 +18838,7 @@ wrong	O
 with	O
 kids	O
 today	O
+.	O
 On	O
 a	O
 packed	O
@@ -18053,6 +18913,7 @@ League	O
 Pass	O
 withdrawal	O
 symptoms	O
+......	O
 California	B-geo-loc
 Woman	O
 Dies	O
@@ -18072,6 +18933,7 @@ morning	O
 before	O
 court	O
 orde	O
+...	O
 http://bit.ly/aiHEvj	O
 RT	O
 @BieberInAus	O
@@ -18092,6 +18954,7 @@ FACEBOOK	O
 1	O
 MIN	O
 AGO	O
+..	O
 CREEPER	O
 !	O
 I	O
@@ -18106,6 +18969,7 @@ lost/forgot	O
 my	O
 lunch	O
 tickets	O
+.	O
 #PureTragedy	O
 You	O
 know	O
@@ -18115,6 +18979,7 @@ bright	O
 yellow/dark	O
 blue	O
 ones	O
+.	O
 so	O
 much	O
 for	O
@@ -18127,6 +18992,7 @@ before	O
 my	O
 bday	O
 weekend	O
+.	O
 working	O
 til	O
 close	O
@@ -18135,11 +19001,13 @@ That	O
 's	O
 college	O
 tuition	O
+.	O
 That	O
 's	O
 two	O
 average	O
 cars	O
+.	O
 That	O
 's	O
 a	O
@@ -18150,9 +19018,11 @@ of	O
 someone	O
 's	O
 salary	O
+.	O
 That	O
 's	O
 insaneeee	O
+.	O
 Top	O
 M&amp;A	O
 news	O
@@ -18239,7 +19109,9 @@ for	O
 3	O
 million	O
 viewers	O
+.	O
 Sh	O
+...	O
 RT	O
 @DamnTeenQuotes	O
 :	O
@@ -18265,6 +19137,7 @@ and	O
 Josh	O
 was	O
 fat	O
+.	O
 #damnteenquotes	O
 TODAY	O
 IS	O
@@ -18300,6 +19173,7 @@ of	O
 Privileged	O
 Identity	O
 Managem	O
+...	O
 ;O	O
 @speedy1013	O
 I	O
@@ -18320,6 +19194,7 @@ a	O
 movie	O
 night	O
 here	O
+.	O
 Zombies	O
 are	O
 badass	O
@@ -18395,10 +19270,12 @@ of	O
 service	O
 to	O
 you	O
+.	O
 Thank	O
 you	O
 for	O
 allowing	O
+.	O
 I	O
 am	O
 living	O
@@ -18416,11 +19293,13 @@ every	O
 thing	O
 I	O
 do	O
+.	O
 And	O
 its	O
 about	O
 fucking	O
 time	O
+.	O
 #dontsettle	O
 #EVER	O
 Good	O
@@ -18431,6 +19310,7 @@ today	O
 On	O
 the	O
 bus	O
+.	O
 Full	O
 of	O
 people	O
@@ -18448,6 +19328,7 @@ is	O
 about	O
 3D	O
 graffitti	O
+...	O
 http://francescoandreone.blogspot.com/2010/09/banksy-makes-social-commentary-art.html	O
 omg	O
 @wethekings	O
@@ -18459,6 +19340,7 @@ at	O
 Stetson	O
 in	O
 November	O
+..	O
 if	O
 it	O
 's	O
@@ -18489,10 +19371,13 @@ failed	O
 her	O
 drug	O
 test	O
+...	O
 sources	O
 tell	O
 TMZ	O
+....	O
 http://bi	O
+...	O
 Pope	O
 says	O
 religion	O
@@ -18515,10 +19400,12 @@ religion	O
 is	O
 so	O
 mar	O
+...	O
 http://bit.ly/cBvt1u	O
 @JennyVeronica92	O
 thats	O
 whassup	O
+.	O
 when	O
 u	O
 posed	O
@@ -18529,10 +19416,12 @@ out	O
 here	O
 @glorybeful	O
 Well	O
+...	O
 thats	O
 why	O
 they	O
 invented	O
+...	O
 tomorrow	O
 !	O
 :o	O
@@ -18573,6 +19462,7 @@ people	O
 carry	O
 ragedy	O
 luggage	O
+..	O
 ima	O
 just	O
 rip	O
@@ -18603,6 +19493,7 @@ not	O
 have	O
 class	O
 today	O
+.	O
 @Yeweezii	O
 Jst	O
 lock	O
@@ -18611,6 +19502,7 @@ outside	O
 4	O
 d	O
 nite	O
+.	O
 It	O
 workz	O
 al	O
@@ -18708,6 +19600,7 @@ at	O
 the	O
 cusp	O
 o	O
+...	O
 Happy	O
 Constitution	O
 Day	O
@@ -18750,6 +19643,7 @@ java	O
 for	O
 the	O
 caffeine	O
+.	O
 not	O
 so	O
 sure	O
@@ -18774,6 +19668,7 @@ driving	O
 away	O
 to	O
 Phil	B-geo-loc
+.	O
 Tasty	O
 dinner	O
 tonight	O
@@ -18785,6 +19680,7 @@ Mining	O
 and	O
 Metallurgy	O
 Engineers	O
+.	O
 @JuicylyJas	O
 iiqht	O
 im	O
@@ -18794,6 +19690,7 @@ look	O
 into	O
 sunday	O
 for	O
+..	O
 I	O
 remember	O
 when	O
@@ -18834,6 +19731,7 @@ http://4sq.com/b5Wloc	O
 @krtgrphr	O
 Arre	O
 no	O
+.	O
 After	O
 experiencing	O
 loos	O
@@ -18843,11 +19741,13 @@ Japan	B-geo-loc
 I'm	O
 spoiled	O
 forever	O
+.	O
 Now	O
 everything	O
 is	O
 SulahShauchalay	O
 baraabar	O
+.	O
 Hurry	O
 up	O
 !	O
@@ -18925,6 +19825,7 @@ away	O
 in	O
 July	O
 lol	O
+.....	O
 @sjonrefur	O
 Tuesday-Fight	O
 Night	O
@@ -18934,6 +19835,7 @@ Fight	O
 Club	O
 in	O
 Chicago	B-geo-loc
+.	O
 Pringles	O
 ,	O
 baby	O
@@ -18988,6 +19890,7 @@ die	O
 von	O
 meinem	O
 bruder	O
+.	O
 aber	O
 bei	O
 ihm	O
@@ -19035,6 +19938,7 @@ WORTH	O
 SCHOOL	O
 SUPPLY	O
 N	O
+...	O
 Let	O
 's	O
 go	O
@@ -19063,6 +19967,7 @@ for	O
 dabigatran	O
 on	O
 Monday	O
+.	O
 RT	O
 @DrJennyK	O
 :	O
@@ -19095,6 +20000,7 @@ Carnegies	O
 Brae	O
 Aberdeen	O
 Un	O
+...	O
 "'"""	O
 We	O
 still	O
@@ -19200,6 +20106,7 @@ highest	O
 in	O
 a	O
 month	O
+...	O
 http://bit.ly/a0F3dO	O
 Aggressive	O
 Kids	O
@@ -19296,6 +20203,7 @@ Week	O
 New	B-geo-loc
 York	I-geo-loc
 Fa	O
+...	O
 http://bit.ly/aMaJNB	O
 RT	O
 @KaiWayne	O
@@ -19313,6 +20221,7 @@ he	O
 could	O
 manage	O
 Real	O
+.	O
 What	O
 he	O
 actually	O
@@ -19324,6 +20233,7 @@ manage	O
 a	O
 real	O
 ale	O
+.	O
 I	O
 don't	O
 know	O
@@ -19335,6 +20245,7 @@ fine	O
 when	O
 i'm	O
 not	O
+.	O
 And	O
 i	O
 don't	O
@@ -19345,6 +20256,7 @@ make	O
 a	O
 feelin	O
 stop	O
+.	O
 I	O
 don't	O
 know	O
@@ -19359,6 +20271,7 @@ music	O
 awards	O
 these	O
 days	O
+.	O
 RT	O
 @OscarBlandi	O
 :	O
@@ -19426,6 +20339,7 @@ advances	O
 in	O
 medical	O
 s	O
+...	O
 http://bit.ly/cVPhNE	O
 @HackinTimSeeley	O
 A	O
@@ -19467,6 +20381,7 @@ with	O
 blackberries	O
 and	O
 honey	O
+.	O
 http://tiny.cc/6dshg	O
 Ciroc	O
 it	O
@@ -19504,7 +20419,9 @@ Francisco	I-geo-loc
 6pm	O
 contact	O
 Jennifer	O
+.	O
 Gainza@nmss	O
+.	O
 org	O
 @mychiller	O
 Must	O
@@ -19517,14 +20434,17 @@ right	O
 O	O
 happy	O
 day	O
+.	O
 My	O
 local	O
 grocery	O
 carries	O
 Hoegaarden	O
+.	O
 Made	O
 it	O
 home	O
+.	O
 How	O
 long	O
 will	O
@@ -19548,6 +20468,7 @@ IT	O
 !	O
 enjoy	O
 it	O
+.	O
 like	O
 u	O
 just	O
@@ -19564,6 +20485,7 @@ the	O
 bride	O
 "	O
 smell	O
+.	O
 (	O
 the	O
 lack	O
@@ -19578,6 +20500,7 @@ go	O
 cowtipping	O
 with	O
 ram	O
+.	O
 )	O
 "	O
 -	O
@@ -19591,6 +20514,7 @@ is	O
 in	O
 the	O
 mail	O
+.	O
 @Genuine	O
 Will	O
 I	O
@@ -19619,6 +20543,7 @@ driving	O
 home	O
 from	O
 work	O
+.	O
 #ILoveDC	O
 RT	O
 @BieberPledge	O
@@ -19655,11 +20580,13 @@ for	O
 a	O
 while	O
 tonight	O
+.	O
 Kick-Ass	O
 is	O
 very	O
 tempting	O
 indeed	O
+.	O
 @JessicaLynne6	O
 where	O
 you	O
@@ -19677,6 +20604,7 @@ u	O
 tryna	O
 kick	O
 it	O
+..	O
 lol	O
 Win	O
 $100	O
@@ -19690,7 +20618,9 @@ Yeah	O
 I'm	O
 not	O
 worried	O
+.	O
 Yet	O
+.	O
 When	O
 I	O
 hit	O
@@ -19765,6 +20695,7 @@ by	O
 the	O
 week	O
 end	O
+.	O
 I	O
 jus	O
 saw	O
@@ -19780,6 +20711,7 @@ lil	O
 brother	O
 wasted	O
 tonight	O
+.	O
 New	O
 boyz	O
 have	O
@@ -19804,6 +20736,7 @@ confusing	O
 phrasing	O
 of	O
 this	O
+...	O
 LOL	O
 r	O
 u	O
@@ -19876,10 +20809,12 @@ finished	O
 giving	O
 interview-	O
 check	O
+.	O
 time	O
 2	O
 go	O
 home	O
+.	O
 created	O
 some	O
 great	O
@@ -19976,6 +20911,7 @@ show	O
 in	O
 Lake	B-geo-loc
 Charles	I-geo-loc
+..	O
 @keshiaford	O
 how	O
 's	O
@@ -20017,6 +20953,7 @@ I	O
 miss	O
 the	O
 videos	O
+.	O
 '@stephaniebriggs	O
 Jumped	O
 in	O
@@ -20047,6 +20984,7 @@ heard	O
 it	O
 !'	O
 FUUCCCKKKK	O
+.	O
 I	O
 WAS	O
 SO	O
@@ -20072,8 +21010,11 @@ AND	O
 IS	O
 HOME	O
 W/DAD	O
+.	O
 GOD	O
+.	O
 DAMN	O
+.	O
 RT	O
 @IlliniCampusRec	O
 :	O
@@ -20096,6 +21037,7 @@ faculty/staff	O
 their	O
 immediate	O
 families	O
+.	O
 http://bit.ly/c1M8dr	O
 @SITSGirls	O
 would	O
@@ -20143,6 +21085,7 @@ truck	O
 drinking	O
 a	O
 Coke	O
+.	O
 MLIA	O
 #Quotealicious	O
 RT	O
@@ -20197,6 +21140,7 @@ found	O
 miami	O
 heat	O
 fans	O
+...	O
 I	O
 miss	O
 being	O
@@ -20221,6 +21165,7 @@ minutes	O
 of	O
 my	O
 life	O
+.	O
 Today	O
 was	O
 a	O
@@ -20248,12 +21193,14 @@ clogging	O
 up	O
 London	B-geo-loc
 tomorrow	O
+.	O
 I	O
 suggest	O
 we	O
 take	O
 Gay	O
 P	O
+...	O
 Part	O
 2	O
 to	O
@@ -20263,9 +21210,11 @@ is	O
 about	O
 to	O
 begin	O
+....	O
 hair	O
 stylist	O
 flow	O
+...	O
 After	O
 I	O
 pet	O
@@ -20307,6 +21256,7 @@ ever	O
 cross	O
 your	O
 mind	O
+...	O
 For	O
 me	O
 it	O
@@ -20326,10 +21276,13 @@ me	O
 ,	O
 every	O
 week	O
+.	O
 #FF	O
+.	O
 Thanks	O
 so	O
 much	O
+.	O
 How	O
 's	O
 the	O
@@ -20358,6 +21311,7 @@ video)	O
 With	O
 the	O
 o	O
+...	O
 http://bit.ly/aWoRmo	O
 I	O
 've	O
@@ -20386,6 +21340,7 @@ over	O
 500	O
 million	O
 years	O
+.	O
 Back	O
 in	O
 2007	O
@@ -20393,6 +21348,7 @@ in	O
 paleontologists	O
 discovered	O
 jell	O
+...	O
 http://bit.ly/b9yY3L	O
 Lindsay	O
 Lohan	O
@@ -20401,9 +21357,11 @@ failed	O
 her	O
 drug	O
 test	O
+.	O
 So	O
 not	O
 fetch	O
+.	O
 Quick	O
 ,	O
 let	O
@@ -20428,6 +21386,7 @@ won	O
 an	O
 election	O
 today	O
+.	O
 It	O
 means	O
 I	O
@@ -20442,6 +21401,7 @@ have	O
 lots	O
 of	O
 meetings	O
+.	O
 It	O
 shall	O
 be	O
@@ -20452,6 +21412,7 @@ looking	O
 forward	O
 to	O
 it	O
+.	O
 Lelystad	B-geo-loc
 -	O
 za	O
@@ -20521,6 +21482,7 @@ WORTH	O
 SCHOOL	O
 SUPPLY	O
 N	O
+...	O
 On	O
 the	O
 amusing	O
@@ -20543,6 +21505,7 @@ waiting	O
 to	O
 see	O
 if	O
+...	O
 http://fxn.ws/aAnazd	O
 Institutional	O
 buying	O
@@ -20587,6 +21550,7 @@ today	O
 Forensic	O
 Science	O
 Comm	O
+.	O
 meeting	O
 ,	O
 where	O
@@ -20596,7 +21560,9 @@ took	O
 a	O
 remarkable	O
 turn	O
+.	O
 http://bi	O
+...	O
 Just	O
 tried	O
 to	O
@@ -20613,6 +21579,7 @@ entirely	O
 sure	O
 about	O
 it	O
+.	O
 Today	O
 was	O
 amazing(	O
@@ -20626,6 +21593,7 @@ sum	O
 steak	O
 !	O
 #Fancyflow	O
+..	O
 im	O
 in	O
 the	O
@@ -20633,7 +21601,9 @@ hair	O
 salon	O
 right	O
 now	O
+..	O
 smh	O
+..	O
 Friday	O
 ,	O
 its	O
@@ -20671,6 +21641,7 @@ my	O
 boundless	O
 verbosity	O
 tonight	O
+.	O
 I'm	O
 UI(as	O
 in	O
@@ -20698,6 +21669,7 @@ making	O
 it	O
 to	O
 Friday	O
+..	O
 PRICELESS	O
 !	O
 Fave	O
@@ -20761,9 +21733,11 @@ dynamite	O
 on	O
 the	O
 radio	O
+.	O
 #loveit	O
 though'	O
 Rep	O
+.	O
 Bono	O
 Mack	O
 to	O
@@ -20776,6 +21750,7 @@ Boxer	O
 at	O
 event	O
 today	O
+.	O
 http://tinyurl.com/2bhyuq7	O
 REFINERY29	O
 STALKS	O
@@ -20789,6 +21764,7 @@ WEEK	O
 VB'S	O
 PARISIAN	O
 BREAKFAST	O
+.	O
 MERCI	O
 ,	O
 MERCI	O
@@ -20815,6 +21791,7 @@ wrote	O
 words	O
 in	O
 February	O
+.	O
 @niamh_schnapps	O
 fuckin	O
 yeaaaaaa	O
@@ -20843,6 +21820,7 @@ you	O
 -	O
 &gt;	O
 Danny	O
+.	O
 lol	O
 good	O
 god	O
@@ -20904,6 +21882,7 @@ to	O
 the	O
 meeting	O
 tomorrow	O
+.	O
 :	O
 S	O
 RT	O
@@ -20992,6 +21971,7 @@ of	O
 my	O
 meal	O
 tonight	O
+.......	O
 @tach47	O
 Did	O
 not	O
@@ -21032,10 +22012,12 @@ fantasy	O
 and	O
 day	O
 dreams	O
+.	O
 There	O
 they	O
 are	O
 free	O
+.	O
 &lt;	O
 yesss	O
 #wavesindexfingerintheair	O
@@ -21092,6 +22074,7 @@ started	O
 for	O
 the	O
 day	O
+.	O
 Costco	O
 Irvine	B-geo-loc
 has	O
@@ -21099,7 +22082,9 @@ fresh	O
 sushi	O
 samples	O
 today	O
+.	O
 Awesome	O
+.	O
 Today	O
 I	O
 got	O
@@ -21120,12 +22105,14 @@ for	O
 a	O
 few	O
 days	O
+.	O
 So	O
 content	O
 with	O
 life	O
 right	O
 now	O
+.	O
 :)	O
 @N4T4YLOR	O
 he'll	O
@@ -21193,6 +22180,7 @@ it	O
 !	O
 Of	O
 course	O
+...	O
 after	O
 his	O
 household	O
@@ -21200,7 +22188,9 @@ items	O
 arrive	O
 from	O
 D	O
+.	O
 C	O
+.	O
 Whoo	O
 who	O
 ready	O
@@ -21217,6 +22207,7 @@ my	O
 dirtbags	O
 on	O
 sunday	O
+.	O
 Is	O
 this	O
 rubbish	O
@@ -21236,6 +22227,7 @@ to	O
 use	O
 '	O
 em	O
+.	O
 http://twitpic.com/2pdxm4	O
 is	O
 at	O
@@ -21292,6 +22284,7 @@ I	O
 feel	O
 so	O
 white	O
+.	O
 My	O
 face	O
 !	O
@@ -21316,6 +22309,7 @@ he	O
 say	O
 she	O
 say	O
+...	O
 what	O
 do	O
 God	O
@@ -21329,6 +22323,7 @@ go	O
 to	O
 school	O
 today	O
+..	O
 oh	O
 well	O
 ,	O
@@ -21336,6 +22331,7 @@ i	O
 have	O
 no	O
 choice	O
+..	O
 RT	O
 @PLLGirls	O
 :	O
@@ -21373,6 +22369,7 @@ bi	O
 actress	O
 testin	O
 pos	O
+.	O
 for	O
 caine	O
 The	O
@@ -21412,6 +22409,7 @@ my	O
 mommy	O
 cookin	O
 today	O
+...	O
 Lmaao	O
 !	O
 RT	O
@@ -21463,6 +22461,7 @@ on	O
 Thursday	O
 ,	O
 Sept	O
+.	O
 23	O
 at	O
 11:00	O
@@ -21480,6 +22479,7 @@ Campus	I-geo-loc
 )	O
 in	O
 Scarborough	B-geo-loc
+.	O
 @ccsai	O
 RT	O
 @papalote415	O
@@ -21550,6 +22550,7 @@ autumn	O
 because	O
 of	O
 work	O
+.	O
 :(	O
 I	O
 must	O
@@ -21562,18 +22563,23 @@ tomorrow	O
 no	O
 work	O
 tonight	O
+.	O
 going	O
 to	O
 a	O
 sweet	O
 sixteen	O
+.	O
 shirt	O
 and	O
 tie	O
+.	O
 free	O
 food	O
+.	O
 why	O
 not	O
+.	O
 @BornThisWayBaby	O
 thankk	O
 yhuu	O
@@ -21604,6 +22610,7 @@ i	O
 drop	O
 my	O
 album	O
+...	O
 Amber	O
 Le	O
 Bon	O
@@ -21621,6 +22628,7 @@ Soulja	O
 Boy	O
 |	O
 TheDeAndreWay	O
+.	O
 com	O
 -	O
 The	O
@@ -21629,6 +22637,7 @@ Way	O
 in	O
 stores	O
 Nov	O
+.	O
 2	O
 ,	O
 2010	O
@@ -21649,6 +22658,7 @@ out	O
 now	O
 is	O
 free	O
+...	O
 Father	O
 to	O
 tha	O
@@ -21660,6 +22670,7 @@ a	O
 month	O
 or	O
 so	O
+..	O
 I	O
 went	O
 to	O
@@ -21672,6 +22683,7 @@ two	O
 pairs	O
 of	O
 pants	O
+.	O
 Now	O
 I	O
 have	O
@@ -21691,6 +22703,7 @@ like	O
 days	O
 ,	O
 excitedddd	O
+.	O
 All	O
 time	O
 low	O
@@ -21698,11 +22711,13 @@ next	O
 year	O
 ,	O
 maybe	O
+.	O
 @frankenteen	O
 So	O
 excited	O
 !	O
 But	O
+....	O
 I	O
 just	O
 called	O
@@ -21721,11 +22736,14 @@ really	O
 important	O
 to	O
 work	O
+.	O
 @Kybil	O
 Hmm	O
+...	O
 I	O
 probably	O
 would	O
+.	O
 I	O
 don't	O
 know	O
@@ -21738,6 +22756,7 @@ visual	O
 for	O
 R'lyeh,	O
 though	O
+.	O
 I	O
 may	O
 have	O
@@ -21749,6 +22768,7 @@ copy	O
 of	O
 the	O
 story	O
+...	O
 "	O
 In	O
 business	O
@@ -21760,6 +22780,7 @@ the	O
 most	O
 productive	O
 day	O
+.	O
 For	O
 Twitter	O
 ,	O
@@ -21794,7 +22815,9 @@ was	O
 a	O
 little	O
 quiet	O
+.	O
 Uhmm	O
+.	O
 Looks	O
 like	O
 I'm	O
@@ -21831,6 +22854,7 @@ is	O
 almost	O
 upon	O
 us	O
+.	O
 xx	O
 @uppercasem	O
 @cecinestpastom	O
@@ -21856,6 +22880,7 @@ after	O
 attending	O
 this	O
 seminar	O
+.	O
 http://lz.ly/2bIR	O
 Fair	O
 After	O
@@ -21871,6 +22896,7 @@ Drycleaners	O
 then	O
 shape	O
 up	O
+.	O
 Get	O
 fresh	O
 then	O
@@ -21880,6 +22906,7 @@ d	O
 red	O
 carrots	O
 tonight	O
+.	O
 Holla	O
 at	O
 ur	O
@@ -21913,10 +22940,12 @@ on	O
 w/special	O
 guest	O
 @cheridennis	O
+...	O
 audio	O
 droppin	O
 later	O
 tod	O
+...	O
 RT	O
 @GreatestQuotes	O
 :	O
@@ -21944,6 +22973,7 @@ not	O
 with	O
 it	O
 ."	O
+...	O
 I	O
 just	O
 took	O
@@ -22000,6 +23030,7 @@ lose	O
 him	O
 for	O
 nothing	O
+.	O
 It	O
 sucks	O
 when	O
@@ -22015,6 +23046,7 @@ make	O
 you	O
 feel	O
 barfy	O
+.	O
 going	O
 to	O
 have	O
@@ -22025,6 +23057,7 @@ bed	O
 before	O
 i	O
 cry	O
+.	O
 wish	O
 you	O
 would	O
@@ -22041,10 +23074,12 @@ i	O
 am	O
 for	O
 you	O
+.	O
 Stephen	O
 ,	O
 the	O
 Intellectual	O
+.	O
 @bbhess	O
 I	O
 bet	O
@@ -22090,6 +23125,7 @@ seriously	O
 made	O
 my	O
 day	O
+.	O
 :D	O
 @chrisbrown	O
 ,	O
@@ -22128,6 +23164,7 @@ fact	O
 ,	O
 knows	O
 @penguin1124	O
+.	O
 (	O
 I	O
 learned	O
@@ -22138,6 +23175,7 @@ joke	O
 ,	O
 during	O
 choir	O
+.	O
 )	O
 #fact	O
 Need	O
@@ -22155,6 +23193,7 @@ time	O
 for	O
 the	O
 equinox	O
+.	O
 AND	O
 EVERYTHING	O
 YOU	O
@@ -22203,6 +23242,7 @@ place	O
 the	O
 other	O
 day	O
+.	O
 Do	O
 n't	O
 even	O
@@ -22221,6 +23261,7 @@ said	O
 that	O
 on	O
 Tuesday	O
+.	O
 These	O
 games	O
 are	O
@@ -22228,6 +23269,7 @@ normally	O
 pretty	O
 poor	O
 though	O
+.	O
 Probably	O
 0-0	O
 lol	O
@@ -22321,6 +23363,7 @@ market	O
 09-Jan	O
 in	O
 DC	B-geo-loc
+.	O
 Come	O
 by	O
 and	O
@@ -22339,6 +23382,7 @@ the	O
 weigh	O
 in	O
 today	O
+.	O
 I've	O
 lost	O
 a	O
@@ -22413,6 +23457,7 @@ to	O
 the	O
 "	O
 N	O
+...	O
 http://bit.ly/cPZU6A	O
 Today	O
 I	O
@@ -22424,6 +23469,7 @@ no	O
 reason	O
 &lt;	O
 3	O
+.	O
 It	O
 wass	O
 cool	O
@@ -22437,6 +23483,7 @@ comes	O
 to	O
 a	O
 halt	O
+.	O
 Here	O
 we	O
 go	O
@@ -22446,6 +23493,7 @@ do	O
 not	O
 think	O
 so	O
+.	O
 There	O
 's	O
 sun	O
@@ -22465,6 +23513,7 @@ back	O
 on	O
 the	O
 move	O
+.	O
 Katie	O
 up	O
 6-0	O
@@ -22504,6 +23553,7 @@ today	O
 is	O
 follow	O
 friday	O
+.	O
 so	O
 im	O
 guessing	O
@@ -22511,6 +23561,7 @@ thats	O
 what	O
 i	O
 means	O
+.	O
 but	O
 im	O
 not	O
@@ -22524,6 +23575,7 @@ Today	O
 Software	O
 Freedom	O
 Day	O
+.	O
 Join	O
 us	O
 at	O
@@ -22535,6 +23587,7 @@ day	O
 of	O
 great	O
 events	O
+.	O
 Free	O
 admission	O
 !	O
@@ -22559,6 +23612,7 @@ Powell	O
 a	O
 year	O
 befo	O
+...	O
 http://bit.ly/aLxTis	O
 @ShayalKumar	O
 GooD	O
@@ -22598,6 +23652,7 @@ year	O
 Sometime	O
 in	O
 May	O
+.	O
 They	O
 are	O
 just	O
@@ -22612,6 +23667,7 @@ instead	O
 of	O
 the	O
 middle	O
+.	O
 LOL	O
 A-W-E-S-O-M-E	O
 !!	O
@@ -22621,9 +23677,9 @@ totally	O
 agree	O
 RT	O
 @fanoffob	O
-Fall	Oartist
-Out	Oartist
-Boy	Oartist
+Fall	O
+Out	O
+Boy	O
 is	O
 gay	O
 #reallymeans	O
@@ -22634,6 +23690,7 @@ a	O
 big	O
 time	O
 fan	O
+.	O
 Icecream	O
 time	O
 !	O
@@ -22645,6 +23702,7 @@ sure	O
 it	O
 doesn't	O
 exist	O
+..	O
 I	O
 said	O
 it	O
@@ -22660,6 +23718,7 @@ still	O
 say	O
 it	O
 now	O
+..	O
 Said	O
 it	O
 once	O
@@ -22702,6 +23761,7 @@ live	O
 it	O
 up	O
 tonight	O
+..	O
 Enjoy	O
 &lt;	O
 b	O
@@ -22710,6 +23770,7 @@ safe	O
 e	O
 tem	O
 mais	O
+....	O
 Robinho	O
 no	O
 meu	O
@@ -22734,6 +23795,7 @@ only	O
 p-i-m-p	O
 I	O
 know	O
+...	O
 @amcdavid	O
 !	O
 We	O
@@ -22772,6 +23834,7 @@ at	O
 North	O
 Phoenix	O
 ATA	O
+.	O
 Kids	O
 Self-Defense	O
 class	O
@@ -22788,6 +23851,7 @@ Adult	O
 Self-Defense	O
 from	O
 2-3	O
+.	O
 It	O
 's	O
 the	O
@@ -22802,7 +23866,9 @@ for	O
 Atlanta	B-geo-loc
 &amp;	O
 N	O
+.	O
 Georgia	B-geo-loc
+.	O
 Do	O
 some	O
 evaluation	O
@@ -22820,11 +23886,13 @@ tall	O
 ship	O
 Silva	O
 tonight	O
+.	O
 Still	O
 a	O
 few	O
 tickets	O
 available	O
+.	O
 Rain	O
 is	O
 gone	O
@@ -22835,6 +23903,7 @@ ready	O
 to	O
 set	O
 sail	O
+.	O
 1030	O
 PM	O
 we	O
@@ -22847,6 +23916,7 @@ his	O
 jacket	O
 at	O
 school	O
+.	O
 Today	O
 he	O
 remembered	O
@@ -22860,6 +23930,7 @@ but	O
 forgot	O
 his	O
 lunchbox	O
+.	O
 Im	O
 '	O
 performing	O
@@ -22870,6 +23941,7 @@ Bond	O
 Street	O
 in	O
 Soho	B-geo-loc
+.	O
 If	O
 your	O
 in	O
@@ -22920,12 +23992,14 @@ Ive	O
 heard	O
 of	O
 that	O
+.	O
 Hadn't	O
 heard	O
 it	O
 called	O
 that	O
 before	O
+.	O
 I	O
 considered	O
 it	O
@@ -22942,6 +24016,7 @@ I	O
 would	O
 look	O
 dirty	O
+.	O
 :)	O
 Recording	O
 vocals	O
@@ -22961,9 +24036,11 @@ have	O
 overdone	O
 it	O
 today	O
+...	O
 My	O
 back	O
 hurts	O
+...	O
 :-(	O
 Totes	O
 just	O
@@ -22986,6 +24063,7 @@ Go	O
 Lancers	O
 "!!"""	O
 teehee	O
+.	O
 They're	O
 playing	O
 each	O
@@ -23002,6 +24080,7 @@ Day	O
 Andy	O
 Kaufman	O
 ?:	O
+...	O
 the	O
 bizarre	O
 events	O
@@ -23014,6 +24093,7 @@ moment	O
 the	O
 movie	O
 could	O
+...	O
 http://bit.ly/aUZ2on	O
 im	O
 tired	O
@@ -23023,6 +24103,7 @@ this	O
 short	O
 hair	O
 thing	O
+.	O
 i	O
 need	O
 pay	O
@@ -23042,11 +24123,13 @@ it	O
 's	O
 almost	O
 3	O
+.	O
 Yli	O
 gets	O
 out	O
 in	O
 15	O
+.	O
 Mom	O
 took	O
 the	O
@@ -23060,6 +24143,7 @@ at	O
 home	O
 ,	O
 finally	O
+.	O
 UPDATE	O
 1-Cricket-Gul	O
 takes	O
@@ -23081,6 +24165,7 @@ Reuters	O
 Umar	O
 Gul	O
 took	O
+...	O
 http://bit.ly/ckNyMG	O
 #Cricket	O
 @peterc83	O
@@ -23093,6 +24178,7 @@ x	O
 Today	O
 is	O
 friday	O
+.	O
 Crap	O
 forgot	O
 XD	O
@@ -23112,6 +24198,7 @@ in	O
 mind	O
 to	O
 blame	O
+.	O
 RT	O
 @davehodg	O
 :	O
@@ -23123,7 +24210,9 @@ pick	O
 choose	O
 their	O
 morals	O
+.	O
 Correct	O
+.	O
 Today	O
 I	O
 will	O
@@ -23138,6 +24227,7 @@ having	O
 a	O
 problem	O
 wit	O
+...	O
 RT	O
 @jettathatsme	O
 :	O
@@ -23147,24 +24237,28 @@ Is	O
 Our	O
 Someday	O
 -	O
-Big	Oartist
-Time	Oartist
-Rush	Oartist
+Big	O
+Time	O
+Rush	O
 &lt;	O
 3	O
 :)	O
 overnight	O
 tonight	O
+...	O
 gheyyyy	O
 Morning	O
+.	O
 Work	O
 today	O
+.	O
 Hope	O
 I	O
 get	O
 lots	O
 of	O
 money	O
+.	O
 They're	O
 going	O
 to	O
@@ -23176,6 +24270,7 @@ mood	O
 due	O
 to	O
 #geelong	O
+...	O
 #MelbourneTomorrow	O
 @angelajames	O
 @roxannestclaire	O
@@ -23184,6 +24279,7 @@ have	O
 n't	O
 tried	O
 MAC	O
+.	O
 Next	O
 time	O
 !	O
@@ -23201,10 +24297,12 @@ O'Donnell	O
 today	O
 http://bit.ly/9nTWQw	O
 Seriously	O
+.	O
 @endlesskies	O
 ik	O
 me	O
 2	O
+.	O
 At	O
 night	O
 I	O
@@ -23272,14 +24370,18 @@ Working	O
 at	O
 BAR	O
 tonight	O
+.	O
 1309	O
 sansom	O
 st	O
+.	O
 More	O
 secrets	O
 than	O
 Copa	O
+.	O
 Shhhhh	O
+...	O
 RT	O
 @Durell_G	O
 :	O
@@ -23288,9 +24390,11 @@ life	O
 throws	O
 u	O
 lemons	O
+...	O
 Throw	O
 them	O
 back	O
+..	O
 &lt;	O
 make	O
 lemonade	O
@@ -23322,6 +24426,7 @@ Men	O
 's	O
 soccer	O
 vs	O
+.	O
 Crown	O
 College	O
 at	O
@@ -23330,6 +24435,7 @@ tomorrow	O
 at	O
 2	O
 pm	O
+.	O
 Come	O
 support	O
 your	O
@@ -23343,15 +24449,18 @@ guys	O
 Tomorrow	O
 is	O
 Saturday	O
+.	O
 Aka	O
 #dreadlock	O
 day	O
+.	O
 Bring	O
 on	O
 the	O
 twist	O
 n	O
 rip	O
+...	O
 #TnR	O
 #reggae	O
 #rasta	O
@@ -23365,6 +24474,7 @@ day	O
 in	O
 a	O
 row	O
+...	O
 RIP	O
 Summer	O
 @paulwalk	O
@@ -23379,17 +24489,20 @@ living	O
 for	O
 two	O
 weeks	O
+.	O
 Empire	O
 State	O
 Building	O
 =	O
 ESB	O
+.	O
 Pretty	O
 bad	O
 storm	O
 here	O
 last	O
 evening	O
+.	O
 Ahaha	O
 ,	O
 the	O
@@ -23414,6 +24527,7 @@ from	O
 ?'	O
 is	O
 PRICELESS	O
+.	O
 I	O
 madw	O
 my	O
@@ -23441,6 +24555,7 @@ from	O
 the	O
 Florida	B-geo-loc
 heat	O
+.	O
 Season	O
 opener	O
 for	O
@@ -23527,6 +24642,7 @@ Time	O
 Keygen	O
 !	O
 ----	O
+...	O
 http://bit.ly/blPqIH	O
 RT	O
 @ZodiacFacts	O
@@ -23551,6 +24667,7 @@ when	O
 people	O
 need	O
 you	O
+.	O
 what	O
 to	O
 do	O
@@ -23561,6 +24678,7 @@ even	O
 in	O
 a	O
 69	O
+.	O
 smother	O
 me	O
 w/	O
@@ -23576,7 +24694,9 @@ when	O
 u	O
 do	O
 it	O
+.	O
 shit	O
+...	O
 say	O
 some	O
 shit	O
@@ -23616,6 +24736,7 @@ Love	O
 in	O
 my	O
 head	O
+.	O
 "	O
 Cause	O
 baby	O
@@ -23706,6 +24827,7 @@ edition	O
 of	O
 the	O
 tackle	O
+...	O
 @ChristineCaine	O
 please	O
 pray	O
@@ -23739,6 +24861,7 @@ in	O
 JC	O
 x	O
 Lmao	O
+..	O
 They	O
 #Hurrt	O
 !	O
@@ -23752,6 +24875,7 @@ grow	O
 they	O
 hair	O
 out	O
+.	O
 should	O
 of	O
 did	O
@@ -23760,10 +24884,12 @@ a	O
 long	O
 time	O
 ago	O
+.	O
 -_-	O
 skimp	O
 ass	O
 braids	O
+.	O
 @preciousweapons	O
 #filthyglaMOUR	O
 arrived	O
@@ -23808,6 +24934,7 @@ be	O
 nice	O
 n	O
 shit	O
+.	O
 WTF	O
 now	O
 I	O
@@ -23865,6 +24992,7 @@ reading	O
 loads	O
 of	O
 NEWS	O
+...	O
 tommorrow	O
 is	O
 a	O
@@ -23941,6 +25069,7 @@ I	O
 gained	O
 muscle	O
 weight	O
+.	O
 I	O
 swear	O
 it	O
@@ -23959,11 +25088,14 @@ lied	O
 about	O
 the	O
 Cachupas	O
+...	O
 they	O
 didn't	O
 get	O
 made	O
+...	O
 tomorrow	O
+...	O
 maybe	O
 (	O
 need	O
@@ -23974,6 +25106,7 @@ that	O
 we	O
 reserve	O
 the	O
+...	O
 http://fb.me/I0ogMBll	O
 Waiting	O
 for	O
@@ -24012,15 +25145,19 @@ time	O
 something	O
 ain't	O
 right	O
+.	O
 Chin	O
 up	O
 nigga	O
 DAMN	O
+.	O
 So	O
 unattractive	O
+.	O
 Just	O
 ordered	O
 pizza	O
+.	O
 First	O
 time	O
 since	O
@@ -24029,6 +25166,7 @@ to	O
 order	O
 Pizza	O
 Hut	O
+.	O
 Definitely	O
 not	O
 a	O
@@ -24065,6 +25203,7 @@ of	O
 !!	O
 Bonfire	O
 tonite	O
+.	O
 All	O
 are	O
 welcome	O
@@ -24125,9 +25264,11 @@ night	O
 's	O
 game	O
 wit	O
+...	O
 http://es.pn/aBLrXN	O
 @AppleJoey_	O
 Buut	O
+.	O
 Ill	O
 have	O
 to	O
@@ -24135,6 +25276,7 @@ get	O
 on	O
 my	O
 phone	O
+.	O
 Im	O
 going	O
 to	O
@@ -24144,6 +25286,7 @@ with	O
 my	O
 friends	O
 tonight	O
+.	O
 D	O
 :	O
 @number2jake	O
@@ -24169,6 +25312,7 @@ only	O
 98	O
 days	O
 away	O
+...	O
 @IzzieZac	O
 Told	O
 you	O
@@ -24198,11 +25342,13 @@ got	O
 a	O
 little	O
 better	O
+.	O
 I	O
 need	O
 to	O
 draw	O
 FASTER	O
+.	O
 I	O
 'm	O
 gonna	O
@@ -24217,10 +25363,12 @@ get	O
 going	O
 ,	O
 lol	O
+.	O
 IF	O
 YOU	O
 HAVEN'T	O
 HEARD	O
+...	O
 THERE	O
 IS	O
 AN	O
@@ -24232,14 +25380,16 @@ TONIGHT	O
 AT	O
 JANNUS	O
 LIVE	O
-SUENALO	Oartist
+...	O
+SUENALO	O
 !	O
 FROM	O
 MIAMI	B-geo-loc
 W/	O
-SHAKEMODE	Oartist
+SHAKEMODE	O
 AND	O
-INDIGENOUS	Oartist
+INDIGENOUS	O
+...	O
 Son	O
 popping	O
 of	O
@@ -24260,6 +25410,7 @@ ask	O
 and	O
 ill	O
 provide	O
+.	O
 You	O
 blink	O
 when	O
@@ -24271,11 +25422,13 @@ breathe	O
 when	O
 you	O
 lie	O
+.	O
 You	O
 blink	O
 when	O
 you	O
 lie	O
+.	O
 @drance	O
 just	O
 wait	O
@@ -24317,6 +25470,7 @@ tell	O
 the	O
 punchline	O
 wrong	O
+.	O
 Know	O
 you	O
 get	O
@@ -24339,7 +25493,9 @@ What	O
 a	O
 productive	O
 day	O
+.	O
 Not	O
+.	O
 At	O
 7pm	O
 we'll	O
@@ -24368,8 +25524,10 @@ Sea	O
 Inside	O
 "	O
 )	O
+.	O
 W/Rachel	O
 Weisz	O
+.	O
 Oct	O
 9	O
 (	O
@@ -24392,6 +25550,7 @@ havin	O
 babies	O
 on	O
 meh	O
+.	O
 Nope	O
 nope	O
 !	O
@@ -24400,11 +25559,13 @@ not	O
 da	O
 step	O
 mommy	O
+.	O
 Time	O
 for	O
 a	O
 new	O
 team	O
+.	O
 I'm	O
 talkin	O
 #allstarlineup	O
@@ -24425,6 +25586,7 @@ the	O
 of	O
 March	O
 2010	O
+.	O
 How	O
 is	O
 it	O
@@ -24463,6 +25625,7 @@ pretty	O
 busy	O
 these	O
 days	O
+...	O
 twitpic	O
 ur	O
 new	O
@@ -24482,6 +25645,7 @@ parties	O
 Ahhhh	O
 !	O
 Omg	O
+.	O
 Just	O
 saw	O
 a	O
@@ -24509,6 +25673,7 @@ not	O
 9	O
 years	O
 old	O
+....	O
 she	O
 got	O
 that	O
@@ -24563,6 +25728,7 @@ to	O
 the	O
 meeting	O
 tomorrow	O
+.	O
 :	O
 S	O
 It	O
@@ -24618,6 +25784,7 @@ a	O
 drink	O
 with	O
 friends	O
+.	O
 Lent	O
 the	O
 T4	O
@@ -24626,6 +25793,7 @@ friend	O
 to	O
 camp	O
 in	O
+.	O
 Off	O
 camping	O
 to	O
@@ -24633,6 +25801,7 @@ Robinhoods	B-geo-loc
 bay	I-geo-loc
 In	O
 Jasmin	B-geo-loc
+.	O
 Good	O
 weekend	O
 It	O
@@ -24645,6 +25814,7 @@ could	O
 n't	O
 be	O
 happier	O
+.	O
 Ending	O
 a	O
 crappy	O
@@ -24656,6 +25826,7 @@ note	O
 is	O
 always	O
 nice	O
+.	O
 RT	O
 @TheOutlawz	O
 :	O
@@ -24689,6 +25860,7 @@ Goodmorning	O
 Just	O
 woke	O
 up	O
+..	O
 Gonna	O
 study	O
 again	O
@@ -24707,9 +25879,11 @@ examinations	O
 just	O
 whooped	O
 st	O
+.	O
 francis	O
 preps	O
 asssss	O
+.	O
 and	O
 i	O
 scored	O
@@ -24719,11 +25893,13 @@ goal	O
 and	O
 its	O
 friday	O
+.	O
 and	O
 i	O
 have	O
 no	O
 homeworkkk	O
+.	O
 SICK	O
 LIFEEEE	O
 Fashion	O
@@ -24751,6 +25927,7 @@ I	O
 design	O
 for	O
 the	O
+...	O
 http://bit.ly/beBG9e	O
 Let	O
 's	O
@@ -24761,6 +25938,7 @@ York	I-geo-loc
 tomorrow	O
 with	O
 Blakehurst	O
+.	O
 Contact	O
 us	O
 about	O
@@ -24813,6 +25991,7 @@ IF	O
 U	O
 FOLLOWD	O
 ME	O
+.	O
 BUMPING	O
 AIRBORNE	O
 RIGHT	O
@@ -24839,6 +26018,7 @@ home	O
 baristas	O
 ,	O
 c	O
+...	O
 (	O
 via	O
 @CoffeeGeek	O
@@ -24847,6 +26027,7 @@ Confronting	O
 my	O
 hoarder	O
 tendencies	O
+.	O
 If	O
 anyone	O
 wants	O
@@ -24867,9 +26048,11 @@ or	O
 blank	O
 cassette	O
 tapes	O
+...	O
 @maureenjohnson	O
 :	O
 Zombies	O
+.	O
 You	O
 always	O
 have	O
@@ -24883,6 +26066,7 @@ know	O
 when	O
 they'll	O
 strike	O
+.	O
 The	O
 guys	O
 are	O
@@ -24898,6 +26082,7 @@ for	O
 the	O
 tailgate	O
 tonight	O
+.	O
 Nonetheless	O
 it	O
 smells	O
@@ -24905,6 +26090,7 @@ fresh	O
 in	O
 this	O
 place	O
+.	O
 RT	O
 @SonyElectronics	O
 :	O
@@ -24925,6 +26111,8 @@ Auburn	B-geo-loc
 party	O
 at	O
 http://bit	O
+.	O
+...	O
 I	O
 really	O
 feel	O
@@ -24937,6 +26125,7 @@ listening	O
 to	O
 my	O
 CDs	O
+.	O
 The	O
 neighbours	O
 and	O
@@ -24963,6 +26152,7 @@ rain	O
 till	O
 Sunday	O
 night	O
+.	O
 I	O
 fully	O
 expect	O
@@ -24982,6 +26172,7 @@ from	O
 the	O
 oil	O
 spills	O
+.	O
 #redlobster	O
 http://images2.fanpop.com/images/photos/3900000/Edward-100-year-virgin-twilight-series-3937647-510-755.jpg	O
 ADOGUEI	O
@@ -25006,11 +26197,13 @@ Estate	O
 Lawyer	O
 in	O
 FSBO	O
+.	O
 When	O
 you	O
 purchase	O
 property	O
 i	O
+...	O
 http://bit.ly/cGsTy1	O
 Dollar	O
 steady	O
@@ -25033,6 +26226,7 @@ highest	O
 in	O
 a	O
 month	O
+...	O
 http://bit.ly/a0F3dO	O
 @DeezyWest	O
 raiders	O
@@ -25049,6 +26243,7 @@ the	O
 weeks	O
 keep	O
 flying	O
+.	O
 It	O
 's	O
 actually	O
@@ -25062,8 +26257,10 @@ days	O
 dragged	O
 this	O
 week	O
+....	O
 like	O
 NONE	O
+.	O
 :D	O
 RT	O
 @GaidaAbuSaleh	O
@@ -25073,6 +26270,7 @@ my	O
 tweet	O
 goes	O
 to	O
+.......	O
 @LIDIAABUSALEH	O
 ,	O
 i	O
@@ -25089,12 +26287,15 @@ on	O
 the	O
 1997th	O
 year	O
+.	O
 thank	O
 you	O
+.	O
 @yungtybrownski	O
 just	O
 weak	O
 lol	O
+.	O
 You	O
 gone	O
 go	O
@@ -25128,6 +26329,7 @@ it	O
 's	O
 around	O
 now	O
+.	O
 RT	O
 @MsSingandPlay	O
 :	O
@@ -25186,11 +26388,13 @@ register	O
 him	O
 for	O
 fitting	O
+...	O
 whoops	O
 @FashionDivvah	O
 I	O
 know	O
 right	O
+..	O
 he	O
 's	O
 my	O
@@ -25202,10 +26406,12 @@ way	O
 younger	O
 than	O
 me	O
+...	O
 like	O
 4	O
 years	O
 junior	O
+...	O
 awwww	O
 I	O
 had	O
@@ -25301,6 +26507,7 @@ Email	O
 the	O
 author	O
 Direc	O
+...	O
 http://bit.ly/aCPM2x	O
 @MiSS_SOTO	O
 I	O
@@ -25320,6 +26527,7 @@ to	O
 slow	O
 at	O
 work	O
+...	O
 Can't	O
 wait	O
 to	O
@@ -25336,11 +26544,14 @@ in	O
 time-lapse	O
 5	O
 sec	O
+.	O
 Intervals	O
 from	O
 Champlain	O
 campus	O
+.	O
 Pretty	O
+.	O
 Beginners	O
 Guides	O
 to	O
@@ -25355,6 +26566,7 @@ from	O
 Mike	O
 's	O
 Life	O
+.	O
 The	O
 60	O
 day	O
@@ -25363,9 +26575,11 @@ Beginner	O
 Guide	O
 to	O
 Bl	O
+...	O
 http://bit.ly/99wlho	O
 tea	O
 time	O
+.	O
 i	O
 love	O
 when	O
@@ -25375,6 +26589,7 @@ happen	O
 to	O
 deserving	O
 people	O
+.	O
 Fills	O
 me	O
 with	O
@@ -25393,6 +26608,7 @@ yesterday	O
 !	O
 =)	O
 Yay	O
+.	O
 @penguin	O
 is	O
 coming	O
@@ -25401,6 +26617,7 @@ see	O
 me	O
 next	O
 week	O
+...	O
 plotting	O
 my	O
 cooking	O
@@ -25448,6 +26665,7 @@ are	O
 weeks	O
 ago	O
 J	O
+...	O
 http://bit.ly/cYGBdz	O
 RT	O
 @KarlaRay	O
@@ -25477,6 +26695,7 @@ first-ever	O
 West	O
 Nile	O
 d	O
+...	O
 @xxTeamJosiexx	O
 Do	O
 you	O
@@ -25495,6 +26714,7 @@ line	O
 made	O
 the	O
 list	O
+.	O
 |	O
 MT	O
 @LaphamsQuart	O
@@ -25507,6 +26727,7 @@ yesterday	O
 's	O
 #mycityis	O
 definitions	O
+.	O
 http://bit.ly/dffSJG	O
 Korean	O
 War	O
@@ -25531,6 +26752,7 @@ that	O
 it	O
 was	O
 60	O
+...	O
 http://bit.ly/cCjFBm	O
 Columbus	B-geo-loc
 ,	O
@@ -25552,6 +26774,7 @@ party	O
 tonight	O
 at	O
 eighty-five	O
+.	O
 Come	O
 kickit	O
 !	O
@@ -25624,6 +26847,7 @@ less	O
 capacity	O
 than	O
 iPhone4	O
+...	O
 4	O
 years	O
 old	O
@@ -25631,6 +26855,7 @@ old	O
 technology	O
 !	O
 Damn	O
+.	O
 I	O
 do	O
 NOT	O
@@ -25641,6 +26866,7 @@ work	O
 this	O
 phone	O
 today	O
+.	O
 I'm	O
 pushing	O
 all	O
@@ -25651,6 +26877,7 @@ that	O
 shouldn't	O
 be	O
 pushed	O
+.	O
 #storyofmylife	O
 two	O
 auditions	O
@@ -25689,6 +26916,7 @@ I	O
 call	O
 your	O
 saynow	O
+.	O
 oh	O
 and	O
 by	O
@@ -25724,6 +26952,7 @@ caliente	O
 and	O
 get	O
 in	O
+...	O
 http://fb.me/FZVzm8H9	O
 Just	O
 puffed	O
@@ -25731,6 +26960,7 @@ on	O
 sour	O
 d	O
 unintentionally	O
+...	O
 I'm	O
 so	O
 high	O
@@ -25759,9 +26989,11 @@ in	O
 the	O
 street	O
 loll	O
+.	O
 miss	O
 u	O
 twitfriends	O
+.	O
 xx	O
 @SweetTartelette	O
 Glad	O
@@ -25770,6 +27002,7 @@ hear	O
 they	O
 are	O
 okay	O
+.	O
 A	O
 drunk	O
 ran	O
@@ -25783,11 +27016,13 @@ son	O
 car	O
 this	O
 week	O
+.	O
 He	O
 said	O
 it	O
 was	O
 frightening	O
+.	O
 N	O
 Dearrykas	O
 #1	O
@@ -25827,6 +27062,7 @@ not	O
 have	O
 class	O
 today	O
+.	O
 Jupiter	B-geo-loc
 :	O
 Closest	O
@@ -25835,10 +27071,12 @@ in	O
 Nearly	O
 50	O
 years	O
+.	O
 Catch	O
 it	O
 nxt	O
 week	O
+.	O
 It	O
 wnt	O
 B	O
@@ -25858,6 +27096,7 @@ I	O
 take	O
 my	O
 time	O
+.	O
 Great	O
 week	O
 for	O
@@ -25865,7 +27104,7 @@ music	O
 with	O
 @blindoldfreak	O
 ,	O
-UNKLE	Oartist
+UNKLE	O
 &amp;	O
 @trent_reznor	O
 all	O
@@ -25873,8 +27112,10 @@ putting	O
 out	O
 new	O
 releases	O
+.	O
 Amazing	O
 stuff	O
+.	O
 **Support	O
 decent	O
 music**	O
@@ -25901,6 +27142,7 @@ ages	O
 of	O
 my	O
 life	O
+.	O
 High	O
 school	O
 "..."""	O
@@ -25956,6 +27198,7 @@ be	O
 some	O
 mental	O
 stimulus	O
+..	O
 But	O
 feeling	O
 often	O
@@ -25989,6 +27232,7 @@ Z	O
 earlier	O
 in	O
 Lo	O
+...	O
 http://bit.ly/bsyz9H	O
 eh	O
 ?	O
@@ -26008,6 +27252,7 @@ to	O
 @clarkscornerca	O
 for	O
 Q&amp;A	O
+.	O
 Back	O
 in	O
 Ione	O
@@ -26103,6 +27348,7 @@ up	O
 after	O
 the	O
 move	O
+..	O
 Oh	O
 sneaks	O
 ,	O
@@ -26129,6 +27375,7 @@ finding	O
 me	O
 some	O
 sneaks	O
+.	O
 Can't	O
 wait	O
 for	O
@@ -26163,6 +27410,7 @@ that	O
 last	O
 week	O
 Ash	O
+.	O
 I	O
 think	O
 you	O
@@ -26171,6 +27419,7 @@ a	O
 12	O
 step	O
 program	O
+.	O
 Prophet	O
 Muhammad	O
 [	O
@@ -26193,6 +27442,7 @@ matters	O
 before	O
 five	O
 other	O
+...	O
 http://fb.me/A25CPleD	O
 Any	O
 1	O
@@ -26247,6 +27497,7 @@ TRUE	O
 story	O
 Lol	O
 girrrrrrl	O
+.	O
 I'm	O
 very	O
 lucky	O
@@ -26254,6 +27505,7 @@ but	O
 everything	O
 is	O
 work	O
+.	O
 Yours	O
 will	O
 come	O
@@ -26278,11 +27530,12 @@ Information	O
 Underground	O
 http://fb.me/JGgSgWBg	O
 @jaredleto	O
+...	O
 ive	O
 been	O
 to	O
 13	O
-30stm	Oartist
+30stm	O
 concerts	O
 now	O
 and	O
@@ -26293,9 +27546,9 @@ me	O
 on	O
 stage	O
 during/before	O
-kings	Oartist
-and	Oartist
-queens	Oartist
+kings	O
+and	O
+queens	O
 :(	O
 ((	O
 Heading	O
@@ -26308,6 +27561,7 @@ for	O
 the	O
 first	O
 time	O
+.	O
 Any	O
 favorites	O
 or	O
@@ -26316,7 +27570,7 @@ trys	O
 ?	O
 the	O
 group	O
-Maunalua	Oartist
+Maunalua	O
 will	O
 be	O
 playing	O
@@ -26361,12 +27615,14 @@ dreams	O
 all	O
 last	O
 night	O
+.	O
 Then	O
 I	O
 sleep	O
 all	O
 day	O
 today	O
+...	O
 I	O
 hope	O
 nobody	O
@@ -26390,6 +27646,7 @@ how	O
 beautiful	O
 you	O
 are	O
+.	O
 Especially	O
 when	O
 you	O
@@ -26398,6 +27655,7 @@ hanging	O
 out	O
 with	O
 tourists	O
+.	O
 omg	O
 ,	O
 i'm	O
@@ -26432,6 +27690,7 @@ days	O
 on	O
 twitter	O
 ever	O
+.	O
 @radhallman	O
 and	O
 @foofmcewan	O
@@ -26491,6 +27750,7 @@ complete	O
 kiddie	O
 goodness	O
 today	O
+.	O
 first	O
 a	O
 kids	O
@@ -26508,6 +27768,7 @@ another	O
 kiddie	O
 party	O
 tomorrow	O
+.	O
 RT	O
 @WholeFoodsATX	O
 :	O
@@ -26570,6 +27831,7 @@ June	O
 ,	O
 in	O
 Ho	O
+...	O
 http://tinyurl.com/249srz6	O
 RT	O
 @thirdday	O
@@ -26581,6 +27843,7 @@ Just	O
 landed	O
 in	O
 DC	B-geo-loc
+.	O
 Is	O
 anybody	O
 coming	O
@@ -26595,6 +27858,7 @@ thinking	O
 about	O
 rocking	O
 it	O
+.	O
 'I	O
 just	O
 took	O
@@ -26636,6 +27900,7 @@ hj	O
 cerveja	O
 foi	O
 ontem	O
+...	O
 que	O
 tal	O
 um	O
@@ -26672,6 +27937,7 @@ but	O
 heartbroken	O
 ?	O
 this	O
+.	O
 @GiaAllemand	O
 soon	O
 ,	O
@@ -26691,6 +27957,7 @@ get	O
 on	O
 his	O
 way	O
+.	O
 but	O
 we	O
 want	O
@@ -26706,6 +27973,7 @@ morning	O
 !!!	O
 Love	O
 It	O
+.	O
 Anyways	O
 ,	O
 today	O
@@ -26723,6 +27991,7 @@ Pictures	O
 of	O
 August	O
 2010	O
+...	O
 http://bit.ly/bgCyZ0	O
 #photography	O
 I	O
@@ -26738,6 +28007,7 @@ left	O
 min	O
 earlier	O
 today	O
+.	O
 I	O
 will	O
 be	O
@@ -26745,6 +28015,7 @@ be	O
 minutes	O
 late	O
 today	O
+.	O
 #lifeispointless	O
 Winner	O
 will	O
@@ -26752,6 +28023,7 @@ be	O
 chosen	O
 Monday	O
 morning	O
+.	O
 Get	O
 your	O
 caption	O
@@ -26792,6 +28064,7 @@ exploring	O
 and	O
 keeping	O
 an	O
+...	O
 @ZachGarmoe	O
 AH	O
 !	O
@@ -26865,6 +28138,7 @@ be	O
 #1	O
 on	O
 iTunes	O
+.	O
 Dylan	O
 refuses	O
 to	O
@@ -26909,8 +28183,8 @@ such	O
 a	O
 long	O
 day	O
-BORDER	Oartist
-LINEA	Oartist
+BORDER	O
+LINEA	O
 IS	O
 TONIGHT	O
 !	O
@@ -26921,6 +28195,7 @@ to	O
 a.m.	O
 NO	O
 COVER	O
+.	O
 Come	O
 by	O
 and	O
@@ -26928,7 +28203,7 @@ see	O
 local	O
 musicians	O
 and	O
-artists	O
+s	O
 showcased	O
 at	O
 Limelight	O
@@ -26937,12 +28212,14 @@ St	B-geo-loc
 .	I-geo-loc
 Mary's.	I-geo-loc
 Internet	O
+.	O
 My	O
 MOM	O
 got	O
 a	O
 tattoo	O
 today	O
+.	O
 Which	O
 ,	O
 if	O
@@ -26955,10 +28232,12 @@ so	O
 out	O
 of	O
 character	O
+.	O
 I	O
 find	O
 it	O
 awesome	O
+.	O
 Go	O
 ma	O
 !	O
@@ -27013,6 +28292,7 @@ the	O
 convo	O
 already	O
 ended	O
+.	O
 Three	O
 words	O
 for	O
@@ -27059,6 +28339,7 @@ Spain	B-geo-loc
 ,	O
 day	O
 one	O
+.	O
 Marlboro	O
 Ducati	O
 's	O
@@ -27069,10 +28350,13 @@ no	O
 time	O
 in	O
 taking	O
+...	O
 http://fb.me/HSTaAyrb	O
 Amazing	O
+.	O
 And	O
 encouraging	O
+.	O
 RT	O
 @SusannahFox	O
 :	O
@@ -27151,6 +28435,7 @@ and	O
 seconds	O
 to	O
 Doha	B-geo-loc
+....	O
 @JennieGoingWest	O
 DO	O
 IT	O
@@ -27162,6 +28447,7 @@ with	O
 dirty	O
 hair	O
 too	O
+.	O
 when	O
 my	O
 hair	O
@@ -27189,6 +28475,7 @@ his	O
 cigarettes	O
 at	O
 Holyroodhouse	O
+.	O
 One	O
 's	O
 asked	O
@@ -27199,12 +28486,14 @@ have	O
 a	O
 look	O
 around	O
+.	O
 The	O
 DoE	O
 may	O
 well	O
 have	O
 p	O
+...	O
 'RT	O
 @JReyez	O
 :	O
@@ -27222,6 +28511,7 @@ November	O
 Hahaha'	O
 n	O
 dude	O
+....	O
 one	O
 of	O
 the	O
@@ -27254,6 +28544,7 @@ by	O
 ,	O
 not	O
 years	O
+.	O
 Count	O
 your	O
 life	O
@@ -27269,11 +28560,13 @@ Lennon	O
 #quotes	O
 @XrisLastRights	O
 yep	O
+...	O
 we	O
 don't	O
 have	O
 anything	O
 here	O
+...	O
 (	O
 ok	O
 ,	O
@@ -27284,6 +28577,7 @@ one	O
 year	O
 ago	O
 but	O
+..	O
 that	O
 's	O
 it	O
@@ -27305,9 +28599,11 @@ in	O
 the	O
 street	O
 loll	O
+.	O
 miss	O
 u	O
 twitfriends	O
+.	O
 xx	O
 @LH_TCC	O
 I	O
@@ -27317,9 +28613,11 @@ All	O
 Of	O
 The	O
 Lights	O
+.	O
 I	O
 really	O
 do	O
+.	O
 CDQ	O
 of	O
 Runaway	O
@@ -27334,6 +28632,7 @@ did	O
 it	O
 Live	O
 too	O
+.	O
 Pedersen	O
 :	O
 Hangeland	O
@@ -27351,6 +28650,7 @@ rotfl	O
 at	O
 lunch	O
 today	O
+.	O
 xD	O
 My	O
 BFF	O
@@ -27366,11 +28666,13 @@ boys	O
 Shane	O
 &amp;	O
 Jonah	O
+.	O
 And	O
 this	O
 girl	O
 ,	O
 Claire	O
+.	O
 (	O
 cont	O
 )	O
@@ -27383,6 +28685,7 @@ going	O
 on	O
 !	O
 Lol	O
+.	O
 DVD	O
 Out	O
 25th	O
@@ -27392,6 +28695,7 @@ October	O
 ik	O
 me	O
 2	O
+.	O
 At	O
 night	O
 I'm	O
@@ -27416,6 +28720,7 @@ me	O
 make	O
 me	O
 nothing	O
+.	O
 Fling	O
 me	O
 across	O
@@ -27425,6 +28730,7 @@ of	O
 space	O
 and	O
 time	O
+.	O
 From	O
 nothing	O
 once	O
@@ -27451,7 +28757,9 @@ seem	O
 to	O
 be	O
 awake	O
+.	O
 -	O
+.	O
 -	O
 thank	O
 god	O
@@ -27468,6 +28776,7 @@ to	O
 birmingham	B-geo-loc
 stuff	O
 out	O
+.....	O
 hope	O
 it	O
 goes	O
@@ -27523,6 +28832,7 @@ well	O
 ,	O
 Friday	O
 throu	O
+...	O
 http://bit.ly/cLTnyl	O
 @mekamoe927	O
 I've	O
@@ -27540,7 +28850,9 @@ experience	O
 double	O
 entendre	O
 intended)	O
+.	O
 This	O
+.	O
 RT	O
 @bethanyshondark	O
 :	O
@@ -27559,6 +28871,7 @@ without	O
 the	O
 snarky	O
 Joos	O
+.	O
 Aw	O
 !!	O
 @RealWendyHall	O
@@ -27591,6 +28904,7 @@ much	O
 of	O
 an	O
 effort	O
+.	O
 He	O
 's	O
 wearing	O
@@ -27599,6 +28913,7 @@ same	O
 clothes	O
 as	O
 yesterday	O
+.	O
 There	O
 was	O
 just	O
@@ -27606,10 +28921,12 @@ a	O
 fire	O
 at	O
 work	O
+.	O
 Today	O
 is	O
 looking	O
 up	O
+.	O
 Shoutout	O
 to	O
 @HarryReid	O
@@ -27618,9 +28935,11 @@ his	O
 help	O
 with	O
 DADT	O
+.	O
 Thanks	O
 for	O
 following	O
+.	O
 Good	O
 luck	O
 on	O
@@ -27652,6 +28971,7 @@ same	O
 thing	O
 years	O
 ago	O
+.	O
 'RT	O
 @veganbotanicals	O
 :	O
@@ -27682,9 +29002,9 @@ seller	O
 at	O
 c	O
 ...'	O
-Y	Oartist
-La	Oartist
-Bamba	Oartist
+Y	O
+La	O
+Bamba	O
 :	O
 Playing	O
 a	O
@@ -27700,7 +29020,7 @@ today	O
 at	O
 Mississippi	O
 Studios	O
-http://artistdata.com/a/1kdx	O
+http://data.com/a/1kdx	O
 @CoryFerrari	O
 test	O
 came	O
@@ -27710,6 +29030,7 @@ positive	O
 Sorry	O
 lil	O
 buddy	O
+.....	O
 At	O
 least	O
 medicine	O
@@ -27720,6 +29041,7 @@ keep	O
 it	O
 in	O
 control	O
+.	O
 Goodnight	O
 and	O
 may	O
@@ -27729,6 +29051,7 @@ upon	O
 you	O
 and	O
 yours	O
+.	O
 &lt;	O
 3	O
 @journalproject	O
@@ -27752,12 +29075,14 @@ some1	O
 else	O
 really	O
 one	O
+.	O
 She	O
 refused	O
 to	O
 give	O
 it	O
 back	O
+.	O
 @barbieryan	O
 I	O
 get	O
@@ -27770,6 +29095,7 @@ getting	O
 my	O
 hair	O
 cut	O
+...	O
 fail	O
 whats	O
 the	O
@@ -27790,6 +29116,7 @@ the	O
 time	O
 ?	O
 exactly	O
+.	O
 @maeband	O
 I'm	O
 so	O
@@ -27800,6 +29127,7 @@ you	O
 guys	O
 on	O
 Oct	O
+.	O
 12th	O
 at	O
 the	O
@@ -27815,6 +29143,7 @@ since	O
 D	O
 :	O
 B	O
+.	O
 Your	O
 so	O
 amazing	O
@@ -27828,6 +29157,7 @@ Day	O
 Andy	O
 Kaufman	O
 ?:	O
+...	O
 the	O
 bizarre	O
 events	O
@@ -27840,6 +29170,7 @@ moment	O
 the	O
 movie	O
 could	O
+...	O
 http://bit.ly/aUZ2on	O
 Feeling	O
 really	O
@@ -27853,6 +29184,7 @@ SF	B-geo-loc
 and	O
 LA	B-geo-loc
 offices	O
+.	O
 Glad	O
 to	O
 kick	O
@@ -27884,6 +29216,7 @@ NY	B-geo-loc
 |	O
 September	O
 1	O
+...	O
 http://bit.ly/cZWGDi	O
 RT	O
 @BunBTrillOG	O
@@ -27913,6 +29246,7 @@ got	O
 ya	O
 twitter	O
 jail	O
+...	O
 BoiRevolution	O
 :	O
 After	O
@@ -27921,6 +29255,7 @@ Dark	O
 Mondays	O
 @	O
 11pm/EST	O
+.	O
 Only	O
 on	O
 www.blogtalkradio.com/boi-revolution	O
@@ -27953,10 +29288,12 @@ came	O
 just	O
 in	O
 time	O
+.	O
 And	O
 how	O
 you	O
 been	O
+.	O
 How	O
 's	O
 work	O
@@ -28041,6 +29378,7 @@ than	O
 miles	O
 per	O
 hour	O
+.	O
 To	O
 photograph	O
 it	O
@@ -28060,6 +29398,7 @@ Logging	O
 off	O
 for	O
 today	O
+.	O
 About	O
 to	O
 go	O
@@ -28071,6 +29410,7 @@ Slim	O
 by	O
 Richard	O
 Kadrey	O
+.	O
 Love	O
 #wkndreads	O
 :)	O
@@ -28109,15 +29449,18 @@ SECTION	O
 !!!	O
 @cdellz11	O
 yeah	O
+.	O
 But	O
 it	O
 's	O
 been	O
 so	O
 long	O
+.	O
 I	O
 miss	O
 home	O
+.	O
 But	O
 u	O
 still	O
@@ -28125,9 +29468,11 @@ on	O
 ur	O
 grind	O
 tho	O
+.	O
 That	O
 's	O
 wassup	O
+.	O
 lush	O
 when	O
 ya	O
@@ -28193,6 +29538,7 @@ tonight	O
 10pm	O
 at	O
 Summits	O
+.	O
 Let	O
 me	O
 know	O
@@ -28200,6 +29546,7 @@ know	O
 @GaryLuvin	O
 still	O
 hot	O
+...	O
 But	O
 excited	O
 about	O
@@ -28215,6 +29562,7 @@ Okay	O
 I'm	O
 kinda	O
 proud	O
+.	O
 I	O
 finished	O
 the	O
@@ -28229,6 +29577,7 @@ novels	O
 in	O
 8	O
 days	O
+.	O
 today	O
 in	O
 a	O
@@ -28298,6 +29647,7 @@ drowning	O
 in	O
 my	O
 thoughts	O
+.	O
 omg	O
 simone	O
 is	O
@@ -28335,12 +29685,14 @@ Yesterday	O
 Today	O
 and	O
 Tomorrow	O
+..	O
 Finally	O
 get	O
 to	O
 rest	O
 on	O
 Sunday	O
+..	O
 Unless	O
 there	O
 's	O
@@ -28377,6 +29729,7 @@ Please	O
 3	O
 you	O
 St	O
+.	O
 Luke	O
 's	O
 emergency	O
@@ -28387,6 +29740,7 @@ is	O
 approximately	O
 12	O
 minutes	O
+.	O
 OCTOBER	O
 2ND	O
 1988	O
@@ -28394,6 +29748,7 @@ A	O
 STAR	O
 WAS	O
 BORN	O
+...	O
 Yo	O
 kids	O
 !	O
@@ -28471,9 +29826,12 @@ synchronized	O
 prayer	O
 4	O
 peace	O
+.	O
 4pm	O
 PST	O
+.	O
 http://	O
+...	O
 @Phoebe1_	O
 and	O
 i	O
@@ -28505,6 +29863,7 @@ night	O
 at	O
 @gathering_umc	O
 tonight	O
+.	O
 Plenty	O
 of	O
 games	O
@@ -28515,6 +29874,7 @@ just	O
 from	O
 my	O
 family	O
+.	O
 :)	O
 Anyone	O
 is	O
@@ -28543,6 +29903,7 @@ gone	O
 won't	O
 last	O
 long	O
+.	O
 Inbox	O
 me	O
 :)	O
@@ -28558,6 +29919,7 @@ get	O
 one	O
 after	O
 all	O
+.	O
 @Komanapalli	O
 people	O
 believe	O
@@ -28573,6 +29935,7 @@ a	O
 source	O
 of	O
 knowledge	O
+.	O
 When	O
 Lari	O
 and	O
@@ -28600,6 +29963,7 @@ schedule	O
 acupuncture	O
 and	O
 massage	O
+.	O
 RT	O
 @yikes77	O
 :	O
@@ -28622,6 +29986,7 @@ than	O
 just	O
 ONE	O
 date	O
+.	O
 -	O
 YUP	O
 !!!!	O
@@ -28636,6 +30001,7 @@ RT	O
 Free	O
 before	O
 10:30	O
+....	O
 Wear	O
 All	O
 Black	O
@@ -28647,8 +30013,10 @@ Had	O
 doctors	O
 appts	O
 today	O
+...	O
 fun	O
 stuff	O
+.	O
 leaving	O
 for	O
 the	O
@@ -28667,6 +30035,7 @@ DAY	O
 ok	O
 bed	O
 time	O
+.	O
 I	O
 think	O
 i'ma	O
@@ -28693,6 +30062,7 @@ a	O
 mess	O
 eternally	O
 be	O
+.	O
 I'm	O
 mad	O
 coach	O
@@ -28732,6 +30102,7 @@ free	O
 up	O
 some	O
 time	O
+.	O
 @CWWatson	O
 one	O
 of	O
@@ -28755,6 +30126,7 @@ kids	O
 thro	O
 the	O
 day	O
+.	O
 Beggers	O
 belief	O
 RT	O
@@ -28769,11 +30141,13 @@ before	O
 you	O
 bumass	O
 rappers	O
+....	O
 i	O
 bet	O
 they	O
 hella	O
 mad	O
+...	O
 yall	O
 niggas	O
 been	O
@@ -28783,6 +30157,7 @@ years	O
 and	O
 still	O
 a	O
+...	O
 Comment	O
 of	O
 the	O
@@ -28827,6 +30202,7 @@ tonight	O
 @borneobaby	O
 Me	O
 neither	O
+.	O
 I	O
 will	O
 think	O
@@ -28864,6 +30240,7 @@ was	O
 at	O
 home	O
 tomorrow	O
+.	O
 Silly	O
 billy	O
 'RT	O
@@ -28937,8 +30314,8 @@ a	O
 YouTube	O
 video	O
 --	O
-Testing	Oartist
-Tomorrow	Oartist
+Testing	O
+Tomorrow	O
 http://youtu.be/aOYInsel7Qw?a	O
 RT	O
 @BitchImYerp	O
@@ -28987,6 +30364,7 @@ know	O
 of	O
 the	O
 crying	O
+...	O
 http://ow.ly/193oP5	O
 @Thuyenth_JB	O
 i	O
@@ -28999,6 +30377,7 @@ day	O
 so	O
 no	O
 worries	O
+.	O
 and	O
 u	O
 keep	O
@@ -29007,17 +30386,20 @@ my	O
 lil	O
 frustration	O
 moments	O
+.	O
 i'll	O
 miss	O
 yooouuu	O
 my	O
 aunty	O
 tersayangg	O
+....	O
 See	O
 U	O
 next	O
 Time	O
 yah	O
+...	O
 Mmuah	O
 :	O
 *	O
@@ -29053,6 +30435,7 @@ this	O
 money	O
 to	O
 leav	O
+...	O
 @EBArchDesign	O
 Thanks	O
 for	O
@@ -29072,6 +30455,7 @@ Owner	O
 says	O
 its	O
 cool	O
+.	O
 Trying	O
 to	O
 get	O
@@ -29087,9 +30471,11 @@ now	O
 @AandLClothingCo	O
 @Dishfunctional	O
 yeah	O
+.	O
 big	O
 time	O
 dancer	O
+.	O
 i	O
 might	O
 worship	O
@@ -29147,6 +30533,7 @@ the	O
 jerk-o	O
 for	O
 lying	O
+.	O
 Plus	O
 I	O
 had	O
@@ -29194,6 +30581,7 @@ as	O
 i	O
 have	O
 tonight	O
+.	O
 my	O
 eyes	O
 are	O
@@ -29240,6 +30628,7 @@ AND	O
 DRIVING	O
 TODAY	O
 LOL	O
+....	O
 Excuses	O
 Excuses	O
 Excuses	O
@@ -29286,7 +30675,9 @@ fab	O
 #Colorado	O
 Palisades	O
 peaches	O
+.	O
 Mmmm	O
+....	O
 im	O
 in	O
 a	O
@@ -29304,6 +30695,7 @@ time	O
 to	O
 go	O
 home	O
+.	O
 @onephotojourney	O
 Thanks	O
 for	O
@@ -29314,6 +30706,7 @@ bump	O
 !	O
 :)	O
 VMAs	O
+.	O
 (	O
 :	O
 I	O
@@ -29335,6 +30728,7 @@ one	O
 of	O
 THOSE	O
 days	O
+.	O
 Haha	O
 Is	O
 ur	O
@@ -29365,10 +30759,12 @@ http://ow.ly/2FPLk	O
 I'm	O
 from	O
 Brazil	B-geo-loc
+....	O
 and	O
 I	O
 love	O
 you	O
+.	O
 You're	O
 my	O
 favorite	O
@@ -29380,6 +30776,7 @@ Day	O
 is	O
 so	O
 cool	O
+...	O
 My	O
 dream	O
 is	O
@@ -29406,6 +30803,7 @@ a	O
 safe	O
 trip	O
 home	O
+.	O
 hopefully	O
 next	O
 time	O
@@ -29423,6 +30821,7 @@ good	O
 stuff	O
 at	O
 KSC	B-geo-loc
+.	O
 Getting	O
 this	O
 head	O
@@ -29474,9 +30873,11 @@ can't	O
 take	O
 a	O
 joke	O
+.	O
 :)	O
 HAPPY	O
 B	O
+.	O
 DAY	O
 TORA	O
 *OOOOOOOOO*	O
@@ -29503,7 +30904,9 @@ i	O
 wonder	O
 wat	O
 tom	O
+.	O
 is	O
+......	O
 random	O
 much	O
 ?	O
@@ -29552,6 +30955,7 @@ task	O
 at	O
 a	O
 time	O
+.	O
 I	O
 distinctly	O
 remember	O
@@ -29561,6 +30965,7 @@ me	O
 chocolates	O
 last	O
 week	O
+.	O
 I	O
 don't	O
 recall	O
@@ -29568,6 +30973,7 @@ eating	O
 a	O
 single	O
 piece	O
+.	O
 They're	O
 nowhere	O
 to	O
@@ -29575,6 +30981,7 @@ be	O
 found	O
 of	O
 course	O
+.	O
 On	O
 Thanksgiving	O
 after	O
@@ -29592,16 +30999,16 @@ the	O
 dishes	O
 Shows	O
 Tonight-Local	O
-Natives	Oartist
+Natives	O
 @TheMusicBoxLA	O
 ,	O
-Primus	Oartist
+Primus	O
 @ClubNokia	O
 Marina&amp;Diamonds	O
 @ElReyTheatre	O
 ,	O
-Mystery	Oartist
-Jets	Oartist
+Mystery	O
+Jets	O
 @TheTroubadour	O
 (	O
 via	O
@@ -29625,6 +31032,7 @@ it	O
 's	O
 in	O
 England	B-geo-loc
+.	O
 Will	O
 tweet	O
 tomorrow	O
@@ -29632,6 +31040,7 @@ if	O
 they	O
 let	O
 me	O
+...	O
 about	O
 to	O
 get	O
@@ -29664,12 +31073,14 @@ afternoon	O
 that	O
 Lindsay	O
 Lohan	O
+...	O
 http://bit.ly/aKHoZc	O
 @syriusgemini	O
 Those	O
 were	O
 the	O
 days	O
+....	O
 sadly	O
 it	O
 turned	O
@@ -29768,18 +31179,22 @@ moms	O
 who	O
 love	O
 scrapbooking	O
+.	O
 kill	O
 me	O
+.	O
 @evarley	O
 Yes	O
 ,	O
 thanks	O
+.	O
 We're	O
 more	O
 traumatised	O
 than	O
 he	O
 is	O
+...	O
 ;)	O
 I	O
 hate	O
@@ -29797,6 +31212,7 @@ up	O
 with	O
 the	O
 day	O
+...	O
 @camamay	O
 i	O
 thought	O
@@ -29809,11 +31225,12 @@ was	O
 coming	O
 !	O
 @jaredleto	O
+...	O
 ive	O
 been	O
 to	O
 13	O
-30stm	Oartist
+30stm	O
 concerts	O
 now	O
 and	O
@@ -29824,9 +31241,9 @@ me	O
 on	O
 stage	O
 during/before	O
-kings	Oartist
-and	Oartist
-queens	Oartist
+kings	O
+and	O
+queens	O
 :(	O
 ((	O
 I	O
@@ -29873,6 +31290,7 @@ in	O
 the	O
 long	O
 run	O
+...	O
 @webcowgirl	O
 You're	O
 supposed	O
@@ -29887,13 +31305,17 @@ Bringing	O
 this	O
 one	O
 back	O
+.	O
 From	O
 last	O
 March	O
+.	O
 On	O
 tackles	O
+.	O
 On	O
 intent	O
+.	O
 More	O
 to	O
 say	O
@@ -29921,6 +31343,7 @@ Monday	O
 #Drumbeat	O
 community	O
 call	O
+.	O
 DIY	O
 U	O
 and	O
@@ -29928,6 +31351,7 @@ the	O
 future	O
 of	O
 education	O
+.	O
 http://mzl.la/azQO2g	O
 @anya1anya	O
 @Surfrdan	O
@@ -29946,6 +31370,7 @@ he	O
 played	O
 Tony	O
 Blair	O
+.	O
 para	O
 com	O
 isso	O
@@ -29963,12 +31388,16 @@ phone	O
 taken	O
 up	O
 today	O
+.	O
 Guess	O
 why	O
+.	O
 @justinbieber	O
+.	O
 That	O
 's	O
 why	O
+.	O
 took	O
 the	O
 combine	O
@@ -29989,6 +31418,7 @@ on	O
 the	O
 wet	O
 side	O
+.	O
 @tonygarcha	O
 Hurray	O
 !	O
@@ -29997,6 +31427,7 @@ your	O
 time	O
 in	O
 Harrison	B-geo-loc
+.	O
 -	O
 famous	O
 people	O
@@ -30018,6 +31449,7 @@ my	O
 couple	O
 a	O
 day	O
+..	O
 @godsgirl8494	O
 I	O
 believe	O
@@ -30031,6 +31463,7 @@ it	O
 is	O
 not	O
 shining	O
+.	O
 I	O
 believe	O
 in	O
@@ -30043,6 +31476,7 @@ do	O
 not	O
 feel	O
 it	O
+.	O
 :)	O
 I	O
 've	O
@@ -30063,6 +31497,7 @@ most	O
 of	O
 the	O
 year	O
+.	O
 We	O
 eat	O
 a	O
@@ -30084,6 +31519,7 @@ to	O
 live	O
 around	O
 Coolum	B-geo-loc
+.	O
 Sun	O
 ,	O
 sand	O
@@ -30091,6 +31527,7 @@ sand	O
 surf	O
 and	O
 bikinis	O
+.	O
 Looking	O
 forward	O
 to	O
@@ -30099,6 +31536,7 @@ new	O
 phase	O
 in	O
 life	O
+.	O
 Tonight	O
 is	O
 going	O
@@ -30129,6 +31567,7 @@ RT	O
 @J_Dizzle18	O
 :	O
 11.04	O
+.	O
 10	O
 is	O
 gonna	O
@@ -30136,6 +31575,7 @@ be	O
 a	O
 good	O
 day//yes	O
+..	O
 I	O
 turn	O
 18	O
@@ -30183,6 +31623,7 @@ give	O
 me	O
 so	O
 much	O
+...	O
 love	O
 Do	O
 n't	O
@@ -30217,17 +31658,20 @@ living	O
 for	O
 two	O
 weeks	O
+.	O
 Empire	O
 State	O
 Building	O
 =	O
 ESB	O
+.	O
 Pretty	O
 bad	O
 storm	O
 here	O
 last	O
 evening	O
+.	O
 Yahoo	O
 :	O
 Jackie	O
@@ -30250,6 +31694,7 @@ in	O
 a	O
 pregnant	O
 Jacquelin	O
+...	O
 http://yhoo.it/9VAD4A	O
 Kahlua	O
 &lt;	O
@@ -30264,6 +31709,7 @@ what	O
 the	O
 doctor	O
 ordered	O
+....	O
 hope	O
 everyone	O
 has	O
@@ -30316,6 +31762,7 @@ a	O
 few	O
 months	O
 back	O
+.	O
 Tarantula	O
 in	O
 my	O
@@ -30344,6 +31791,7 @@ flirt	O
 with	O
 someone	O
 else	O
+...	O
 @Jacksonter	O
 Haha	O
 ,	O
@@ -30387,6 +31835,7 @@ a	O
 sales	O
 training	O
 speaker	O
+.	O
 Half	O
 baked	O
 ,	O
@@ -30406,6 +31855,7 @@ and	O
 hours	O
 of	O
 friday	O
+.	O
 &lt;	O
 DEAD	O
 GREEN	O
@@ -30434,6 +31884,7 @@ they	O
 make	O
 a	O
 mistake	O
+.	O
 Hoyy	O
 One	O
 Day	O
@@ -30451,6 +31902,7 @@ on	O
 its	O
 Friday	O
 night	O
+...	O
 shes	O
 dreaming	O
 whoa	O
@@ -30475,6 +31927,7 @@ really	O
 good	O
 at	O
 history	O
+.	O
 I	O
 once	O
 went	O
@@ -30485,6 +31938,7 @@ and	O
 killed	O
 Charlie	O
 Chaplin	O
+.	O
 RT	O
 @chloezxy	O
 :	O
@@ -30531,16 +31985,18 @@ Z	O
 earlier	O
 in	O
 Lo	O
+...	O
 http://bit.ly/bsyz9H	O
 @EssieLovesYou	O
 yesterday	O
 i	O
 had	O
 a	O
-kings	Oartist
-of	Oartist
-leon	Oartist
+kings	O
+of	O
+leon	O
 marathon	O
+.	O
 i	O
 slept	O
 happy	O
@@ -30565,6 +32021,7 @@ Beautiful	O
 Foooooootball	O
 game	O
 toooonight	O
+.	O
 then	O
 auburn	B-geo-loc
 game	O
@@ -30604,17 +32061,21 @@ love	O
 his	O
 fans	O
 so	O
+...	O
 @jessesco	O
 gosh	O
+...	O
 lots	O
 that	O
 i	O
 dont	O
 tweet	O
 about	O
+.	O
 tough	O
 few	O
 days	O
+.	O
 but	O
 things	O
 happen	O
@@ -30631,18 +32092,19 @@ hope	O
 youve	O
 been	O
 well	O
+.	O
 Win	O
 tix	O
 2	O
 KELE	O
 and	O
-DOES	Oartist
-IT	Oartist
-OFFEND	Oartist
-YOU	Oartist
-,	Oartist
-YEAH	Oartist
-?	Oartist
+DOES	O
+IT	O
+OFFEND	O
+YOU	O
+,	O
+YEAH	O
+?	O
 Sept	O
 21st	O
 @	O
@@ -30670,6 +32132,7 @@ this	O
 week	O
 !	O
 urgh	O
+.	O
 RACHELLE	O
 im	O
 gonnauh	O
@@ -30762,6 +32225,7 @@ that	O
 tasted	O
 like	O
 chalk	O
+.	O
 There	O
 was	O
 just	O
@@ -30769,10 +32233,12 @@ a	O
 fire	O
 at	O
 work	O
+.	O
 Today	O
 is	O
 looking	O
 up	O
+.	O
 @sporty191	O
 MUAH	O
 !!!!!	O
@@ -30791,6 +32257,7 @@ me	O
 of	O
 doin	O
 something	O
+.	O
 So	O
 u	O
 ain't	O
@@ -30799,7 +32266,9 @@ to	O
 me	O
 till	O
 Wednesday	O
+.	O
 Ok	O
+.	O
 Imma	O
 get	O
 on	O
@@ -30809,6 +32278,7 @@ u	O
 say	O
 I	O
 did	O
+.	O
 Now	O
 u	O
 mad	O
@@ -30818,6 +32288,7 @@ twitter	O
 !	O
 Oh	O
 wow	O
+.	O
 After	O
 like	O
 half	O
@@ -30835,11 +32306,13 @@ my	O
 label	O
 printing	O
 issues	O
+.	O
 Hope	O
 this	O
 one	O
 's	O
 good	O
+.	O
 Wtf	O
 ?	O
 The	O
@@ -30909,6 +32382,7 @@ appeared	O
 out	O
 of	O
 nowhere	O
+.	O
 Man	O
 i	O
 been	O
@@ -30922,6 +32396,7 @@ my	O
 mommy	O
 cookin	O
 today	O
+...	O
 Beddy	O
 bye	O
 for	O
@@ -30980,6 +32455,7 @@ know	O
 of	O
 the	O
 cryin	O
+...	O
 http://bit.ly/cuy0yt	O
 @OGOchoCinco	O
 depends	O
@@ -30994,6 +32470,7 @@ to	O
 him	O
 on	O
 Sunday	O
+.	O
 Go	O
 Lions	O
 !!	O
@@ -31028,6 +32505,7 @@ in	O
 trouble	O
 once	O
 again	O
+.	O
 The	O
 actress	O
 ,	O
@@ -31036,6 +32514,7 @@ recently	O
 completed	O
 a	O
 stint	O
+...	O
 http://bit.ly/9GEfEa	O
 If	O
 I	O
@@ -31065,9 +32544,11 @@ when	O
 I	O
 was	O
 younger	O
+.	O
 @princessmariam9	O
 i	O
 know	O
+..	O
 i	O
 need	O
 to	O
@@ -31081,6 +32562,7 @@ get	O
 filled	O
 with	O
 water	O
+.	O
 says	O
 it	O
 's	O
@@ -31109,7 +32591,9 @@ John	O
 @kerriweems	O
 oct	O
 7-9	O
+.	O
 livethedreamconference	O
+.	O
 com	O
 @aplusk	O
 http://www.youtube.com/watch?v=eLMui7zBiXo	O
@@ -31128,6 +32612,7 @@ years	O
 in	O
 the	O
 hurling	O
+.	O
 Woo	O
 !!!	O
 I	O
@@ -31141,12 +32626,16 @@ hour	O
 on	O
 a	O
 Saturday	O
+.	O
 Blerghhhhh	O
+.	O
 Good	O
 cause	O
 though	O
+.	O
 I	O
 hope	O
+.	O
 Theres	O
 nothing	O
 funny	O
@@ -31162,7 +32651,9 @@ in	O
 my	O
 office	O
 tomorrow	O
+.	O
 Lmfao	O
+.	O
 A	O
 slow	O
 yes	O
@@ -31174,6 +32665,7 @@ no	O
 days	O
 a	O
 week	O
+...	O
 dont	O
 rush	O
 people	O
@@ -31196,6 +32688,7 @@ shut	O
 up	O
 So	O
 tired	O
+..	O
 Goodnight	O
 twitter	O
 !	O
@@ -31216,6 +32709,7 @@ me	O
 a	O
 nice	O
 slap	O
+..	O
 @WutieBooty	O
 her	O
 album	O
@@ -31231,6 +32725,7 @@ more	O
 popular	O
 each	O
 day	O
+.	O
 Wait	O
 until	O
 after	O
@@ -31263,6 +32758,7 @@ said	O
 yes	O
 too	O
 soon	O
+.	O
 My	O
 teacher	O
 turned	O
@@ -31293,6 +32789,7 @@ and	O
 a	O
 freshmen	O
 again	O
+.	O
 I	O
 fluncked	O
 once	O
@@ -31310,6 +32807,7 @@ never	O
 did	O
 my	O
 work	O
+.	O
 @flossyflop	O
 It	O
 's	O
@@ -31318,6 +32816,7 @@ slightly	O
 off	O
 night	O
 tonight	O
+.	O
 Lots	O
 of	O
 requests	O
@@ -31329,6 +32828,7 @@ cos	O
 they're	O
 too	O
 slow	O
+.	O
 RT	O
 @AllTeensThings	O
 :	O
@@ -31363,10 +32863,11 @@ battle	O
 to	O
 save	O
 Christmas	O
+.	O
 Costa	O
 Rican	O
 group	O
-CocoFunka	Oartist
+CocoFunka	O
 power	O
 this	O
 week	O
@@ -31398,6 +32899,7 @@ in	O
 the	O
 last	O
 month	O
+.	O
 This	O
 is	O
 y	O
@@ -31409,6 +32911,7 @@ bad	O
 ,	O
 ppl	O
 actual	O
+...	O
 @wonderwhygal	O
 I	O
 was	O
@@ -31417,6 +32920,7 @@ to	O
 be	O
 sly	O
 today	O
+.	O
 I	O
 started	O
 a	O
@@ -31435,12 +32939,14 @@ My	O
 goal	O
 is	O
 5	O
+.	O
 RT	O
 @Teacher_Spirit	O
 :	O
 know	O
 this	O
 today	O
+.	O
 no	O
 thing	O
 will	O
@@ -31451,6 +32957,7 @@ you	O
 and	O
 overtake	O
 you	O
+.	O
 the	O
 love	O
 of	O
@@ -31459,18 +32966,22 @@ Christ	O
 will	O
 overtake	O
 it	O
+.	O
 He	O
 is	O
+...	O
 belles	O
 mansion	O
 4	O
 bday	O
 dinner	O
+.	O
 eventhough	O
 its	O
 a	O
 day	O
 early	O
+.	O
 *N*I*K*K*I*	O
 Tomorrows	O
 plan	O
@@ -31494,6 +33005,7 @@ be	O
 a	O
 picturesque	O
 day	O
+.	O
 Est	O
 85	O
 mile	O
@@ -31518,6 +33030,7 @@ to	O
 @SFAC	O
 and	O
 @sfdpw	O
+.	O
 (	O
 via	O
 @SFist	O
@@ -31549,10 +33062,12 @@ EYE	O
 of	O
 the	O
 Storm	O
+....	O
 The	O
 Calm	O
 Before	O
 It	O
+...	O
 'Listen	O
 to	O
 my	O
@@ -31590,6 +33105,7 @@ hehee	O
 love	O
 for	O
 them	O
+.	O
 I	O
 have	O
 undying	O
@@ -31600,11 +33116,13 @@ lot	O
 of	O
 people	O
 today	O
+.	O
 Love	O
 turns	O
 my	O
 world	O
 around	O
+.	O
 @eatzombiebabies	O
 haha	O
 maybe	O
@@ -31638,6 +33156,7 @@ my	O
 area	O
 this	O
 time	O
+.	O
 Are	O
 you	O
 ?	O
@@ -31647,6 +33166,7 @@ should	O
 be	O
 out	O
 wednesday	O
+..	O
 Going	O
 on	O
 a	O
@@ -31659,7 +33179,9 @@ Whitney	O
 tonight	O
 ,	O
 :P	O
+.	O
 Haha	O
+.	O
 RT	O
 @ezraklein	O
 :	O
@@ -31680,11 +33202,13 @@ to	O
 anyone	O
 I've	O
 wronged	O
+.	O
 Hopefully	O
 ,	O
 you're	O
 on	O
 Twitter	O
+.	O
 Sorry	O
 !	O
 What	O
@@ -31715,6 +33239,7 @@ rubber	O
 breaks	O
 you're	O
 screwed	O
+.	O
 @irishhooligan	O
 or	O
 the	O
@@ -31773,11 +33298,13 @@ about	O
 the	O
 new	O
 Twitter	O
+.	O
 com	O
 today	O
 at	O
 1pm	O
 PST	O
+.	O
 'll	O
 be	O
 responding	O
@@ -31786,7 +33313,9 @@ his	O
 own	O
 account	O
 (@ev)	O
+.	O
 Make	O
+...	O
 @jenilynnsimpson	O
 next	O
 time	O
@@ -31821,8 +33350,10 @@ RT	O
 :	O
 Ya	O
 Allah	O
+..	O
 pgn	O
 nangis	O
+..	O
 now	O
 my	O
 instructor	O
@@ -31853,6 +33384,7 @@ cope	O
 lol	O
 x	O
 Damn	O
+.	O
 Is	O
 he	O
 in	O
@@ -31871,14 +33403,17 @@ fantasy	O
 and	O
 day	O
 dreams	O
+.	O
 There	O
 they	O
 are	O
 free	O
+.	O
 RT	O
 @robmoysey	O
 Eyeopener	O
 vs	O
+.	O
 Ryerson	O
 Quidditch	O
 team	O
@@ -31910,6 +33445,7 @@ sodium	O
 than	O
 the	O
 original	O
+..	O
 go	O
 for	O
 "	O
@@ -31943,6 +33479,7 @@ gen	O
 after	O
 desire/desirehd/galaxy	O
 s	O
+.	O
 critical	O
 mass/commercial	O
 TWEET	O
@@ -31986,6 +33523,7 @@ and	O
 never	O
 an	O
 answer	O
+.	O
 It	O
 just	O
 drove	O
@@ -31996,15 +33534,18 @@ but	O
 i'm	O
 not	O
 mad	O
+.	O
 Just	O
 thinkin	O
 not	O
 again	O
 ya	O
 know	O
+.	O
 @Kalyro	O
 LOL	O
 PROBABLY	O
+.	O
 I	O
 JUST	O
 SPENT	O
@@ -32020,6 +33561,7 @@ HAVE	O
 3	O
 LEGENDARY/NOVELTIES	O
 ALREADY	O
+.	O
 Haha	O
 I	O
 seen	O
@@ -32032,6 +33574,7 @@ foot	O
 cheese	O
 grater	O
 today	O
+.	O
 I	O
 found	O
 it	O
@@ -32062,6 +33605,7 @@ know	O
 of	O
 the	O
 cryin	O
+...	O
 http://bit.ly/cuy0yt	O
 jus	O
 about	O
@@ -32071,6 +33615,7 @@ dressed	O
 and	O
 leave	O
 again	O
+....	O
 smh	O
 a	O
 very	O
@@ -32098,6 +33643,7 @@ not	O
 my	O
 dads	O
 birthday	O
+.	O
 Looking	O
 for	O
 something	O
@@ -32130,6 +33676,7 @@ on	O
 my	O
 day	O
 off	O
+...	O
 i	O
 have	O
 a	O
@@ -32138,6 +33685,7 @@ day	O
 stetch	O
 startin	O
 tomorrow	O
+.	O
 Conflicts	O
 of	O
 Law	O
@@ -32147,11 +33695,13 @@ and	O
 Materials	O
 :	O
 R	O
+.	O
 Lea	O
 Brilmayer	O
 ,	O
 Jack	O
 L	O
+.	O
 Goldsmith[May	O
 01	O
 ,	O
@@ -32172,6 +33722,7 @@ your	O
 teenage	O
 dream	O
 tonight	O
+....	O
 iPad	O
 Refresh	O
 Due	O
@@ -32190,7 +33741,9 @@ of	O
 the	O
 next	O
 iPad	O
+.	O
 IPad	O
+...	O
 http://bit.ly/9gplXp	O
 when	O
 a	O
@@ -32231,11 +33784,13 @@ Lesson	O
 Learned	O
 for	O
 today	O
+.	O
 Sometimes	O
 making	O
 changes	O
 is	O
 unnecessary	O
+.	O
 Some	O
 people	O
 don't	O
@@ -32270,6 +33825,7 @@ wearing	O
 hoodies	O
 and	O
 jeans	O
+.	O
 -_-	O
 #ItsTheTeenLife	O
 @Angie_Jerez	O
@@ -32394,6 +33950,7 @@ back	O
 home	O
 over	O
 tonight	O
+.	O
 Might	O
 get	O
 a	O
@@ -32415,10 +33972,12 @@ have	O
 seen	O
 all	O
 year	O
+.	O
 So	O
 ,	O
 so	O
 good	O
+.	O
 And	O
 do	O
 n't	O
@@ -32431,7 +33990,9 @@ forgave	O
 you	O
 for	O
 Gigli	O
+.	O
 Really	O
+.	O
 RT	O
 @BorisKodjoe	O
 :	O
@@ -32461,6 +34022,7 @@ next	O
 Wednesday	O
 !	O
 http	O
+...	O
 @welovepop	O
 much	O
 prefer	O
@@ -32472,6 +34034,7 @@ they	O
 are	O
 recording	O
 soon	O
+.....	O
 it	O
 is	O
 really	O
@@ -32484,9 +34047,11 @@ fans	O
 at	O
 the	O
 moment	O
+....	O
 do	O
 not	O
 like	O
+..	O
 Was	O
 thinking	O
 today	O
@@ -32503,13 +34068,16 @@ people	O
 in	O
 this	O
 world	O
+.	O
 @SaveLakeAlbert	O
 work	O
 both	O
 days	O
+.	O
 I'm	O
 not	O
 stressed	O
+.	O
 Will	O
 send	O
 photos	O
@@ -32517,6 +34085,7 @@ of	O
 the	O
 view	O
 later	O
+.	O
 @since1938	O
 @Kimmiecoomd	O
 Kudos	O
@@ -32532,6 +34101,7 @@ there	O
 something	O
 about	O
 you	O
+..	O
 whatever	O
 tell	O
 me	O
@@ -32540,6 +34110,7 @@ you're	O
 ready	O
 &quot;	O
 thing	O
+.	O
 RT	O
 @ssssab	O
 :	O
@@ -32567,11 +34138,13 @@ can	O
 only	O
 get	O
 better	O
+.	O
 Played	O
 with	O
 short	O
 bench	O
 tonight	O
+.	O
 Thought	O
 Rocks	O
 well	O
@@ -32605,6 +34178,7 @@ for	O
 a	O
 good	O
 year	O
+.	O
 Gmar	O
 Chatimah	O
 Tova	O
@@ -32618,6 +34192,7 @@ Lincoln	O
 park	O
 after	O
 dark	O
+...	O
 Hello	O
 "	O
 Russian	O
@@ -32653,12 +34228,14 @@ want	O
 to	O
 hang	O
 out	O
+...	O
 http://migre.me/1kO1K	O
 Im	O
 starting	O
 to	O
 hate	O
 verizon	O
+.	O
 I	O
 normally	O
 have	O
@@ -32667,6 +34244,7 @@ bar	O
 or	O
 no	O
 bars	O
+.	O
 But	O
 i	O
 sure	O
@@ -32678,10 +34256,12 @@ ev	O
 all	O
 the	O
 time	O
+.	O
 Stupid	O
 Day	O
 at	O
 T	O
+.	O
 epic	O
 interview	O
 and	O
@@ -32690,6 +34270,7 @@ shoot	O
 with	O
 Marie	O
 Clair	O
+.	O
 @OHEMMGEEZY	O
 RT	O
 @GraceThorson	O
@@ -32713,6 +34294,7 @@ learn	O
 something	O
 from	O
 it	O
+.	O
 @ChristianScroll	O
 RT	O
 @Quotealicious	O
@@ -32724,6 +34306,7 @@ girl	O
 can	O
 be	O
 friends	O
+.	O
 But	O
 sooner	O
 or	O
@@ -32735,6 +34318,7 @@ fall	O
 for	O
 the	O
 other	O
+.	O
 Maybe	O
 too	O
 early	O
@@ -32744,6 +34328,7 @@ too	O
 LATE	O
 or	O
 may	O
+...	O
 #NFL	O
 Week	O
 2	O
@@ -32754,6 +34339,7 @@ up	O
 on	O
 @The_Score	O
 website	O
+...	O
 http://blogs.thescore.com/nfl/2010/09/17/pizzolaw2/	O
 Its	O
 crazy	O
@@ -32806,6 +34392,7 @@ RT	O
 surprise	O
 ,	O
 surprise	O
+...	O
 Frost	O
 WARNINGS	O
 in	O
@@ -32821,10 +34408,12 @@ N	O
 Alta	O
 again	O
 tonight	O
+.	O
 that	O
 includes	O
 the	O
 c	O
+...	O
 @abydauz	O
 good	O
 luck	O
@@ -32832,6 +34421,7 @@ with	O
 the	O
 audition	O
 Saturday	O
+.	O
 Remember	O
 positive	O
 thoughts	O
@@ -32851,6 +34441,7 @@ out	O
 tonight	O
 !	O
 #bittersweet	O
+...	O
 and	O
 the	O
 rules	O
@@ -32873,6 +34464,7 @@ again	O
 Indian	B-geo-loc
 food	O
 RULES	O
+.	O
 @hunleyd	O
 What	O
 is	O
@@ -32914,13 +34506,16 @@ yep	O
 ,	O
 we	O
 are	O
+.	O
 hopefully	O
 we'll	O
 be	O
 done	O
 in	O
 time	O
+...	O
 &gt;	O
+.	O
 &lt;	O
 A	O
 TRUE	O
@@ -32935,6 +34530,7 @@ out	O
 !	O
 @BiteMe_iimKeema	O
 OMG	O
+...	O
 BUT	O
 HOW	O
 LONG	O
@@ -32958,6 +34554,7 @@ http://goo.gl/fb/2jPag	O
 #Popular	O
 @PaulJones3	O
 delicioso	O
+.	O
 hows	O
 your	O
 week	O
@@ -32990,6 +34587,7 @@ offer	O
 so	O
 much	O
 opportunity	O
+.	O
 Gabriel	O
 Resources	O
 shares	O
@@ -33008,6 +34606,7 @@ escort	O
 in	O
 Chapel	B-geo-loc
 Hill	I-geo-loc
+...	O
 game	O
 tonight	O
 ?	O
@@ -33022,6 +34621,7 @@ item	O
 from	O
 FedEx	O
 today	O
+.	O
 I'm	O
 so	O
 excited	O
@@ -33034,6 +34634,7 @@ demo	O
 bag	O
 !	O
 #PassionParties	O
+.	O
 #WAHM	O
 ahaha	O
 that	O
@@ -33062,6 +34663,7 @@ foi	O
 bom	O
 ,	O
 porq	O
+.	O
 ganhamos	O
 I	O
 just	O
@@ -33098,11 +34700,13 @@ were	O
 John	O
 and	O
 Edward	O
+...	O
 there	O
 Tweets	O
 make	O
 my	O
 day	O
+...	O
 now	O
 what	O
 am	O
@@ -33144,11 +34748,13 @@ whites	O
 against	O
 London	O
 Irish	O
+.	O
 Only	O
 a	O
 win	O
 will	O
 do	O
+.	O
 Gives	O
 me	O
 more	O
@@ -33191,7 +34797,7 @@ FOR	O
 as	O
 BEST	O
 NEW	O
-ARTIST	O
+	O
 -	O
 &gt;	O
 http://on.mtv.com/9w2tWQ	O
@@ -33206,6 +34812,7 @@ IS	O
 RUNNING	O
 OUT	O
 !	O
+...	O
 I	O
 love	O
 to	O
@@ -33220,6 +34827,7 @@ think	O
 of	O
 the	O
 fairies	O
+.	O
 Like	O
 a	O
 fairy	O
@@ -33235,6 +34843,7 @@ iPhone	O
 is	O
 more	O
 accurate	O
+.	O
 Wasnt	O
 brought	O
 up	O
@@ -33251,9 +34860,11 @@ years	O
 of	O
 my	O
 life	O
+.	O
 @aszreal	O
 SO	O
 PROUD	O
+.	O
 also	O
 I	O
 haven't	O
@@ -33263,6 +34874,7 @@ word	O
 since	O
 Sunday	O
 night	O
+.	O
 =(	O
 I	O
 wrote	O
@@ -33270,6 +34882,7 @@ wrote	O
 on	O
 the	O
 plane	O
+.	O
 (	O
 Yes	O
 ,	O
@@ -33309,6 +34922,7 @@ Trip	O
 Fathers	O
 Day	O
 Trip	O
+.	O
 So	O
 the	O
 fishing	O
@@ -33318,6 +34932,7 @@ super	O
 good	O
 this	O
 summer	O
+.	O
 I'...	O
 http://bit.ly/au121g	O
 #dad	O
@@ -33366,6 +34981,7 @@ privacy	O
 for	O
 the	O
 guys	O
+.	O
 But	O
 after	O
 episode	O
@@ -33385,6 +35001,7 @@ only	O
 p-i-m-p	O
 I	O
 know	O
+...	O
 @amcdavid	O
 !	O
 We're	O
@@ -33428,6 +35045,7 @@ back	O
 without	O
 living	O
 there	O
+.	O
 @halbpro	O
 it	O
 's	O
@@ -33443,6 +35061,7 @@ done	O
 in	O
 a	O
 year	O
+.	O
 3	O
 pushes	O
 it	O
@@ -33452,11 +35071,13 @@ bit	O
 but	O
 is	O
 possible	O
+.	O
 4	O
 is	O
 on	O
 the	O
 limit	O
+.	O
 depends	O
 though	O
 Looks	O
@@ -33509,6 +35130,7 @@ West	O
 Ave	O
 ,	O
 Patchogue)	B-geo-loc
+.	O
 http://4sq.com/aX6N26	O
 @ConorMc_Ginty	O
 GaGa	O
@@ -33518,6 +35140,7 @@ a	O
 few	O
 weeks	O
 back	O
+.	O
 She	O
 spoke	O
 out	O
@@ -33526,11 +35149,13 @@ SB1070	O
 during	O
 the	O
 show	O
+.	O
 God	O
 bless	O
 her	O
 for	O
 that	O
+.	O
 @yamyamjones	O
 haha	O
 !	O
@@ -33578,6 +35203,7 @@ the	O
 ravens	O
 game	O
 tomorrow	O
+....	O
 go	O
 ray	O
 rice	O
@@ -33591,6 +35217,7 @@ make	O
 it	O
 on	O
 time	O
+.	O
 Wish	O
 that	O
 I'll	O
@@ -33657,6 +35284,7 @@ if	O
 she'd	O
 let	O
 me	O
+...	O
 hahahaha	O
 &quot;	O
 lol	O
@@ -33671,6 +35299,7 @@ man	O
 u	O
 got	O
 it	O
+.	O
 It	O
 's	O
 only	O
@@ -33678,6 +35307,7 @@ a	O
 matter	O
 of	O
 time	O
+.	O
 @suggsygirl	O
 Have	O
 a	O
@@ -33730,6 +35360,7 @@ hopping	O
 in	O
 buckhead	O
 tonight	O
+.	O
 @majornelson	O
 I'm	O
 out	O
@@ -33756,6 +35387,7 @@ got	O
 home	O
 from	O
 school	O
+.	O
 :D	O
 it	O
 's	O
@@ -33789,18 +35421,23 @@ National	O
 POW/MIA	O
 Recognition	O
 Day	O
+.	O
 Visit	O
 http://www.dtic.mil/dpmo/pow_day/	O
 to	O
 read	O
 the	O
 Presidenta	O
+...	O
 Hey	O
+.	O
 #dmv	O
+.	O
 There	O
 is	O
 a	O
 march	O
+.	O
 10-02-2010	O
 onenationworkingtogether.org	O
 for	O
@@ -33809,6 +35446,7 @@ info	O
 @TheTiniestVole	O
 It	O
 is	O
+.	O
 It	O
 's	O
 getting	O
@@ -33818,16 +35456,19 @@ that	O
 's	O
 the	O
 killer	O
+.	O
 Still	O
 miss	O
 it	O
 ,	O
 though	O
+.	O
 Lived	O
 there	O
 for	O
 20	O
 years	O
+.	O
 RT	O
 @johan0394	O
 :	O
@@ -33835,6 +35476,7 @@ Soulja	O
 Boy	O
 |	O
 TheDeAndreWay	O
+.	O
 com	O
 --	O
 The	O
@@ -33865,6 +35507,7 @@ not	O
 harvested	O
 fr	O
 Twitter/FB	O
+.	O
 Email'd	O
 to	O
 this	O
@@ -33888,6 +35531,7 @@ in	O
 Paris	B-geo-loc
 next	O
 week	O
+.	O
 We	O
 plan	O
 a	O
@@ -33915,14 +35559,18 @@ on	O
 the	O
 show	O
 tonight	O
+.	O
 Tune	O
 i	O
+...	O
 @WildLives	O
 I	O
 do	O
+.	O
 I	O
 expect	O
 it	O
+.	O
 It	O
 's	O
 a	O
@@ -33938,6 +35586,7 @@ background	O
 of	O
 playground	O
 noises	O
+.	O
 RT	O
 @AniCoronado	O
 :	O
@@ -33964,7 +35613,9 @@ a	O
 surge	O
 of	O
 energy	O
+.	O
 PeopleSearchAffiliates	O
+.	O
 com	O
 :	O
 #1	O
@@ -33985,6 +35636,7 @@ products	O
 on	O
 CB	O
 for	O
+...	O
 http://bit.ly/aVU9RU	O
 @MiggleM	O
 We'll	O
@@ -33992,12 +35644,14 @@ catch	O
 up	O
 some	O
 time	O
+...	O
 *knows	O
 this	O
 won't	O
 happen*	O
 -	O
 FantasyPro	O
+.	O
 net	O
 offers	O
 a	O
@@ -34023,6 +35677,7 @@ ET	O
 Sunday	O
 Sept	O
 19th	O
+.	O
 RT	O
 @kiera16_x	O
 :	O
@@ -34041,16 +35696,19 @@ THANKYOU	O
 http://twitition.com/oxm5g	O
 @MariaMdn	O
 Wow	O
+..	O
 saw	O
 pictures	O
 of	O
 Robert	O
+....	O
 spent	O
 2	O
 01-Feb	O
 years	O
 with	O
 him	O
+.	O
 Broke	O
 up	O
 4	O
@@ -34063,14 +35721,17 @@ when	O
 we	O
 were	O
 perfect	O
+..	O
 @kajelly_milk	O
 (	O
 :	O
 but	O
 hey	O
+..	O
 its	O
 all	O
 good	O
+.	O
 i	O
 like	O
 him	O
@@ -34116,6 +35777,7 @@ $	O
 350	O
 a	O
 month	O
+.	O
 DM	O
 Me	O
 or	O
@@ -34124,10 +35786,12 @@ a	O
 email	O
 to	O
 ineedpromo@starstruckpromo	O
+.	O
 com	O
 It	O
 's	O
 Friday	O
+...	O
 and	O
 it	O
 's	O
@@ -34192,10 +35856,12 @@ reactions	O
 after	O
 Ayodhya	O
 verdict	O
+.	O
 Rsn	O
 out	O
 of	O
 gas	O
+.	O
 Walking	O
 to	O
 the	O
@@ -34203,6 +35869,7 @@ gas	O
 station	O
 this	O
 time	O
+.	O
 This	O
 is	O
 supposed	O
@@ -34235,6 +35902,7 @@ go	O
 &amp;	O
 still	O
 unsure	O
+.	O
 Havent	O
 slept	O
 in	O
@@ -34325,7 +35993,9 @@ front	O
 porch	O
 )	O
 again	O
+.	O
 Lol	O
+.	O
 I	O
 feel	O
 like	O
@@ -34335,6 +36005,7 @@ today	O
 is	O
 highly	O
 unusual	O
+.	O
 I	O
 like	O
 it	O
@@ -34363,6 +36034,7 @@ housing	O
 market	O
 sales	O
 repo	O
+...	O
 http://bit.ly/d1xAoc	O
 RT	O
 @_MyNameBrandon_	O
@@ -34376,14 +36048,17 @@ there	O
 but	O
 my	O
 family	O
+.	O
 &lt;	O
 thaz	O
 really	O
 it	O
 now	O
+..	O
 to	O
 b	O
 honest	O
+...	O
 when	O
 u	O
 coming	O
@@ -34402,6 +36077,7 @@ the	O
 show	O
 this	O
 Sunday	O
+.	O
 Ill	O
 give	O
 ya	O
@@ -34443,6 +36119,7 @@ a	O
 checkbook	O
 or	O
 d	O
+...	O
 http://tinyurl.com/2c4wqjv	O
 RT	O
 @ArianaGrande	O
@@ -34450,6 +36127,7 @@ RT	O
 Follow	O
 Friday	O
 @lushcosmetics	O
+...	O
 Just	O
 got	O
 some	O
@@ -34458,6 +36136,7 @@ bubble	O
 bath	O
 goodies	O
 there	O
+.	O
 :)	O
 xxxxxx	O
 #FF	O
@@ -34506,6 +36185,7 @@ social	O
 networks	O
 like	O
 Face	O
+...	O
 http://bit.ly/bYWzrq	O
 @ClaireMcD22	O
 I	O
@@ -34529,6 +36209,7 @@ least	O
 days	O
 a	O
 week	O
+.	O
 She	O
 's	O
 off	O
@@ -34573,8 +36254,10 @@ but	O
 I'm	O
 not	O
 going	O
+.	O
 How	O
 ironic	O
+.	O
 Reminder	O
 :	O
 One-day	O
@@ -34587,13 +36270,16 @@ mid-size	O
 tax	O
 exempt	O
 orgs	O
+.	O
 First	O
 one	O
 is	O
 Sept	O
+.	O
 22	O
 in	O
 Detroit	B-geo-loc
+.	O
 Register	O
 now	O
 !	O
@@ -34630,6 +36316,7 @@ we	O
 were	O
 there	O
 finally	O
+.	O
 Might	O
 have	O
 an	O
@@ -34671,6 +36358,7 @@ from	O
 eastern	O
 sirius	O
 211	O
+.	O
 Xm	O
 147'	O
 #birdgang	O
@@ -34732,6 +36420,7 @@ hours	O
 minutes	O
 9	O
 seconds	O
+.	O
 Find	O
 out	O
 yours	O
@@ -34763,6 +36452,7 @@ get	O
 it	O
 in	O
 stores	O
+.	O
 KY	B-geo-loc
 ships	O
 next	O
@@ -34775,6 +36465,7 @@ heard	O
 attention	O
 deficit	O
 today	O
+.	O
 Waay	O
 underrated	O
 but	O
@@ -34818,12 +36509,14 @@ have	O
 eaten	O
 very	O
 well	O
+.	O
 Weekend	O
 ,	O
 please	O
 don't	O
 kill	O
 me	O
+.	O
 Quick	O
 Question	O
 :	O
@@ -34843,6 +36536,7 @@ was	O
 3	O
 tweets	O
 ago	O
+.	O
 Our	O
 Favorite	O
 YouTube	O
@@ -34867,6 +36561,7 @@ know	O
 of	O
 the	O
 cr	O
+...	O
 http://bit.ly/cuy0yt	O
 #in	O
 @Desrea_JazzMane	O
@@ -34948,6 +36643,7 @@ close	O
 but	O
 not	O
 before	O
+...	O
 http://bit.ly/cSyZUi	O
 RT	O
 @aplusk	O
@@ -34963,6 +36659,7 @@ http://bit.ly/bjOhom	O
 courtesy	O
 of	O
 splurb	O
+.	O
 What	O
 made	O
 you	O
@@ -35008,6 +36705,7 @@ Tai	O
 in	O
 Long	B-geo-loc
 Beach	I-geo-loc
+.	O
 I'm	O
 considering	O
 wearing	O
@@ -35026,7 +36724,9 @@ Tai	O
 No	O
 ?	O
 Sorry	O
+.	O
 Bye	O
+.	O
 Second-year	O
 CBs	O
 Jerraud	O
@@ -35041,9 +36741,11 @@ about	O
 Manning	O
 Bowl	O
 I	O
+.	O
 Both	O
 were	O
 college	O
+...	O
 http://bit.ly/at71uZ	O
 Lots	O
 of	O
@@ -35063,6 +36765,7 @@ by	O
 on	O
 the	O
 Friday	O
+.	O
 Listening	O
 to	O
 the	O
@@ -35070,6 +36773,7 @@ arts	O
 show	O
 on	O
 @BBCRadio4	O
+.	O
 New	O
 Post	O
 :	O
@@ -35109,10 +36813,12 @@ it	O
 call	O
 this	O
 weekend	O
+.	O
 Then	O
 on2	O
 study	O
 time	O
+...	O
 Tomorrow	O
 -	O
 London	B-geo-loc
@@ -35123,6 +36829,7 @@ Corner	O
 -	O
 1.3	O
 pm	O
+.	O
 If	O
 you	O
 cannot	O
@@ -35182,6 +36889,7 @@ puppy	O
 under	O
 each	O
 arm	O
+...	O
 you	O
 know	O
 its	O
@@ -35195,16 +36903,19 @@ but	O
 you	O
 don't	O
 care	O
+.	O
 @divacoachdabney	O
 you	O
 made	O
 Nina	O
 's	O
 day	O
+.	O
 Sweet	O
 surprises	O
 for	O
 you	O
+.	O
 Just	O
 bought	O
 my	O
@@ -35247,6 +36958,7 @@ shirt	O
 is	O
 f'ing	O
 dope	O
+.	O
 I	O
 've	O
 got	O
@@ -35270,6 +36982,7 @@ out	O
 in	O
 the	O
 end	O
+.	O
 #NAME?	O
 Bird	O
 'MUSIC	O
@@ -35309,6 +37022,7 @@ day	O
 @XrisLastRights	O
 yep	O
 well	O
+..	O
 i	O
 know	O
 mcfly	O
@@ -35371,6 +37085,7 @@ Hien	O
 3	O
 and	O
 Fabi	O
+.	O
 'll	O
 have	O
 a	O
@@ -35392,6 +37107,7 @@ way	O
 to	O
 my	O
 grandparents	O
+.	O
 And	O
 after	O
 a	O
@@ -35415,6 +37131,7 @@ in	O
 bbt	O
 aintree	B-geo-loc
 today	O
+.	O
 Played	O
 table	O
 tennis	O
@@ -35425,6 +37142,7 @@ store	O
 !	O
 V	O
 impressed	O
+.	O
 Did	O
 you	O
 get	O
@@ -35443,8 +37161,8 @@ Online	O
 ticket	O
 sales	O
 for	O
-Ghostland	Oartist
-Observatory	Oartist
+Ghostland	O
+Observatory	O
 extended	O
 until	O
 6	O
@@ -35454,12 +37172,14 @@ due	O
 to	O
 high	O
 demand	O
+.	O
 Get	O
 them	O
 before	O
 they	O
 sell	O
 out	O
+...	O
 RT	O
 @davehodg	O
 :	O
@@ -35471,7 +37191,9 @@ pick	O
 choose	O
 their	O
 morals	O
+.	O
 Correct	O
+.	O
 Today	O
 I	O
 will	O
@@ -35486,6 +37208,7 @@ having	O
 a	O
 problem	O
 wit	O
+...	O
 June	O
 Fest	O
 2010	O
@@ -35501,6 +37224,7 @@ Time	O
 fundraiser	O
 ends	O
 9/20	O
+.	O
 Incentives	O
 include	O
 raffles	O
@@ -35568,6 +37292,7 @@ sadly	O
 not	O
 the	O
 case	O
+.	O
 @JusSimplyMee	O
 I	O
 think	O
@@ -35643,6 +37368,7 @@ them	O
 the	O
 next	O
 day	O
+.	O
 #OMGTotallyLegit	O
 RT	O
 @LightCMS	O
@@ -35734,6 +37460,7 @@ and	O
 it	O
 's	O
 great	O
+.	O
 Water	O
 taste	O
 like	O
@@ -35813,6 +37540,7 @@ day	O
 to	O
 start	O
 with	O
+.	O
 Hope	O
 you	O
 have	O
@@ -35823,8 +37551,10 @@ ahead	O
 !	O
 Keep	O
 safe	O
+.	O
 Take	O
 care	O
+.	O
 God	O
 bless	O
 you	O
@@ -35869,6 +37599,7 @@ hours	O
 minutes	O
 49	O
 seconds	O
+.	O
 Find	O
 out	O
 yours	O
@@ -35922,6 +37653,7 @@ before	O
 she	O
 heads	O
 home	O
+...	O
 RT	O
 @TheOutlawz	O
 :	O
@@ -35953,6 +37685,7 @@ BACK	O
 were	O
 too	O
 much	O
+.	O
 MJ	O
 still	O
 had	O
@@ -35965,6 +37698,7 @@ years	O
 old	O
 at	O
 time	O
+.	O
 AEG	O
 just	O
 wanted	O
@@ -35985,8 +37719,8 @@ extra	O
 ticket	O
 for	O
 the	O
-Jonas	Oartist
-Bros	Oartist
+Jonas	O
+Bros	O
 this	O
 Sunday	O
 ,	O
@@ -36030,12 +37764,14 @@ best	O
 aphrodisiacs	O
 are	O
 words	O
+.	O
 The	O
 G-spot	O
 is	O
 in	O
 the	O
 ears	O
+.	O
 He	O
 who	O
 looks	O
@@ -36047,6 +37783,7 @@ is	O
 wasting	O
 his	O
 time	O
+.	O
 @isaccnewton7	O
 call	O
 me	O
@@ -36067,12 +37804,15 @@ ones	O
 I	O
 knitted	O
 myself	O
+.	O
 So	O
 comfy	O
+.	O
 Must	O
 knit	O
 some	O
 more	O
+.	O
 RT	O
 @Luq_Combs	O
 :	O
@@ -36082,11 +37822,13 @@ I	O
 heard	O
 this	O
 week	O
+.	O
 Wingo	O
 tellin	O
 me	O
 and	O
 wood	O
+.	O
 "	O
 I	O
 'm	O
@@ -36133,7 +37875,9 @@ story	O
 on	O
 TMZ	O
 tonight	O
+.	O
 Gulp	O
+.	O
 @miaturner	O
 OOC	O
 :	O
@@ -36164,6 +37908,7 @@ his	O
 posh	O
 day	O
 spa	O
+.	O
 Actually	O
 he	O
 can't	O
@@ -36171,6 +37916,7 @@ run	O
 under	O
 vet	O
 orders	O
+.	O
 He	O
 swims	O
 here	O
@@ -36192,6 +37938,7 @@ great	O
 when	O
 used	O
 thoughtfully	O
+.	O
 http://ow.ly/2G1Cn	O
 #admissions	O
 #colleges	O
@@ -36205,6 +37952,7 @@ wort	O
 tea	O
 for	O
 anxiety	O
+.	O
 So	O
 far	O
 today	O
@@ -36232,6 +37980,7 @@ love	O
 you	O
 more	O
 than	O
+...	O
 all	O
 the	O
 other	O
@@ -36246,6 +37995,8 @@ for	O
 a	O
 single	O
 day	O
+.	O
+....	O
 today	O
 is	O
 better	O
@@ -36267,6 +38018,7 @@ still	O
 somewhat	O
 -	O
 SUCKS	O
+.	O
 @jesus_army	O
 :-(	O
 Mikes	O
@@ -36290,6 +38042,7 @@ are	O
 both	O
 better	O
 soon	O
+.	O
 @dancindeac	O
 bet	O
 the	O
@@ -36299,6 +38052,7 @@ especially	O
 good	O
 this	O
 week	O
+.	O
 ;-)	O
 Next	O
 week	O
@@ -36307,8 +38061,10 @@ Spirit	O
 Week	O
 at	O
 school	O
+...	O
 Homecoming	O
 Week	O
+...	O
 And	O
 Picture	O
 day	O
@@ -36326,6 +38082,7 @@ uncomfortable	O
 when	O
 you	O
 walk	O
+.	O
 I	O
 am	O
 guessing	O
@@ -36334,12 +38091,13 @@ have	O
 a	O
 back	O
 problem	O
+.	O
 And	O
 #nowplaying	O
 With	O
 You	O
 -	O
-Delirious	Oartist
+Delirious	O
 ?	O
 [	O
 World	O
@@ -36358,6 +38116,7 @@ over	O
 &amp;	O
 directing	O
 u	O
+.	O
 Have	O
 a	O
 lovely	O
@@ -36381,6 +38140,7 @@ Kraus	O
 on	O
 September	O
 17	O
+...	O
 http://bit.ly/96Zavf	O
 #realestate	O
 #invest	O
@@ -36391,10 +38151,12 @@ year	O
 for	O
 a	O
 murder	O
+...	O
 2	O
 weeks	O
 until	O
 @Eurogamer_Expo	O
+.	O
 Am	O
 I	O
 excited	O
@@ -36416,6 +38178,7 @@ $	O
 6.49	O
 Customer	O
 R	O
+...	O
 http://tinyurl.com/25e59fk	O
 #twilight	O
 @terryronald	O
@@ -36456,10 +38219,12 @@ avoid	O
 their	O
 own	O
 power	O
+.	O
 It	O
 doesn't	O
 help	O
 anyone	O
+.	O
 Men	O
 need	O
 our	O
@@ -36470,6 +38235,7 @@ they	O
 don't	O
 like	O
 it	O
+.	O
 @xensweetie	O
 Ohhh	O
 we	O
@@ -36534,6 +38300,7 @@ dpt	O
 perak	O
 satu	O
 uban	O
+...	O
 eh	O
 ,	O
 i	O
@@ -36567,6 +38334,7 @@ exploring	O
 and	O
 keeping	O
 an	O
+...	O
 the	O
 day	O
 you	O
@@ -36588,12 +38356,14 @@ they're	O
 looking	O
 pretty	O
 good	O
+.	O
 i	O
 dnt	O
 think	O
 ima	O
 play	O
 tho	O
+.	O
 I'm	O
 playing	O
 on	O
@@ -36602,16 +38372,19 @@ co	O
 rec	O
 team	O
 too	O
+.	O
 I	O
 won't	O
 have	O
 time	O
 to	O
 breathe	O
+.	O
 Free	O
 Speech	O
 Friday	O
 underway	O
+.	O
 Anything	O
 on	O
 your	O
@@ -36619,6 +38392,7 @@ mind	O
 is	O
 fair	O
 game	O
+..	O
 radio.woai.com	O
 k/w	O
 pags	O
@@ -36669,6 +38443,7 @@ school	O
 game	O
 in	O
 years	O
+.	O
 @themystikSAIDso	O
 make	O
 it	O
@@ -36688,6 +38463,7 @@ premiere	O
 show	O
 Monday	O
 9/13	O
+.	O
 Find	O
 yourself	O
 here	O
@@ -36708,6 +38484,7 @@ off	O
 tonight	O
 and	O
 read	O
+.	O
 *happy	O
 writer	O
 dance*	O
@@ -36737,6 +38514,7 @@ March	O
 8	O
 ,	O
 20	O
+...	O
 http://bit.ly/ayLf9C	O
 QUAKE	O
 :	O
@@ -36759,6 +38537,7 @@ km	O
 south-west	O
 of	O
 Christchurch	B-geo-loc
+.	O
 http://tinyurl.com/265n4mx	O
 #eqnz	O
 Long	O
@@ -36772,6 +38551,7 @@ books	O
 !	O
 Beauty	O
 day	O
+.	O
 Til	O
 now	O
 ,	O
@@ -36788,9 +38568,12 @@ over	O
 to	O
 my	O
 chair	O
+..	O
 Just	O
 belched	O
+.	O
 Loudly	O
+.	O
 +1	O
 @_AlexLight_	O
 WHAAAA	O
@@ -36809,6 +38592,7 @@ Wolstenbeast	O
 ?!	O
 @jimmiebjr	O
 Nope	O
+.	O
 I	O
 think	O
 you	O
@@ -36824,6 +38608,7 @@ be	O
 sacrificed	O
 if	O
 necessary	O
+.	O
 @wildflower94	O
 hw	O
 =/	O
@@ -36853,6 +38638,7 @@ time	O
 http://bit.ly/aZCBOm	O
 #classic	O
 #cars	O
+..	O
 @Davman91	O
 Thinks	O
 I'm	O
@@ -36864,6 +38650,7 @@ The	O
 Punch	O
 Line	O
 Wrong	O
+...	O
 ;)	O
 Dear	O
 sun	O
@@ -36881,10 +38668,12 @@ seriously	O
 you're	O
 still	O
 unbearable	O
+.	O
 Give	O
 Arizona	B-geo-loc
 a	O
 break	O
+.	O
 Love	O
 ,	O
 Mackenna	O
@@ -36892,6 +38681,7 @@ Showering	O
 real	O
 reallll	O
 quick	O
+.	O
 This	O
 tweet	O
 is	O
@@ -36928,6 +38718,7 @@ when	O
 you	O
 see	O
 this	O
+.	O
 Let	O
 's	O
 all	O
@@ -36938,6 +38729,7 @@ for	O
 Lindsay	O
 Lohan	O
 tonight	O
+.	O
 Maybe	O
 snort	O
 a	O
@@ -36948,8 +38740,10 @@ a	O
 real	O
 dedicated	O
 fan	O
+.	O
 chinese	O
 food	O
+..	O
 stayin	O
 in	O
 for	O
@@ -37011,21 +38805,26 @@ yet(	O
 How	O
 many	O
 times	O
+.	O
 Can	O
 you	O
 possibly	O
+.	O
 Make	O
 an	O
 excuse	O
+.	O
 To	O
 play	O
 a	O
 goddamn	O
 banjo	O
+.	O
 In	O
 an	O
 hour-long	O
 show	O
+.	O
 A	O
 show	O
 that	O
@@ -37035,6 +38834,7 @@ to	O
 do	O
 with	O
 banjos	O
+.	O
 RT	O
 @GreatestQuotes	O
 :	O
@@ -37062,6 +38862,7 @@ not	O
 with	O
 it	O
 "."""	O
+...	O
 NEW	O
 BLOG	O
 -	O
@@ -37091,6 +38892,7 @@ a	O
 new	O
 blog	O
 ,	O
+...	O
 http://bit.ly/9QkhUC	O
 Friday	O
 deal	O
@@ -37103,6 +38905,7 @@ new	O
 arrivals	O
 by	O
 @MizMooz	O
+.	O
 Check	O
 it	O
 out	O
@@ -37129,6 +38932,7 @@ keep	O
 up	O
 with	O
 them	O
+.	O
 @toukie_s	O
 i'mgoing	O
 to	O
@@ -37160,6 +38964,7 @@ Now	O
 that	O
 thats	O
 done	O
+.	O
 Im	O
 off	O
 to	O
@@ -37178,6 +38983,7 @@ Chillin	O
 w	O
 |	O
 @Brownin21	O
+....	O
 n	O
 gettin	O
 pierced	O
@@ -37201,6 +39007,7 @@ Week	O
 http://t.co/GciGiuz	O
 via	O
 @youtube	O
+..	O
 ahhh	O
 OMG	O
 !	O
@@ -37276,6 +39083,7 @@ Secrets	O
 free	O
 on	O
 Thursday	O
+.....	O
 #HoodRatsNeedLoveToo	O
 @bowlerhatlover	O
 Been	O
@@ -37290,6 +39098,7 @@ Nostalgia	O
 "	O
 for	O
 years	O
+.	O
 http://hollisframpton.org.uk/	O
 GUYS	O
 IF	O
@@ -37301,6 +39110,7 @@ AN	O
 AWESOME	O
 FAN	O
 BOOK	O
+.	O
 TWEET	O
 @JedwardsAngel	O
 AND	O
@@ -37308,6 +39118,7 @@ WE'LL	O
 SORT	O
 IT	O
 OUT	O
+.	O
 WE'VE	O
 GOT	O
 15COOOOL	O
@@ -37334,6 +39145,7 @@ are	O
 joining	O
 eatery	O
 forces	O
+.	O
 RT	O
 @jakeandamir	O
 :	O
@@ -37376,6 +39188,7 @@ toast	O
 =	O
 life	O
 :P	O
+..	O
 You	O
 doing	O
 anything	O
@@ -37462,10 +39275,12 @@ in	O
 11	O
 Bantam	O
 Draft	O
+.	O
 7	O
 20-year	O
 olds	O
 remain	O
+.	O
 #yxe	O
 #Blades	O
 #WHL	O
@@ -37483,6 +39298,7 @@ to	O
 the	O
 game	O
 tonight	O
+...	O
 but	O
 super	O
 excited	O
@@ -37514,6 +39330,7 @@ a	O
 *Boston*	B-geo-loc
 accent	O
 again	O
+.	O
 Wanna	O
 see	O
 ya	O
@@ -37627,6 +39444,7 @@ not	O
 with	O
 it	O
 ."	O
+...	O
 Ducks	O
 sign	O
 LW	O
@@ -37671,6 +39489,7 @@ lost	O
 a	O
 loved	O
 one	O
+.	O
 But	O
 we	O
 will	O
@@ -37679,10 +39498,12 @@ leave	O
 you	O
 ,	O
 Michael	O
+.	O
 All	O
 our	O
 love	O
 forever	O
+.	O
 RT	O
 @justinbieber	O
 :	O
@@ -37722,6 +39543,7 @@ alderwood	B-geo-loc
 again	O
 :)	O
 yay	O
+.	O
 hopefully	O
 we	O
 got	O
@@ -37732,6 +39554,7 @@ in	O
 the	O
 mail	O
 today	O
+.	O
 @LesColyer	O
 Who	O
 do	O
@@ -37771,6 +39594,7 @@ HDCP	O
 copy	O
 protection	O
 scheme	O
+...	O
 http://bit.ly/blWf0e	O
 Relieved	O
 that	O
@@ -37812,6 +39636,7 @@ Wildcat	O
 Stadium	O
 @	O
 07:30	O
+.	O
 The	O
 Buffs	O
 will	O
@@ -37822,15 +39647,18 @@ after	O
 two	O
 straight	O
 losses	O
+.	O
 Updates	O
 on	O
 LCL	O
 @CarolynAWebster	O
 I'm	O
 okay	O
+.	O
 Had	O
 better	O
 days	O
+.	O
 RT	O
 @KaspervanKooten	O
 Naast	O
@@ -37850,30 +39678,38 @@ op	O
 tv	O
 :	O
 ma	O
+.	O
 Co-ass	O
 .,	O
 di	O
+.	O
 Opium	O
 en	O
 do	O
+.	O
 Koffi	O
+...	O
 @ashhleybrookee	O
 it	O
 may	O
 be	O
 nasty	O
 but	O
+...	O
 it	O
 works	O
+.	O
 @therowdydog	O
 Me	O
 neither	O
+.	O
 It	O
 's	O
 tough	O
 to	O
 get	O
 away	O
+.	O
 There	O
 is	O
 one	O
@@ -37887,6 +39723,7 @@ in	O
 RR	B-geo-loc
 on	O
 Friday	O
+.	O
 We	O
 should	O
 go	O
@@ -37919,6 +39756,7 @@ but	O
 you	O
 don't.	O
 Well	O
+...	O
 http://fb.me/xKyLBInS	O
 How	O
 sweet	O
@@ -37964,6 +39802,7 @@ take	O
 away	O
 their	O
 power	O
+.	O
 @ConorMc_Ginty	O
 GaGa	O
 played	O
@@ -37972,6 +39811,7 @@ a	O
 few	O
 weeks	O
 back	O
+.	O
 She	O
 spoke	O
 out	O
@@ -37980,11 +39820,13 @@ SB1070	O
 during	O
 the	O
 show	O
+.	O
 God	O
 bless	O
 her	O
 for	O
 that	O
+.	O
 Stop	O
 by	O
 teh	O
@@ -38010,11 +39852,13 @@ an	O
 FHSU	O
 foam	O
 finger	O
+.	O
 @TakeMeDownCHRIS	O
 he	O
 didnt	O
 say	O
 when	O
+..	O
 he	O
 just	O
 said	O
@@ -38052,6 +39896,7 @@ http://bit.ly/bjOhom	O
 courtesy	O
 of	O
 splurb	O
+.	O
 What	O
 made	O
 you	O
@@ -38117,19 +39962,19 @@ to	O
 by	O
 06:59	O
 pm	O
-The	Oartist
-Get	Oartist
-Up	Oartist
-Kids	Oartist
+The	O
+Get	O
+Up	O
+Kids	O
 ,	O
-Sunny	Oartist
-Day	Oartist
-Real	Oartist
-Estate	Oartist
+Sunny	O
+Day	O
+Real	O
+Estate	O
 ,	O
 and	O
-Cap'n	Oartist
-Jazz	Oartist
+Cap'n	O
+Jazz	O
 are	O
 quite	O
 possibly	O
@@ -38143,9 +39988,12 @@ bands	O
 to	O
 ever	O
 exist	O
+.	O
 Ever	O
+.	O
 So	O
 listen	O
+.	O
 @DrHubaEvaluator	O
 Not	O
 long	O
@@ -38161,6 +40009,7 @@ I	O
 have	O
 known	O
 yrs	O
+.	O
 when	O
 he	O
 spit	O
@@ -38225,10 +40074,12 @@ YEAH	O
 No	O
 jury	O
 duty	O
+.	O
 Yes	O
 class	O
 on	O
 Monday	O
+.	O
 still	O
 willing	O
 to	O
@@ -38244,7 +40095,9 @@ me	O
 an	O
 email	O
 request	O
+.	O
 sorgelaw@yahoo	O
+.	O
 com	O
 It	O
 might	O
@@ -38269,6 +40122,7 @@ n't	O
 cool	O
 wit	O
 me	O
+.	O
 Watching	O
 The	O
 Room	O
@@ -38277,15 +40131,18 @@ like	O
 the	O
 fifth	O
 time	O
+.	O
 It	O
 's	O
 a	O
 classic	O
+.	O
 Tommy	O
 WIseau	O
 is	O
 a	O
 genius	O
+.	O
 #theroom	O
 #tommywiseau	O
 RT	O
@@ -38318,6 +40175,7 @@ flirting	O
 with	O
 some	O
 boy	O
+.	O
 #NowPlaying	O
 Tomorrow	O
 always	O
@@ -38347,6 +40205,7 @@ day	O
 for	O
 specific	O
 reasons	O
+.	O
 now	O
 im	O
 leaving	O
@@ -38361,6 +40220,7 @@ bullshit	O
 AGAIN	O
 next	O
 friday	O
+.	O
 dawg	O
 wasted	O
 my	O
@@ -38384,10 +40244,12 @@ pants	O
 over	O
 shorts	O
 today	O
+...	O
 summer	O
 is	O
 officially	O
 over	O
+.	O
 Bring	O
 on	O
 the	O
@@ -38433,6 +40295,7 @@ from	O
 the	O
 Florida	B-geo-loc
 heat	O
+.	O
 Small	O
 Biz	O
 Tech	O
@@ -38488,12 +40351,15 @@ head	O
 from	O
 a	O
 shorty	O
+.	O
 Im	O
 Like	O
 yo	O
+...	O
 U	O
 just	O
 showed	O
+...	O
 Someone	O
 just	O
 started	O
@@ -38505,7 +40371,9 @@ I	O
 better	O
 post	O
 something	O
+.	O
 There	O
+.	O
 Welcome	O
 Saturday	O
 I	O
@@ -38532,6 +40400,7 @@ HAPPY	O
 BIRTHDAY	O
 !	O
 :D	O
+.	O
 Hope	O
 you're	O
 having	O
@@ -38540,6 +40409,7 @@ amazingrific	O
 day	O
 !!!	O
 :D	O
+.	O
 Good	O
 start	O
 for	O
@@ -38549,11 +40419,13 @@ can	O
 only	O
 get	O
 better	O
+.	O
 Played	O
 with	O
 short	O
 bench	O
 tonight	O
+.	O
 Thought	O
 Rocks	O
 well	O
@@ -38617,6 +40489,7 @@ in	O
 November	O
 !!	O
 Yesss	O
+.	O
 &lt;	O
 3	O
 BB	O
@@ -38639,6 +40512,7 @@ time	O
 off	O
 this	O
 weekend	O
+.	O
 Love	O
 your	O
 children	O
@@ -38654,6 +40528,7 @@ goodness	O
 in	O
 your	O
 life	O
+.	O
 RT	O
 @nickjonas	O
 :	O
@@ -38666,6 +40541,7 @@ What	O
 a	O
 beautiful	O
 day	O
+.	O
 After	O
 work	O
 I'm	O
@@ -38678,6 +40554,7 @@ and	O
 then	O
 doing	O
 yoga	O
+.	O
 looking	O
 forward	O
 to	O
@@ -38692,6 +40569,7 @@ the	O
 irish	O
 on	O
 sunday	O
+.	O
 if	O
 i	O
 hit	O
@@ -38707,6 +40585,7 @@ so	O
 frickin	O
 '	O
 pissed	O
+.	O
 Although	O
 ,	O
 three	O
@@ -38719,6 +40598,7 @@ be	O
 wrong	O
 on	O
 this	O
+.	O
 #cantdecide	O
 #wilty	O
 Q	O
@@ -38732,9 +40612,10 @@ entire	O
 day	O
 with	O
 one	O
+...	O
 A	O
 :	O
-Metallica	Oartist
+Metallica	O
 .:	O
 http://chatter.com/ask-me-anything/kt2yo	O
 &quot;	O
@@ -38790,6 +40671,7 @@ tonight	O
 and	O
 this	O
 weekend	O
+.	O
 Go	O
 band	O
 !	O
@@ -38825,6 +40707,7 @@ going	O
 to	O
 Dicks	O
 tonight	O
+.	O
 @demhot	O
 I	O
 hate	O
@@ -38832,6 +40715,7 @@ it	O
 here	O
 ,	O
 lol	O
+.	O
 i'm	O
 moving	O
 to	O
@@ -38841,12 +40725,14 @@ i'm	O
 at	O
 least	O
 23	O
+.	O
 no	O
 joke	O
 @TheEllenShow	O
 #AskEllen	O
 Hi	O
 Ellen	O
+.	O
 Can	O
 you	O
 ask	O
@@ -38918,6 +40804,7 @@ watching	O
 s	O
 first	O
 blog	O
+.	O
 &quot;	O
 Probably	O
 won't	O
@@ -38941,12 +40828,14 @@ had	O
 a	O
 girls	O
 day	O
+.	O
 She	O
 is	O
 such	O
 a	O
 wonderful	O
 baby	O
+.	O
 John	O
 Acuff	O
 joined	O
@@ -39000,6 +40889,7 @@ and	O
 lunch	O
 before	O
 class	O
+.	O
 @CaMeaux	O
 @x_mayy_x	O
 tu	O
@@ -39020,11 +40910,13 @@ on	O
 a	O
 Saturday	O
 though	O
+.	O
 So	O
 that	O
 's	O
 a	O
 thing	O
+.	O
 Time	O
 magazine	O
 wrote	O
@@ -39086,9 +40978,11 @@ you	O
 need	O
 pet	O
 toad	O
+.	O
 It	O
 's	O
 official	O
+.	O
 Next	O
 book	O
 club	O
@@ -39115,6 +41009,7 @@ and	O
 it	O
 was	O
 fantastic	O
+.	O
 @CHRIS_Daughtry	O
 Aw	O
 ur	O
@@ -39162,9 +41057,11 @@ goodwill	O
 the	O
 other	O
 day	O
+.	O
 Completely	O
 useless	O
 those	O
+.	O
 @rach22uk_OM	O
 Aaaaah	O
 ,	O
@@ -39172,6 +41069,7 @@ us	O
 and	O
 Baveh	O
 Nate	O
+...	O
 meant	O
 to	O
 BE	O
@@ -39206,6 +41104,7 @@ the	O
 irish	O
 on	O
 sunday	O
+.	O
 10	O
 Things	O
 You	O
@@ -39240,6 +41139,7 @@ out	O
 powerful	O
 Web	O
 Slider	O
+.	O
 Follow	O
 +	O
 RT	O
@@ -39266,12 +41166,14 @@ I	O
 really	O
 needed	O
 this	O
+.	O
 :-)	O
 @aprildenay	O
 Quit	O
 messing	O
 with	O
 ut	O
+...	O
 every	O
 time	O
 you	O
@@ -39311,6 +41213,7 @@ live	O
 it	O
 up	O
 tonight	O
+..	O
 Enjoy	O
 &amp;	O
 b	O
@@ -39348,10 +41251,12 @@ the	O
 west	O
 coast	O
 too	O
+.	O
 @weezywiii	O
 yes	O
 i	O
 do	O
+..	O
 scouts	O
 dont	O
 smoke	O
@@ -39360,8 +41265,8 @@ Wonder	O
 what	O
 the	O
 new	O
-Green	Oartist
-Day	Oartist
+Green	O
+Day	O
 album	O
 will	O
 called	O
@@ -39371,6 +41276,7 @@ Tre	O
 Penis	O
 ?	O
 Hey	O
+....	O
 my	O
 birthday	O
 is	O
@@ -39381,6 +41287,7 @@ month	O
 !!!	O
 :D	O
 FRIDAY	O
+....	O
 home	O
 alone	O
 !	O
@@ -39435,6 +41342,7 @@ in	O
 (	O
 last	O
 year)	O
+...	O
 it	O
 was	O
 an	O
@@ -39446,6 +41354,7 @@ el	O
 video0	O
 one	O
 time	O
+....	O
 ESTA	O
 SIENDO	O
 ATACADO	O
@@ -39469,11 +41378,13 @@ MONDAY	O
 !!!!!	O
 #MAINBUILDING	O
 ROOM	O
+.	O
 104	O
 !!!	O
 http://twitpic.com/2oeark	O
 SPECIAL	O
 PERF	O
+...	O
 @LightCMS	O
 over	O
 6000	O
@@ -39496,6 +41407,7 @@ on	O
 the	O
 first	O
 day	O
+.	O
 Less	O
 and	O
 less	O
@@ -39523,6 +41435,7 @@ my	O
 phone	O
 @Sophieeander	O
 will	O
+..	O
 Dont	O
 go	O
 !!	O
@@ -39549,6 +41462,7 @@ can	O
 wait	O
 for	O
 u	O
+..	O
 !!	O
 RT	O
 @GdnPolitics	O
@@ -39588,6 +41502,7 @@ next	O
 No	O
 one	O
 cares	O
+....	O
 RT	O
 @RapperBigPooh	O
 so	O
@@ -39664,6 +41579,7 @@ the	O
 next	O
 nap	O
 time	O
+.	O
 Because	O
 maybe	O
 You're	O
@@ -39689,12 +41605,14 @@ I	O
 got	O
 this	O
 nickname	O
+.	O
 Told	O
 I	O
 looked	O
 like	O
 the	O
 muppet	O
+.	O
 And	O
 I	O
 kind	O
@@ -39708,6 +41626,7 @@ I	O
 did	O
 theatre	O
 work	O
+.	O
 Whats	O
 the	O
 plan	O
@@ -39728,6 +41647,7 @@ MY	O
 ALL	O
 TIME	O
 FAVS	O
+....	O
 #ReallyDoe	O
 RT	O
 @NickSilly	O
@@ -39747,15 +41667,17 @@ Get	O
 Down	O
 Tonight	O
 with	O
-KC	Oartist
-and	Oartist
-The	Oartist
-Sunshine	Oartist
-Band	Oartist
+KC	O
+and	O
+The	O
+Sunshine	O
+Band	O
+.	O
 #Dallas	B-geo-loc
 #concerts	O
 http	O
 :/	O
+...	O
 every	O
 year	O
 your	O
@@ -39824,16 +41746,19 @@ and	O
 do	O
 n't	O
 regret	O
+.	O
 Sometimes	O
 somethings	O
 turn	O
 in-to	O
 dumb	O
 things	O
+.	O
 And	O
 that	O
 's	O
 when	O
+...	O
 She	O
 should	O
 nom	O
@@ -39850,14 +41775,17 @@ not	O
 tired	O
 that	O
 is	O
+.	O
 Easy	O
 A	O
 tonight	O
+.	O
 WOOOO	O
 RT	O
 @robmoysey	O
 Eyeopener	O
 vs	O
+.	O
 Ryerson	O
 Quidditch	O
 team	O
@@ -39894,14 +41822,17 @@ fudge	O
 delivery	O
 showed	O
 up	O
+.	O
 I	O
 love	O
 my	O
 job	O
+.	O
 And	O
 I	O
 love	O
 Fridays	O
+.	O
 RT	O
 @refuel_bar	O
 :	O
@@ -39926,6 +41857,7 @@ $49	O
 http://bit.ly/62Gs3X	O
 for	O
 details	O
+.	O
 @geek	O
 @borkware	O
 Somehow	O
@@ -39943,12 +41875,14 @@ problem	O
 connecting	O
 to	O
 internet	O
+.	O
 Time	O
 for	O
 a	O
 wipe	O
 or	O
 downgrade	O
+.	O
 Surely	O
 mags	O
 will	O
@@ -39956,6 +41890,7 @@ line	O
 up	O
 to	O
 feature	O
+.	O
 RT	O
 @peoplemag	O
 :	O
@@ -40010,6 +41945,7 @@ i	O
 was	O
 talking	O
 abou	O
+...	O
 I	O
 'm	O
 tired	O
@@ -40025,6 +41961,7 @@ messages	O
 are	O
 like	O
 Gremlins	O
+.	O
 Keep	O
 them	O
 away	O
@@ -40036,6 +41973,7 @@ with	O
 caution	O
 after	O
 midnight	O
+.	O
 http:///5dkkZ	O
 Why	O
 hate	O
@@ -40054,6 +41992,7 @@ job	O
 and	O
 move	O
 on	O
+..	O
 [Haters	O
 u	O
 can	O
@@ -40070,6 +42009,7 @@ list	O
 While	O
 supplies	O
 last	O
+.	O
 Check	O
 it	O
 out	O
@@ -40125,14 +42065,15 @@ suppose	O
 to	O
 go	O
 "	O
-The	Oartist
-Maccabees	Oartist
+The	O
+Maccabees	O
 are	O
 the	O
 love	O
 of	O
 my	O
 life	O
+.	O
 one	O
 day	O
 i	O
@@ -40143,6 +42084,7 @@ to	O
 all	O
 of	O
 them	O
+.	O
 twenty-four	O
 days	O
 for	O
@@ -40195,6 +42137,7 @@ Justin	O
 gets	O
 a	O
 girlfriend	O
+...	O
 its	O
 going	O
 to	O
@@ -40215,6 +42158,7 @@ not	O
 hunt	O
 him	O
 down	O
+.	O
 I'd	O
 take	O
 his	O
@@ -40233,6 +42177,7 @@ spent	O
 time	O
 with	O
 BB	O
+.	O
 PLANO	O
 BALLOON	O
 FESTIVAL	O
@@ -40252,19 +42197,25 @@ Plano	O
 Balloon	O
 Festival	O
 2	O
+...	O
 http://tinyurl.com/22kg6uz	O
 Maikes	O
 hair	O
+.	O
 School	O
+.	O
 Webinar	O
 at	O
 the	O
 first	O
 job	O
+.	O
 Changed	O
+...	O
 ti	O
 second	O
 job	O
+...	O
 then	O
 time	O
 with	O
@@ -40318,10 +42269,12 @@ is	O
 Theeeeeeeeeee	O
 niiiiiiiiiight	O
 ;)	O
+.	O
 *Gwen	O
 Stefani	O
 voice*	O
 :]	O
+.	O
 I	O
 love	O
 listening	O
@@ -40344,7 +42297,9 @@ going	O
 there	O
 tonight	O
 too	O
+...	O
 Iwebslog	O
+.	O
 com	O
 Jupiter	B-geo-loc
 making	O
@@ -40363,6 +42318,7 @@ Better	O
 catch	O
 Jupiter	B-geo-loc
 next	O
+...	O
 http://l.mytr.in/aQn2Kg	O
 #Blog	O
 Its	O
@@ -40385,8 +42341,10 @@ sang	O
 meatloaf	O
 at	O
 karoke	O
+.	O
 @glasgirl	O
 Lol	O
+.	O
 How	O
 were	O
 things	O
@@ -40423,6 +42381,7 @@ school	O
 has	O
 been	O
 crazy	O
+.	O
 Everyone	O
 is	O
 very	O
@@ -40456,12 +42415,14 @@ future	O
 of	O
 the	O
 show	O
+.	O
 Season	O
 3	O
 of	O
 Friday	O
 Night	O
 Lights	O
+...	O
 It	O
 seems	O
 that	O
@@ -40472,6 +42433,7 @@ Dillion	O
 High	O
 School	O
 graduates	O
+.	O
 @RiffTrax	O
 I've	O
 suffered	O
@@ -40481,6 +42443,7 @@ era	O
 of	O
 HSM	O
 popularity	O
+.	O
 I've	O
 wanted	O
 a	O
@@ -40491,6 +42454,7 @@ damn	O
 thing	O
 for	O
 years	O
+.	O
 You've	O
 made	O
 me	O
@@ -40520,6 +42484,7 @@ I	O
 got	O
 another	O
 account	O
+...	O
 someone	O
 else	O
 will	O
@@ -40561,6 +42526,7 @@ Cheryl	O
 AND	O
 Dermot	O
 tomorrow	O
+....	O
 NO	O
 BIGGIE	O
 Ok	O
@@ -40627,10 +42593,12 @@ glasses	O
 are	O
 the	O
 best	O
+......	O
 nerd	O
 glasses	O
 on	O
 deck	O
+...	O
 now	O
 time	O
 for	O
@@ -40719,6 +42687,7 @@ Yes	O
 it	O
 would	O
 have	O
+.	O
 "	O
 Let	O
 's	O
@@ -40747,6 +42716,7 @@ shit	O
 in	O
 the	O
 woods	O
+.	O
 #pope	O
 Dues	O
 can	O
@@ -40770,6 +42740,7 @@ RT	O
 :	O
 Last	O
 day	O
+.....	O
 http://twitpic.com/2g9c1e	O
 'RT	O
 @JustinsHairFlip	O
@@ -40820,6 +42791,7 @@ year	O
 at	O
 the	O
 20	O
+...	O
 http://tinyurl.com/27ypv4o	O
 RT	O
 @sandiegozoo	O
@@ -40841,6 +42813,7 @@ complete	O
 million-year-old	O
 whale	O
 fossil	O
+.	O
 YG	O
 Have	O
 a	O
@@ -40851,6 +42824,7 @@ Field	O
 today	O
 at	O
 6pm	O
+.	O
 Hope	O
 i	O
 shine	O
@@ -40860,6 +42834,7 @@ start	O
 the	O
 next	O
 game	O
+.	O
 :)	O
 Follow	O
 Friday	O
@@ -40903,6 +42878,7 @@ win	O
 their	O
 game	O
 today	O
+...	O
 of	O
 my	O
 days	O
@@ -40941,6 +42917,7 @@ his	O
 shine	O
 on	O
 Vs	O
+.	O
 the	O
 Lions	O
 Baseball	O
@@ -40963,6 +42940,7 @@ league	O
 #FF	O
 Follow	O
 Friday	O
+..	O
 #MuchLove	O
 to	O
 my	O
@@ -40986,6 +42964,7 @@ he	O
 already	O
 has	O
 one	O
+.	O
 :-)	O
 Yay	O
 ,	O
@@ -41025,6 +43004,7 @@ think	O
 of	O
 teams	O
 tha	O
+...	O
 http://bit.ly/9R73CK	O
 #blackholidays	O
 "	O
@@ -41035,6 +43015,7 @@ he	O
 say	O
 she	O
 say	O
+...	O
 what	O
 do	O
 God	O
@@ -41056,6 +43037,7 @@ HER	O
 I	O
 'm	O
 15	O
+..	O
 old	O
 enough	O
 !........	O
@@ -41066,6 +43048,7 @@ who	O
 organized	O
 the	O
 dept	O
+.	O
 picnic	O
 at	O
 1	O
@@ -41087,6 +43070,7 @@ during	O
 a	O
 Packer	O
 game	O
+.	O
 RT	O
 @PolarBeverages	O
 :	O
@@ -41121,6 +43105,7 @@ even	O
 b4	O
 the	O
 trade)	O
+.	O
 #nfl	O
 #fb	O
 @ZhouMaharet	O
@@ -41157,6 +43142,7 @@ being	O
 stalked	O
 by	O
 @thisisiceland	O
+.	O
 I	O
 saw	O
 this	O
@@ -41166,6 +43152,7 @@ opened	O
 flipboard	O
 just	O
 now	O
+.	O
 http://yfrog.com/eir70oj	O
 I'm	O
 off	O
@@ -41218,6 +43205,7 @@ and	O
 blood	O
 test	O
 today	O
+.	O
 %#$&amp;@%$&amp;%&amp;@$	O
 !!!!!!!	O
 been	O
@@ -41226,6 +43214,7 @@ to	O
 trey	O
 alllll	O
 week	O
+...	O
 can	O
 u	O
 luv	O
@@ -41259,6 +43248,7 @@ gonna	O
 stay	O
 and	O
 ball	O
+....	O
 yupp	O
 !	O
 RT	O
@@ -41295,11 +43285,13 @@ the	O
 High	O
 Holy	O
 Days	O
+.	O
 Retail	O
 ,	O
 repent	O
 ,	O
 retweet	O
+.	O
 @Syniq	O
 yeah	O
 ,	O
@@ -41322,6 +43314,7 @@ heading	O
 to	O
 bed	O
 shortly	O
+.	O
 We'll	O
 pop	O
 over	O
@@ -41346,6 +43339,7 @@ I	O
 was	O
 scheduled	O
 to	O
+.	O
 My	O
 paycheck	O
 is	O
@@ -41353,8 +43347,10 @@ going	O
 to	O
 be	O
 weak	O
+.	O
 Not	O
 happy	O
+.	O
 Wake	O
 ,	O
 Davidson	O
@@ -41363,6 +43359,7 @@ Charlotte	O
 and	O
 NC	O
 St	O
+.	O
 have	O
 all	O
 been	O
@@ -41378,12 +43375,14 @@ since	O
 contact	O
 pd	O
 began	O
+.	O
 UNC	O
 will	O
 be	O
 there	O
 next	O
 week	O
+.	O
 i	O
 may	O
 have	O
@@ -41405,6 +43404,7 @@ editing	O
 and	O
 stop	O
 quoting	O
+.	O
 RT	O
 @justingodsey	O
 :	O
@@ -41421,6 +43421,7 @@ the	O
 smaller	O
 birds	O
 jealous	O
+.	O
 RT	O
 @SdotYoung	O
 :	O
@@ -41438,12 +43439,14 @@ that	O
 would	O
 be	O
 amazin	O
+...	O
 &lt;	O
 &lt;	O
 ii	O
 DEF	O
 agree	O
 Boo	O
+..	O
 we	O
 should	O
 do	O
@@ -41502,6 +43505,7 @@ day	O
 :)	O
 from	O
 JPN	B-geo-loc
+.	O
 RT	O
 @fucking_way	O
 :	O
@@ -41531,6 +43535,7 @@ Lives	O
 Of	O
 The	O
 Fa	O
+...	O
 @Jee_agustino	O
 :O	O
 seriously	O
@@ -41566,10 +43571,12 @@ at	O
 the	O
 school	O
 today	O
+.	O
 They	O
 all	O
 remembered	O
 me	O
+.	O
 :)	O
 Observances	O
 mark	O
@@ -41588,6 +43595,7 @@ last	O
 week	O
 marked	O
 the	O
+...	O
 http://dlvr.it/5Rckw	O
 RT	O
 @iSplashInYoMouf	O
@@ -41627,6 +43635,7 @@ every	O
 now	O
 &amp;	O
 then	O
+...	O
 Love	O
 me	O
 when	O
@@ -41644,6 +43653,7 @@ need	O
 it	O
 the	O
 most	O
+.	O
 #futbol	O
 &gt;	O
 Newcastle	O
@@ -41695,11 +43705,13 @@ morning	O
 till	O
 i	O
 work	O
+.	O
 oh	O
 the	O
 sacrafices	O
 i	O
 make	O
+.	O
 RT	O
 @MirandaBuzz	O
 :	O
@@ -41792,6 +43804,7 @@ had	O
 an	O
 amazing	O
 time	O
+.	O
 I'll	O
 be	O
 gone	O
@@ -41819,6 +43832,7 @@ you	O
 '	O
 ing	O
 me	O
+.	O
 :O	O
 (	O
 Also	O
@@ -41862,6 +43876,7 @@ rain	O
 till	O
 Sunday	O
 night	O
+.	O
 RT	O
 @shanejoneill	O
 :	O
@@ -41956,7 +43971,9 @@ not	O
 make	O
 it	O
 better	O
+.	O
 #sab	O
+...	O
 I'm	O
 pleased	O
 to	O
@@ -41965,6 +43982,7 @@ introduced	O
 @TheSmokingGunn	O
 to	O
 twitter	O
+.	O
 May	O
 he	O
 become	O
@@ -41972,6 +43990,7 @@ as	O
 inane	O
 as	O
 me	O
+.	O
 RT	O
 @Desbishop	O
 :	O
@@ -41983,6 +44002,7 @@ on	O
 the	O
 Late	O
 Late	O
+.	O
 After	O
 some	O
 angel	O
@@ -42006,6 +44026,7 @@ Twitter	O
 is	O
 now	O
 ago	O
+.	O
 People	O
 can	O
 now	O
@@ -42021,6 +44042,7 @@ films	O
 and	O
 production	O
 company	O
+.	O
 @aplusk	O
 http://www.youtube.com/watch?v=eLMui7zBiXo	O
 we	O
@@ -42038,6 +44060,7 @@ years	O
 in	O
 the	O
 hurling	O
+.	O
 Woo	O
 !!!	O
 Free	O
@@ -42078,6 +44101,7 @@ http://bzbx.us/uEf	O
 #Campaign	O
 via	O
 buzzbox	O
+.	O
 com	O
 #nowplaying	O
 when	O
@@ -42100,6 +44124,7 @@ Review	O
 $15	O
 EcoMom	O
 Gif	O
+...	O
 http://t.co/OH9z9zq	O
 via	O
 @blogger	O
@@ -42138,6 +44163,7 @@ most	O
 adorable	O
 thing	O
 ever	O
+.	O
 For	O
 the	O
 late	O
@@ -42154,6 +44180,7 @@ On	O
 the	O
 blog	O
 today	O
+...	O
 Creative	O
 invitation	O
 wording	O
@@ -42170,6 +44197,7 @@ disagree	O
 no	O
 ,	O
 no	O
+.	O
 When	O
 it	O
 's	O
@@ -42182,11 +44210,14 @@ really	O
 argue	O
 about	O
 stories/etc	O
+.	O
 ATWT	O
 went	O
 out	O
 great	O
+...	O
 splendidly	O
+.	O
 Fellas	O
 Don't	O
 just	O
@@ -42199,6 +44230,7 @@ IT	O
 !	O
 enjoy	O
 it	O
+.	O
 like	O
 u	O
 just	O
@@ -42220,6 +44252,7 @@ in	O
 bbt	O
 aintree	B-geo-loc
 today	O
+.	O
 Played	O
 table	O
 tennis	O
@@ -42230,6 +44263,7 @@ store	O
 !	O
 V	O
 impressed	O
+.	O
 Did	O
 you	O
 get	O
@@ -42259,8 +44293,10 @@ Lol	O
 Very	O
 bad	O
 day	O
+.	O
 Good	O
 golly	O
+.	O
 Who	O
 left	O
 the	O
@@ -42268,6 +44304,7 @@ candy	O
 in	O
 the	O
 lunchroom	O
+.	O
 May	O
 set	O
 a	O
@@ -42288,6 +44325,7 @@ individual	O
 -	O
 close	O
 tonight	O
+.	O
 Its	O
 gonna	O
 be	O
@@ -42351,6 +44389,7 @@ today	O
 Hot	O
 #Earner	O
 http://bit.ly/cL	O
+...	O
 http://sns.ly/Kfl55	O
 @Mandiiemars	O
 she	O
@@ -42372,6 +44411,7 @@ Mmmm	O
 wings	O
 and	O
 beer	O
+.	O
 Damn	O
 that	O
 means	O
@@ -42428,6 +44468,7 @@ sleeping	O
 on	O
 the	O
 sofa	O
+.	O
 Ok	O
 yall	O
 work	O
@@ -42464,20 +44505,23 @@ when	O
 I	O
 see	O
 you	O
+...	O
 seriously	O
+...	O
 On	O
 My	O
 Own	O
 Time	O
 -	O
-Gym	Oartist
-Class	Oartist
-Heroes	Oartist
+Gym	O
+Class	O
+Heroes	O
 argh	O
 my	O
 hands	O
 are	O
 dying	O
+.	O
 i	O
 definitely	O
 need	O
@@ -42486,6 +44530,7 @@ take	O
 gloves	O
 next	O
 time	O
+.	O
 Nothing	O
 like	O
 a	O
@@ -42501,8 +44546,8 @@ video	O
 --	O
 Water	O
 by	O
-Testing	Oartist
-Tomorrow	Oartist
+Testing	O
+Tomorrow	O
 http://youtu.be/htAM7lgcelw?a	O
 We	O
 are	O
@@ -42513,6 +44558,7 @@ to	O
 our	O
 new	O
 kitchens	O
+.	O
 We	O
 chose	O
 a	O
@@ -42549,6 +44595,7 @@ make	O
 it	O
 through	O
 tonight	O
+.	O
 RT	O
 @TeenThings	O
 :	O
@@ -42569,6 +44616,7 @@ more	O
 time	O
 to	O
 sleep	O
+.	O
 #teenthings	O
 #comedownwithlove	O
 RT	O
@@ -42589,6 +44637,7 @@ FRIDAY	O
 that	O
 's	O
 wazzup	O
+.	O
 congrats	O
 on	O
 your	O
@@ -42596,6 +44645,7 @@ win	O
 in	O
 week	O
 1	O
+.	O
 Haven't	O
 tweeted	O
 since	O
@@ -42646,9 +44696,11 @@ may	O
 have	O
 mentioned	O
 it	O
+.	O
 Once	O
 or	O
 twice	O
+.	O
 :)	O
 i	O
 see	O
@@ -42662,6 +44714,7 @@ like	O
 times	O
 a	O
 year	O
+...	O
 WTF	O
 ?!	O
 Am	O
@@ -42675,6 +44728,7 @@ idea	O
 from	O
 @TheFrontBurner	O
 http://j.mp/dBTwTr	O
+.	O
 I	O
 think	O
 it	O
@@ -42698,6 +44752,7 @@ they	O
 have	O
 messed	O
 up	O
+....	O
 about	O
 to	O
 give	O
@@ -42719,6 +44774,7 @@ catch	O
 the	O
 bookkeeping	O
 up	O
+.	O
 Money	O
 to	O
 do	O
@@ -42735,6 +44791,7 @@ anyway	O
 ?	O
 Yes	O
 plz	O
+.	O
 today	O
 is	O
 my	O
@@ -42743,6 +44800,7 @@ day	O
 at	O
 the	O
 office	O
+.	O
 A	O
 Hughie	O
 O'Donoghue	O
@@ -42757,12 +44815,14 @@ intricately	O
 illuminated	O
 Persian	O
 books	O
+..	O
 time	O
 well	O
 spent	O
 in	O
 the	O
 Fitzwilliam	O
+.	O
 my	O
 past	O
 was	O
@@ -42783,6 +44843,7 @@ gladly	O
 do	O
 it	O
 again	O
+.	O
 Goin	O
 to	O
 my	O
@@ -42791,6 +44852,7 @@ friends	O
 birthday	O
 party	O
 2day	O
+.	O
 As	O
 u	O
 can	O
@@ -42834,6 +44896,7 @@ get	O
 outta	O
 this	O
 house	O
+.	O
 going	O
 to	O
 talk	O
@@ -42842,6 +44905,7 @@ into	O
 gettinhg	O
 reach	O
 today	O
+.	O
 want	O
 it	O
 in	O
@@ -42878,6 +44942,7 @@ Train	O
 @elainebiss	O
 @TableMatters10	O
 @STALKmyPRETT	O
+...	O
 She	O
 Love	O
 Me	O
@@ -42910,6 +44975,7 @@ Cuhzans	O
 Bestfriend&lt;Ride	O
 Or	O
 Die	O
+.	O
 Fuxx	O
 Widd	O
 IHT	O
@@ -42953,6 +45019,7 @@ to	O
 find	O
 out	O
 why	O
+.	O
 ~Author	O
 Unknown	O
 Beginning	O
@@ -42971,6 +45038,7 @@ it	O
 's	O
 always	O
 sunny	O
+.	O
 Since	O
 I	O
 do	O
@@ -42982,6 +45050,7 @@ and	O
 on	O
 DVD	O
 already	O
+.	O
 Photo	O
 :	O
 Travie	O
@@ -43045,7 +45114,9 @@ to	O
 be	O
 at	O
 home	O
+...	O
 coming	O
+.	O
 RT	O
 If	O
 you	O
@@ -43074,6 +45145,7 @@ happy	O
 it	O
 's	O
 friday	O
+.	O
 #OMGwhatateen	O
 5	O
 Things	O
@@ -43101,6 +45173,7 @@ goes	O
 on	O
 Maternity	O
 leave	O
+.	O
 Please	O
 take	O
 a	O
@@ -43109,6 +45182,7 @@ to	O
 wish	O
 her	O
 well	O
+.	O
 We'll	O
 miss	O
 you	O
@@ -43147,6 +45221,7 @@ by	O
 my	O
 lonesome	O
 tonight	O
+....	O
 #obsessions	O
 RT	O
 @cityroom	O
@@ -43157,6 +45232,7 @@ in	O
 Pictures	O
 for	O
 Sept	O
+.	O
 17	O
 http://nyti.ms/9SCejx	O
 RT	O
@@ -43175,6 +45251,7 @@ end	O
 of	O
 the	O
 day	O
+.	O
 You	O
 tend	O
 to	O
@@ -43186,6 +45263,7 @@ to	O
 your	O
 high	O
 standards	O
+.	O
 Work	O
 330-1130	O
 come	O
@@ -43217,6 +45295,7 @@ Night	O
 and	O
 God	O
 Bless	O
+.	O
 Sleep	O
 well	O
 honey	O
@@ -43270,6 +45349,7 @@ would	O
 be	O
 great	O
 thanks	O
+.	O
 Bouncing	O
 my	O
 ass	O
@@ -43284,6 +45364,7 @@ RT	O
 @stuartwashere	O
 :	O
 Awh	O
+...	O
 @AaronShoutNever	O
 still	O
 manages	O
@@ -43294,6 +45375,7 @@ when	O
 he	O
 's	O
 drunk	O
+.	O
 :	O
 L	O
 RT	O
@@ -43312,6 +45394,7 @@ Club	O
 Gwinnett	O
 3254	O
 Clu	O
+...	O
 http://schmap.it/YoLAXI?a	O
 &lt;	O
 --	O
@@ -43345,6 +45428,7 @@ fuc	O
 I	O
 want	O
 people	O
+.	O
 By	O
 the	O
 time	O
@@ -43377,6 +45461,7 @@ are	O
 weeks	O
 ago	O
 J	O
+...	O
 http://bit.ly/cYGBdz	O
 RT	O
 @KdotDeeZy	O
@@ -43426,6 +45511,7 @@ you	O
 can	O
 form	O
 hypotheses	O
+.	O
 Many	O
 don't	O
 even	O
@@ -43459,6 +45545,7 @@ in	O
 a	O
 bad	O
 situation	O
+.	O
 Thanks	O
 for	O
 being	O
@@ -43467,6 +45554,7 @@ inspiration	O
 to	O
 me	O
 again	O
+.	O
 :)	O
 Did	O
 somebody	O
@@ -43519,6 +45607,7 @@ to	O
 hang	O
 out	O
 with	O
+...	O
 http://bit.ly/aLTo95	O
 Mostly	O
 clear	O
@@ -43529,6 +45618,7 @@ low	O
 (	O
 17	O
 C)	O
+.	O
 Sunny	O
 Saturday	O
 ,	O
@@ -43538,12 +45628,14 @@ near	O
 (	O
 30	O
 C)	O
+.	O
 @justinbieber	O
 When	O
 you	O
 smile	O
 I	O
 smile	O
+...	O
 seriously	O
 I	O
 do	O
@@ -43573,6 +45665,7 @@ from	O
 5-8pm	O
 for	O
 Happy	O
+...	O
 http://fb.me/JLaJCWdu	O
 David	O
 's	O
@@ -43595,8 +45688,10 @@ fine	O
 local	O
 Waldorf	O
 Salad	O
+.	O
 Yes	O
 please	O
+.	O
 @lovable_sin	O
 OMG	O
 OMG	O
@@ -43618,6 +45713,7 @@ wasn't	O
 expecting	O
 them	O
 today	O
+.	O
 OMG	O
 !	O
 Ugh	O
@@ -43636,6 +45732,7 @@ AND	O
 DRIVING	O
 TODAY	O
 LOL	O
+....	O
 Excuses	O
 Excuses	O
 Excuses	O
@@ -43683,6 +45780,7 @@ Sunday	O
 during	O
 his	O
 sta	O
+...	O
 http://bit.ly/d7tM0r	O
 "	O
 You'll	O
@@ -43727,6 +45825,7 @@ tonight	O
 !!!!	O
 Go	O
 us	O
+.	O
 http://bit.ly/b351o9	O
 @Kianerzzz	O
 showering	O
@@ -43741,12 +45840,14 @@ better	O
 when	O
 I'm	O
 sick	O
+.	O
 @leeboardman	O
 and	O
 three	O
 points	O
 on	O
 sunday	O
+.....	O
 na	O
 night	O
 !!	O
@@ -43767,6 +45868,7 @@ Anniversary	O
 with	O
 special	O
 Promotion	O
+.	O
 Buy	O
 1	O
 VPS	O
@@ -43793,6 +45895,7 @@ I	O
 have	O
 known	O
 yrs	O
+.	O
 when	O
 he	O
 spit	O
@@ -43833,6 +45936,7 @@ on	O
 someone	O
 's	O
 wall	O
+.	O
 ;)	O
 hmm	O
 ,	O
@@ -43847,6 +45951,7 @@ I	O
 update	O
 my	O
 Blackberry	O
+....	O
 @erutan	O
 Stanford	O
 's	O
@@ -43868,6 +45973,7 @@ to	O
 provide	O
 rt	O
 now	O
+.	O
 http://bit.ly/9k1L4N	O
 Thanks	O
 to	O
@@ -43884,6 +45990,7 @@ the	O
 last	O
 two	O
 days	O
+.	O
 Ending	O
 with	O
 Herbie	O
@@ -43953,8 +46060,10 @@ Sept	O
 Easy	O
 A	O
 vs	O
+.	O
 Devil	O
 vs	O
+.	O
 A	O
 Woman	O
 ,	O
@@ -43985,11 +46094,13 @@ when	O
 they	O
 call	O
 you	O
+...	O
 No	O
 need	O
 to	O
 say	O
 goodbye	O
+.	O
 RT	O
 @LilTwist	O
 :	O
@@ -44019,6 +46130,7 @@ hole	O
 in	O
 the	O
 show	O
+...	O
 ;)	O
 Def	O
 tune	O
@@ -44028,6 +46140,7 @@ week	O
 if	O
 u	O
 can	O
+.	O
 XX	O
 'RT	O
 @ihatequotes	O
@@ -44083,6 +46196,7 @@ knowing	O
 what	O
 to	O
 say	O
+.	O
 I	O
 just	O
 say	O
@@ -44090,6 +46204,7 @@ I'm	O
 black	O
 and	O
 stuff	O
+.	O
 lol	O
 There	O
 is	O
@@ -44101,6 +46216,7 @@ this	O
 sandwich	O
 !	O
 Ugh	O
+....	O
 next	O
 time	O
 Im	O
@@ -44128,12 +46244,14 @@ call	O
 it	O
 the	O
 NFL)	O
+.	O
 First	O
 draft	O
 choice	O
 :	O
 Brett	O
 Favre	O
+.	O
 @BornThisWayBaby	O
 thankk	O
 yhuu	O
@@ -44185,7 +46303,7 @@ RT	O
 :	O
 Yo	O
 ,	O
-artists	O
+s	O
 !	O
 ASU	O
 Step	O
@@ -44203,6 +46321,7 @@ designs	O
 for	O
 a	O
 Nov	O
+.	O
 show	O
 http://bit.ly/8YLSw4	O
 @cassidyhaley	O
@@ -44210,6 +46329,7 @@ ah	O
 ,	O
 sorry	O
 hun	O
+.	O
 I'm	O
 not	O
 on	O
@@ -44241,10 +46361,12 @@ customer	O
 service	O
 roll	O
 today	O
+.	O
 Good	O
 man	O
 that	O
 Josh	O
+.	O
 RT	O
 @MarioBB9	O
 :	O
@@ -44256,7 +46378,9 @@ and	O
 choose	O
 their	O
 morals	O
+.	O
 Correct	O
+.	O
 Today	O
 I	O
 will	O
@@ -44270,6 +46394,7 @@ not	O
 having	O
 a	O
 proble	O
+...	O
 Man	O
 I	O
 swear	O
@@ -44288,15 +46413,18 @@ not	O
 gettin	O
 worn	O
 today	O
+....	O
 RT	O
 @ArtVanFurniture	O
 :	O
 Mr	O
+.	O
 Van	O
 sure	O
 is	O
 busy	O
 today	O
+.	O
 Here	O
 ,	O
 he	O
@@ -44309,6 +46437,7 @@ a	O
 crew	O
 from	O
 @wilxTV	O
+.	O
 http://twitpic.com/2pb3i4	O
 @PersonalSelena	O
 can	O
@@ -44317,11 +46446,13 @@ follow	O
 me	O
 pretty	O
 please	O
+.	O
 that	O
 would	O
 make	O
 my	O
 day	O
+.	O
 Peace	O
 !	O
 good	O
