@@ -13,7 +13,7 @@ from spacy.util import minibatch, compounding
 
 # New entity labels
 # Specify the new entity labels which you want to add here
-LABEL = ['I-geo', 'B-geo', 'I-art', 'B-art', 'B-tim', 'B-nat', 'B-eve', 'O', 'I-per', 'I-tim', 'I-nat', 'I-eve', 'B-per', 'I-org', 'B-gpe', 'B-org', 'I-gpe']
+LABEL = ['I-geo-loc', 'B-geo-loc']
 
 """
 geo = Geographical Entity
@@ -26,12 +26,12 @@ eve = Event
 nat = Natural Phenomenon
 """
 # Loading training data 
-with open ('Data/ner_corpus_260', 'rb') as fp:
+with open ('trained', 'rb') as fp:
     TRAIN_DATA = pickle.load(fp)
 
+model = 'en_core_web_sm'
+
 @plac.annotations(
-    model=("Model name. Defaults to blank 'en' model.", "option", "m", str),
-    new_model_name=("New model name for model meta.", "option", "nm", str),
     output_dir=("Optional output directory", "option", "o", Path),
     n_iter=("Number of training iterations", "option", "n", int))
 
@@ -71,7 +71,7 @@ def main(model=None, new_model_name='new_model', output_dir=None, n_iter=10):
             print('Losses', losses)
 
     # Test the trained model
-    test_text = 'Gianni Infantino is the president of FIFA.'
+    test_text = 'I live in GA.'
     doc = nlp(test_text)
     print("Entities in '%s'" % test_text)
     for ent in doc.ents:
@@ -92,7 +92,6 @@ def main(model=None, new_model_name='new_model', output_dir=None, n_iter=10):
         doc2 = nlp2(test_text)
         for ent in doc2.ents:
             print(ent.label_, ent.text)
-
 
 if __name__ == '__main__':
     plac.call(main)
