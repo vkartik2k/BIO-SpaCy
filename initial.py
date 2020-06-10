@@ -12,8 +12,15 @@ def tsv_to_json_format(input_path,output_path,unknown_label):
         s=''
         start=0
         for line in f:
+            if line is None :
+                continue
+            if len(line.strip())==0:
+                continue
             if line[0:len(line)-1]!='.\tO':
-                # print(line)
+                if len(line.strip())==0:
+                    continue
+                if len(line.split('\t'))!=2:
+                    continue
                 word,entity=line.split('\t')
                 s+=word+" "
                 entity=entity[:len(entity)-1]
