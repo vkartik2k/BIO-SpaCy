@@ -1,3 +1,4 @@
+
 # Convert .tsv file to dataturks json format. 
 import json
 import logging
@@ -12,15 +13,8 @@ def tsv_to_json_format(input_path,output_path,unknown_label):
         s=''
         start=0
         for line in f:
-            if line is None :
-                continue
-            if len(line.strip())==0:
-                continue
             if line[0:len(line)-1]!='.\tO':
-                if len(line.strip())==0:
-                    continue
-                if len(line.split('\t'))!=2:
-                    continue
+                # print(line)
                 word,entity=line.split('\t')
                 s+=word+" "
                 entity=entity[:len(entity)-1]
@@ -53,7 +47,7 @@ def tsv_to_json_format(input_path,output_path,unknown_label):
                                     l.append(di)
                                     label_dict[ents][j]['text']=''
                             label_list.append(l)                          
-                            
+
                 for entities in label_list:
                     label={}
                     label['label']=[entities[0]]
