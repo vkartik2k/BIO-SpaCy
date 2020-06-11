@@ -10,8 +10,9 @@ def main():
     print("Loading from Trained Data")
     nlp2 = spacy.load(output_dir)
     doc2 = nlp2(test_text)
+    print("Locations in Text : ")
     for ent in doc2.ents:
-        print("Locations in text :", ent.text)
+        print(ent.text ,)
 
 if __name__ == '__main__':
     main()
